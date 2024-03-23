@@ -1,0 +1,25 @@
+dataset_external_id,frequency,use?,dataset_name
+air_quality_kdd_2018,hourly,1,Air Quality KDD 2018
+m4_hourly_miscellaneous,hourly,0,M4 Forecasting Competition Sampled Hourly Series
+pjm_energy_consumption,hourly,0,PJM Hourly Energy Consumption
+seattle_burke_gilman_trail,hourly,0,Seattle Burke Gilman Trail
+daily_stock_prices,daily,0,Daily Stock Prices 
+daily_weather,daily,0,Daily Weather in 26 World Cities
+m4_daily_miscellaneous,daily,0,M4 Forecasting Competition Sampled Daily Series
+online_retail_sales,daily,0,Online Retail Sales
+theme_park_attendance,daily,0,Theme Park Attendance
+avocado_sales,weekly,0,Avocado Sales
+bank_branch_transactions,weekly,0,Bank Branch Transactions
+airline_passengers,monthly,0,Airline Passengers
+atmospheric_co2_concentrations,monthly,0,Atmospheric CO2 Concentrations
+m4_monthly_miscellaneous,monthly,0,M4 Forecasting Competition Sampled Monthly Series
+sunspots,monthly,0,Sunspots
+australian_beer_production,quarterly,0,Australian Beer Production
+m4_quarterly_miscellaneous,quarterly,0,M4 Forecasting Competition Sampled Quarterly Series
+climate_related_disasters,yearly,0,Climate Related Disasters Frequency
+gdp_per_capita_growth,yearly,0,GDP per Capita Change
+m4_yearly_miscellaneous,yearly,0,M4 Forecasting Competition Sampled Yearly Series
+arima_process,other,0,ARIMA Process
+geometric_brownian_motion,other,0,Geometric Brownian Motion
+random_walk,other,0,Random Walk Dataset
+synthetic_multiseasonality,other,0,Multi-Seasonality Timeseries With Covariates

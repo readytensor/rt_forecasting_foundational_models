@@ -1,0 +1,93 @@
+model_name,category,use?
+Naive Seasonal Forecaster in Darts,naïve (baseline),1
+Naive Drift Forecaster in Darts,naïve (baseline),1
+Naive Recent Window Mean Forecaster in Darts,naïve (baseline),1
+Single Exponential Smoothing Forecaster in NumPy,statistical,1
+Double Exponential Smoothing Forecaster in NumPy,statistical,1
+AutoARIMA Forecaster in Darts,statistical,1
+FourTheta Forecaster in Darts,statistical,1
+Theta Forecaster in Darts,statistical,1
+BATS Forecaster in Darts,statistical,1
+TBATS Forecaster in Darts,statistical,1
+XGBoost Forecasting Model,machine-learning,1
+Voting Forecaster in MLForecast,machine-learning,1
+Ridge Forecaster in Skforecast,machine-learning,1
+Random Forest Forecasting Model in Scikit-Learn,machine-learning,1
+Extra Trees Forecasting Model in Scikit-Learn,machine-learning,1
+Temporal Fusion Transformer Forecaster in GluonTS,neural network,1
+MLP Forecaster in NeuralForecast,neural network,1
+NBeats Forecasting Model with Pretraining,neural network,1
+PatchTST Forecaster in GluonTS,neural network,1
+Variational Encoder Forecasting Model with Pretraining,neural network,1
+Amazon Chronos-T5-Tiny Forecasting Model,foundational model,1
+Amazon Chronos-T5-Mini Forecasting Model,foundational model,1
+Amazon Chronos-T5-Small Forecasting Model,foundational model,1
+Amazon Chronos-T5-Base Forecasting Model,foundational model,1
+Amazon Chronos-T5-Large Forecasting Model,foundational model,1
+D-Linear Forecaster in Darts,statistical / machine-learning,0
+DLinear Forecaster in GluonTS,statistical / machine-learning,0
+Facebook Prophet Forecaster,statistical / machine-learning,0
+N-Linear Forecaster in Darts,statistical / machine-learning,0
+Prophet Forecaster in Darts,statistical / machine-learning,0
+Prophet Forecaster in GluonTS,statistical / machine-learning,0
+Catboost Forecaster in Darts,machine-learning,0
+ElasticNet Forecaster in MLForecast,machine-learning,0
+Elasticnet Regression Forecasting Model in Scikit-Learn,machine-learning,0
+Extra Trees Forecaster in MLForecast,machine-learning,0
+Extra Trees Forecaster in Skforecast,machine-learning,0
+K Nearest Neighbors Forecaster in MLForecast,machine-learning,0
+LightGBM Forecaster in Darts,machine-learning,0
+LightGBM Forecaster in MLForecast,machine-learning,0
+LightGBM Forecaster in Skforecast,machine-learning,0
+Linear Regression Forecaster in Darts,machine-learning,0
+Random Forest Forecaster in Darts,machine-learning,0
+Random Forest Forecaster in MLForecast,machine-learning,0
+Random Forest Forecaster in Skforecast,machine-learning,0
+Support Vector Forecaster in MLForecast,machine-learning,0
+XGBoost Forecaster in Darts,machine-learning,0
+XGBoost Forecaster in MLForecast,machine-learning,0
+XGBoost Forecaster in Skforecast,machine-learning,0
+Adaboost Forecaster in Skforecast,machine-learning,0
+Gradient Boosting Forecaster in Skforecast,machine-learning,0
+Autoformer Forecaster in NeuralForecast,neural network,0
+NBEATS Forecaster in Darts,neural network,0
+NBEATS Forecaster in GluonTS,neural network,0
+NBEATS Forecaster in NeuralForecast,neural network,0
+NBeats Forecaster using TensorFlow,neural network,0
+Neural Prophet Forecaster,neural network,0
+NHiTS Forecaster in Darts,neural network,0
+NHiTS Forecaster in NeuralForecast,neural network,0
+PatchMixer,neural network,0
+PatchTST Forecaster in NeuralForecast,neural network,0
+RNN Forecaster in Darts,neural network,0
+RNN forecaster using PyTorch,neural network,0
+Simple FeedForward Forecaster in GluonTS,neural network,0
+Simple MLP Forecasting Model in PyTorch,neural network,0
+Simple MLP Forecasting Model with PreTraining in PyTorch,neural network,0
+TCN Forecaster in NeuralForecast,neural network,0
+Temporal Convolutional Network Forecaster in Darts,neural network,0
+Temporal Fusion Transformer Forecaster in Darts,neural network,0
+TFT Forecaster in NeuralForecast,neural network,0
+Time-series Dense Encoder Forecaster in Darts,neural network,0
+Transformer Forecaster in Darts,neural network,0
+TSMixer,neural network,0
+Variational Encoder Forecasting Model,neural network,0
+WaveNet Forecaster in GluonTS,neural network,0
+CNN forecaster using PyTorch,neural network,0
+CNN Forecasting Model with Pretraining in PyTorch,neural network,0
+DeepAR Forecaster in GluonTS,neural network,0
+Informer Forecaster in NeuralForecast,neural network,0
+LagTST Forecaster in GluonTS,neural network,0
+LSTM Forecaster in NeuralForecast,neural network,0
+MLP Forecaster in MLForecast,neural network,0
+Multi-Layer Perceptron (MLP) Forecasting Model in Scikit-Learn,neural network,0
+PatchMixer Forecaster,neural network,0
+Single Exponential Smoothing Forecaster in NumPy,statistical,0
+Double Exponential Smoothing Forecaster in NumPy,statistical,0
+TSMixer Forecaster,neural network,0
+Naive Drift Forecaster in NumPy,naïve (baseline),0
+Naive Mean Forecaster in Darts,naïve (baseline),0
+Naive Mean Forecaster in NumPy,naïve (baseline),0
+Naive Moving Average Forecaster in Darts,naïve (baseline),0
+Exponential Smoothing Forecaster in Darts,statistical,0
+Fast Fourier Transform Forecaster in Darts,statistical,0
