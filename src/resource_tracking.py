@@ -82,7 +82,7 @@ def create_heatmap():
 
     # Generate the heatmap using white for all the values,
     # but the text will show the dataframe's values
-    plt.figure(figsize=(10, 10))  # Adjust as needed
+    fig = plt.figure(figsize=(10, 10))  # Adjust as needed
     ax = sns.heatmap(
         data_to_display, mask=mask,
         annot=formatted_values.values,
@@ -91,6 +91,13 @@ def create_heatmap():
         linewidths=0.5,
         linecolor='#1db1c1'
     )
+
+    # Using suptitle for the main title above everything
+    fig.suptitle('Execution Times and Memory Usage', fontsize=16, y=0.99)
+
+    # Using title for what you're calling the subtitle, which will now appear just above the heatmap
+    ax.text(0.25, 1.19, "Air Quality-2018 Dataset", ha='center', va='bottom', 
+        transform=ax.transAxes, fontsize=14)
 
     # Move the x-axis labels to the top
     ax.xaxis.tick_top()  # This moves the x-axis labels to the top
@@ -107,9 +114,6 @@ def create_heatmap():
     # ax.vlines(x=np.arange(num_columns+1), ymin=0, ymax=num_rows, color='#1db1c1', linewidth=1.0)
     ax.hlines(y=[num_rows], xmin=0, xmax=num_columns, color='#1db1c1', linewidth=2.0)
     ax.vlines(x=[num_columns], ymin=0, ymax=num_rows, color='#1db1c1', linewidth=2.0)
-
-
-
 
     # Remove the y-axis label
     plt.ylabel('')
