@@ -1,0 +1,313 @@
+model,scenario,num_samples,top_p,top_k,temperature,Dataset Name,Root Mean Squared Error,Root Mean Squared Scaled Error,Mean Absolute Error,Mean Absolute Scaled Error,Symmetric Mean Absolute Percent Error,Weighted Absolute Percent Error,R-Squared
+chronos_t5_large,base_scenario,20,1,50,1,Air Quality KDD 2018,118.478,1.477,95.803,1.53,76.624,90.638,0.251
+chronos_t5_large,base_scenario,20,1,50,1,Airline Passengers,45.452,0.407,41.48,0.485,9.234,8.828,0.935
+chronos_t5_large,base_scenario,20,1,50,1,ARIMA Process,7.552,0.756,5.747,0.746,91.775,59.071,0.432
+chronos_t5_large,base_scenario,20,1,50,1,Atmospheric CO2 Concentrations,2.516,0.194,2.451,0.197,0.588,0.589,0.978
+chronos_t5_large,base_scenario,20,1,50,1,Australian Beer Production,11.048,0.288,9.562,0.322,2.337,2.246,0.921
+chronos_t5_large,base_scenario,20,1,50,1,Avocado Sales,253.546,0.93,206.982,0.926,26.12,24.769,0.157
+chronos_t5_large,base_scenario,20,1,50,1,Bank Branch Transactions,35.813,0.717,29.358,0.695,22.872,22.293,0.564
+chronos_t5_large,base_scenario,20,1,50,1,Climate Related Disasters Frequency,2.582,1.021,2.15,1.009,78.115,68.397,0.314
+chronos_t5_large,base_scenario,20,1,50,1,Daily Stock Prices,1.813,0.991,1.572,0.987,4.205,4.279,0.26
+chronos_t5_large,base_scenario,20,1,50,1,Daily Weather In 26 World Cities,3.289,0.974,2.743,0.974,33.636,30.136,0.246
+chronos_t5_large,base_scenario,20,1,50,1,GDP Per Capita Change,2.177,0.987,1.825,0.988,87.284,85.118,0.281
+chronos_t5_large,base_scenario,20,1,50,1,Geometric Brownian Motion,4.392,1.031,3.862,1.039,3.253,3.288,0.265
+chronos_t5_large,base_scenario,20,1,50,1,M4 Forecasting Competition Sampled Daily Series,372.973,0.615,318.039,0.593,4.958,5.047,0.432
+chronos_t5_large,base_scenario,20,1,50,1,M4 Forecasting Competition Sampled Hourly Series,888.616,0.336,717.941,0.297,10.624,9.744,0.884
+chronos_t5_large,base_scenario,20,1,50,1,M4 Forecasting Competition Sampled Monthly Series,99.04,0.676,86.835,0.688,2.291,2.302,0.637
+chronos_t5_large,base_scenario,20,1,50,1,M4 Forecasting Competition Sampled Quarterly Series,820.899,0.84,685.45,0.818,14.198,14.136,0.295
+chronos_t5_large,base_scenario,20,1,50,1,M4 Forecasting Competition Sampled Yearly Series,140.697,1.113,132.393,1.145,3.356,3.328,0.599
+chronos_t5_large,base_scenario,20,1,50,1,Online Retail Sales,110.587,1.027,62.625,0.94,102.754,75.658,0.135
+chronos_t5_large,base_scenario,20,1,50,1,PJM Hourly Energy Consumption,1.326,0.429,1.127,0.411,8.438,8.54,0.938
+chronos_t5_large,base_scenario,20,1,50,1,Random Walk Dataset,0.911,1.161,0.798,1.18,33.451,33.178,0.356
+chronos_t5_large,base_scenario,20,1,50,1,Seattle Burke Gilman Trail,8.79,0.447,5.644,0.353,66.257,27.608,0.791
+chronos_t5_large,base_scenario,20,1,50,1,Sunspots,58.204,1.045,42.056,0.892,63.938,54.685,0.336
+chronos_t5_large,base_scenario,20,1,50,1,Multi-Seasonality Timeseries With Covariates,2.315,0.45,1.304,0.351,3.494,3.509,0.693
+chronos_t5_large,base_scenario,20,1,50,1,Theme Park Attendance,4520.931,0.454,2612.955,0.316,9.811,10.477,0.82
+chronos_t5_large,num_samples_10,10,1,50,1,Air Quality KDD 2018,113.018,1.4,91.3,1.462,73.939,87.089,0.233
+chronos_t5_large,num_samples_10,10,1,50,1,Airline Passengers,52.102,0.467,47.576,0.556,10.764,10.125,0.92
+chronos_t5_large,num_samples_10,10,1,50,1,ARIMA Process,6.281,0.747,4.73,0.739,91.378,58.917,0.426
+chronos_t5_large,num_samples_10,10,1,50,1,Atmospheric CO2 Concentrations,2.797,0.215,2.729,0.22,0.654,0.656,0.974
+chronos_t5_large,num_samples_10,10,1,50,1,Australian Beer Production,12.69,0.33,9.845,0.332,2.432,2.312,0.91
+chronos_t5_large,num_samples_10,10,1,50,1,Avocado Sales,256.174,0.942,209.249,0.938,26.583,25.119,0.151
+chronos_t5_large,num_samples_10,10,1,50,1,Bank Branch Transactions,37.152,0.745,30.449,0.721,23.688,23.332,0.537
+chronos_t5_large,num_samples_10,10,1,50,1,Climate Related Disasters Frequency,2.481,1.006,2.068,0.99,78.088,63.634,0.279
+chronos_t5_large,num_samples_10,10,1,50,1,Daily Stock Prices,1.697,0.951,1.479,0.944,4.123,4.179,0.191
+chronos_t5_large,num_samples_10,10,1,50,1,Daily Weather In 26 World Cities,3.266,0.988,2.754,0.999,33.866,31.524,0.166
+chronos_t5_large,num_samples_10,10,1,50,1,GDP Per Capita Change,2.15,0.959,1.789,0.951,85.908,83.275,0.297
+chronos_t5_large,num_samples_10,10,1,50,1,Geometric Brownian Motion,4.528,1.109,4.006,1.124,3.402,3.443,0.296
+chronos_t5_large,num_samples_10,10,1,50,1,M4 Forecasting Competition Sampled Daily Series,388.637,0.638,334.526,0.62,5.175,5.268,0.378
+chronos_t5_large,num_samples_10,10,1,50,1,M4 Forecasting Competition Sampled Hourly Series,797.156,0.347,628.581,0.303,10.907,10.048,0.878
+chronos_t5_large,num_samples_10,10,1,50,1,M4 Forecasting Competition Sampled Monthly Series,99.87,0.701,86.581,0.708,2.302,2.316,0.624
+chronos_t5_large,num_samples_10,10,1,50,1,M4 Forecasting Competition Sampled Quarterly Series,855.374,0.889,724.228,0.878,14.926,14.901,0.3
+chronos_t5_large,num_samples_10,10,1,50,1,M4 Forecasting Competition Sampled Yearly Series,169.604,1.359,149.82,1.281,3.624,3.695,0.593
+chronos_t5_large,num_samples_10,10,1,50,1,Online Retail Sales,110.293,1.079,63.908,1.013,106.043,81.882,0.13
+chronos_t5_large,num_samples_10,10,1,50,1,PJM Hourly Energy Consumption,1.489,0.47,1.259,0.445,9.209,9.304,0.918
+chronos_t5_large,num_samples_10,10,1,50,1,Random Walk Dataset,0.909,1.131,0.794,1.144,33.162,34.339,0.333
+chronos_t5_large,num_samples_10,10,1,50,1,Seattle Burke Gilman Trail,8.72,0.424,5.663,0.335,66.832,26.219,0.818
+chronos_t5_large,num_samples_10,10,1,50,1,Sunspots,68.656,1.233,50.619,1.074,78.933,65.819,0.069
+chronos_t5_large,num_samples_10,10,1,50,1,Multi-Seasonality Timeseries With Covariates,2.383,0.473,1.317,0.359,3.557,3.557,0.669
+chronos_t5_large,num_samples_10,10,1,50,1,Theme Park Attendance,4682.124,0.471,2573.436,0.312,9.774,10.319,0.821
+chronos_t5_large,num_samples_30,30,1,50,1,Air Quality KDD 2018,116.849,1.438,95.184,1.503,75.46,89.572,0.285
+chronos_t5_large,num_samples_30,30,1,50,1,Airline Passengers,41.067,0.368,36.874,0.431,8.036,7.847,0.931
+chronos_t5_large,num_samples_30,30,1,50,1,ARIMA Process,6.681,0.732,5.028,0.721,91.166,58.892,0.426
+chronos_t5_large,num_samples_30,30,1,50,1,Atmospheric CO2 Concentrations,2.462,0.189,2.394,0.193,0.574,0.575,0.979
+chronos_t5_large,num_samples_30,30,1,50,1,Australian Beer Production,10.481,0.273,9.201,0.31,2.238,2.161,0.93
+chronos_t5_large,num_samples_30,30,1,50,1,Avocado Sales,243.223,0.938,195.633,0.934,26.359,24.948,0.161
+chronos_t5_large,num_samples_30,30,1,50,1,Bank Branch Transactions,35.574,0.713,29.094,0.685,22.777,22.141,0.572
+chronos_t5_large,num_samples_30,30,1,50,1,Climate Related Disasters Frequency,2.492,1.001,2.081,0.994,76.274,65.193,0.268
+chronos_t5_large,num_samples_30,30,1,50,1,Daily Stock Prices,1.636,0.922,1.402,0.912,4.015,4.077,0.314
+chronos_t5_large,num_samples_30,30,1,50,1,Daily Weather In 26 World Cities,3.205,0.942,2.693,0.946,33.564,29.851,0.2
+chronos_t5_large,num_samples_30,30,1,50,1,GDP Per Capita Change,2.167,0.972,1.81,0.964,86.086,84.055,0.325
+chronos_t5_large,num_samples_30,30,1,50,1,Geometric Brownian Motion,4.246,1.025,3.745,1.032,3.177,3.211,0.258
+chronos_t5_large,num_samples_30,30,1,50,1,M4 Forecasting Competition Sampled Daily Series,363.004,0.583,308.998,0.564,4.759,4.855,0.461
+chronos_t5_large,num_samples_30,30,1,50,1,M4 Forecasting Competition Sampled Hourly Series,897.963,0.336,739.31,0.296,10.595,9.595,0.885
+chronos_t5_large,num_samples_30,30,1,50,1,M4 Forecasting Competition Sampled Monthly Series,103.384,0.709,90.983,0.723,2.347,2.358,0.621
+chronos_t5_large,num_samples_30,30,1,50,1,M4 Forecasting Competition Sampled Quarterly Series,799.394,0.813,670.148,0.795,13.806,13.621,0.318
+chronos_t5_large,num_samples_30,30,1,50,1,M4 Forecasting Competition Sampled Yearly Series,138.49,1.063,130.546,1.103,3.281,3.26,0.612
+chronos_t5_large,num_samples_30,30,1,50,1,Online Retail Sales,109.582,1.032,62.578,0.951,102.446,76.621,0.145
+chronos_t5_large,num_samples_30,30,1,50,1,PJM Hourly Energy Consumption,1.319,0.443,1.113,0.419,8.532,8.67,0.926
+chronos_t5_large,num_samples_30,30,1,50,1,Random Walk Dataset,0.874,1.11,0.766,1.126,31.411,31.949,0.377
+chronos_t5_large,num_samples_30,30,1,50,1,Seattle Burke Gilman Trail,7.883,0.403,5.268,0.325,65.63,25.422,0.828
+chronos_t5_large,num_samples_30,30,1,50,1,Sunspots,52.737,0.947,37.104,0.787,57.005,48.246,0.317
+chronos_t5_large,num_samples_30,30,1,50,1,Multi-Seasonality Timeseries With Covariates,2.31,0.45,1.264,0.343,3.432,3.434,0.698
+chronos_t5_large,num_samples_30,30,1,50,1,Theme Park Attendance,4515.765,0.454,2743.841,0.332,10.271,11.002,0.816
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Air Quality KDD 2018,108.716,1.343,90.246,1.427,75.141,85.179,0.199
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Airline Passengers,40.589,0.364,36.628,0.428,8.066,7.795,0.933
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,ARIMA Process,5.699,0.708,4.353,0.698,93.196,57.739,0.438
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Atmospheric CO2 Concentrations,3.58,0.275,3.474,0.279,0.83,0.835,0.972
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Australian Beer Production,10.756,0.28,9.809,0.33,2.388,2.304,0.921
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Avocado Sales,259.84,0.968,214.351,0.975,27.933,26.136,0.139
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Bank Branch Transactions,35.601,0.719,29.386,0.702,23.118,22.21,0.559
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Climate Related Disasters Frequency,2.911,1.225,2.428,1.187,119.062,75.001,0.119
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Daily Stock Prices,1.73,0.931,1.495,0.933,4.091,4.149,0.074
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Daily Weather In 26 World Cities,3.663,1.112,3.095,1.117,37.898,30.852,0.019
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,GDP Per Capita Change,2.208,0.984,1.852,0.988,92.405,87.276,0.147
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Geometric Brownian Motion,4.161,0.985,3.691,1.001,3.126,3.157,0.079
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,M4 Forecasting Competition Sampled Daily Series,434.232,0.692,370.921,0.664,5.697,5.744,0.08
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,M4 Forecasting Competition Sampled Hourly Series,937.866,0.373,778.973,0.335,11.127,10.606,0.861
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,M4 Forecasting Competition Sampled Monthly Series,99.919,0.663,87.224,0.671,2.243,2.252,0.608
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,M4 Forecasting Competition Sampled Quarterly Series,777.972,0.792,649.858,0.771,13.283,13.143,0.206
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,M4 Forecasting Competition Sampled Yearly Series,139.969,1.13,132.523,1.179,3.438,3.414,0.419
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Online Retail Sales,161.013,1.341,120.942,1.443,178.157,113.18,0.027
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,PJM Hourly Energy Consumption,1.241,0.37,1.055,0.352,7.27,7.343,0.939
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Random Walk Dataset,0.857,1.075,0.751,1.092,33.584,32.32,0.326
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Seattle Burke Gilman Trail,8.527,0.438,5.682,0.357,71.521,27.849,0.796
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Sunspots,54.846,0.985,47.348,1.004,69.925,61.566,0.028
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Multi-Seasonality Timeseries With Covariates,2.195,0.422,1.121,0.301,3.025,3.028,0.703
+chronos_t5_large,temperature_0.0001,20,1,50,0.0001,Theme Park Attendance,4502.41,0.453,2993.86,0.363,11.538,12.004,0.813
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Air Quality KDD 2018,112.609,1.398,93.635,1.482,76.257,88.42,0.172
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Airline Passengers,38.279,0.343,34.374,0.402,7.514,7.315,0.937
+chronos_t5_large,temperature_0.1,20,1,50,0.1,ARIMA Process,5.07,0.716,3.955,0.707,90.664,58.432,0.444
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Atmospheric CO2 Concentrations,3.58,0.275,3.474,0.279,0.83,0.835,0.972
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Australian Beer Production,10.882,0.283,9.885,0.333,2.417,2.322,0.92
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Avocado Sales,258.907,0.974,213.807,0.984,28.108,26.273,0.157
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Bank Branch Transactions,35.61,0.717,29.388,0.701,23.113,22.22,0.558
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Climate Related Disasters Frequency,2.959,1.237,2.5,1.213,121.032,76.276,0.231
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Daily Stock Prices,1.71,0.912,1.479,0.912,3.985,4.034,0.236
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Daily Weather In 26 World Cities,3.574,1.058,3.013,1.058,37.39,30.355,0.095
+chronos_t5_large,temperature_0.1,20,1,50,0.1,GDP Per Capita Change,2.173,0.98,1.82,0.978,87.357,84.55,0.313
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Geometric Brownian Motion,4.21,0.993,3.728,1.005,3.161,3.196,0.35
+chronos_t5_large,temperature_0.1,20,1,50,0.1,M4 Forecasting Competition Sampled Daily Series,424.147,0.679,363.247,0.656,5.498,5.566,0.358
+chronos_t5_large,temperature_0.1,20,1,50,0.1,M4 Forecasting Competition Sampled Hourly Series,975.953,0.374,810.766,0.335,11.065,10.612,0.863
+chronos_t5_large,temperature_0.1,20,1,50,0.1,M4 Forecasting Competition Sampled Monthly Series,99.729,0.661,86.921,0.668,2.24,2.25,0.615
+chronos_t5_large,temperature_0.1,20,1,50,0.1,M4 Forecasting Competition Sampled Quarterly Series,776.1,0.794,649.074,0.774,13.403,13.244,0.289
+chronos_t5_large,temperature_0.1,20,1,50,0.1,M4 Forecasting Competition Sampled Yearly Series,137.961,1.071,130.757,1.122,3.338,3.315,0.579
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Online Retail Sales,155.354,1.364,115.66,1.464,171.866,115.632,0.045
+chronos_t5_large,temperature_0.1,20,1,50,0.1,PJM Hourly Energy Consumption,1.213,0.372,1.029,0.354,7.307,7.398,0.939
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Random Walk Dataset,0.895,1.121,0.786,1.141,33.124,32.864,0.377
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Seattle Burke Gilman Trail,7.774,0.41,5.167,0.329,70.558,25.706,0.815
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Sunspots,55.469,0.996,45.152,0.958,68.268,58.711,0.357
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Multi-Seasonality Timeseries With Covariates,2.19,0.42,1.122,0.3,3.043,3.047,0.703
+chronos_t5_large,temperature_0.1,20,1,50,0.1,Theme Park Attendance,4470.263,0.449,2856.488,0.346,10.895,11.454,0.816
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Air Quality KDD 2018,152.152,1.943,126.96,2.041,87.333,120.941,0.354
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Airline Passengers,40.146,0.36,36.365,0.425,7.995,7.739,0.937
+chronos_t5_large,temperature_0.5,20,1,50,0.5,ARIMA Process,6.033,0.726,4.716,0.717,91.016,58.859,0.435
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Atmospheric CO2 Concentrations,3.241,0.249,3.157,0.254,0.755,0.759,0.976
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Australian Beer Production,10.906,0.284,9.904,0.334,2.418,2.326,0.919
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Avocado Sales,255.352,0.951,210.059,0.954,27.049,25.468,0.16
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Bank Branch Transactions,35.789,0.719,29.344,0.697,22.843,22.203,0.555
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Climate Related Disasters Frequency,2.765,1.121,2.313,1.099,98.025,69.78,0.286
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Daily Stock Prices,1.699,0.899,1.467,0.889,3.925,3.981,0.263
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Daily Weather In 26 World Cities,3.38,0.986,2.822,0.985,33.07,30.233,0.236
+chronos_t5_large,temperature_0.5,20,1,50,0.5,GDP Per Capita Change,2.175,0.986,1.821,0.986,87.155,84.881,0.305
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Geometric Brownian Motion,4.295,1.026,3.8,1.038,3.212,3.249,0.272
+chronos_t5_large,temperature_0.5,20,1,50,0.5,M4 Forecasting Competition Sampled Daily Series,368.408,0.599,314.635,0.578,4.863,4.955,0.477
+chronos_t5_large,temperature_0.5,20,1,50,0.5,M4 Forecasting Competition Sampled Hourly Series,984.759,0.357,805.864,0.32,10.757,10.25,0.872
+chronos_t5_large,temperature_0.5,20,1,50,0.5,M4 Forecasting Competition Sampled Monthly Series,98.396,0.663,85.766,0.671,2.232,2.244,0.638
+chronos_t5_large,temperature_0.5,20,1,50,0.5,M4 Forecasting Competition Sampled Quarterly Series,805.289,0.812,671.313,0.786,13.915,13.766,0.301
+chronos_t5_large,temperature_0.5,20,1,50,0.5,M4 Forecasting Competition Sampled Yearly Series,138.518,1.109,131.336,1.157,3.341,3.323,0.691
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Online Retail Sales,130.038,1.167,88.524,1.164,144.222,92.404,0.112
+chronos_t5_large,temperature_0.5,20,1,50,0.5,PJM Hourly Energy Consumption,1.281,0.384,1.092,0.367,7.596,7.687,0.941
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Random Walk Dataset,0.889,1.12,0.782,1.14,32.864,32.843,0.371
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Seattle Burke Gilman Trail,8.407,0.421,5.435,0.331,69.132,25.889,0.816
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Sunspots,90.065,1.618,66.269,1.405,125.126,86.17,0.183
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Multi-Seasonality Timeseries With Covariates,2.185,0.413,1.103,0.289,2.981,2.983,0.7
+chronos_t5_large,temperature_0.5,20,1,50,0.5,Theme Park Attendance,4456.904,0.448,2634.808,0.319,10.026,10.565,0.825
+chronos_t5_large,top_k_100,20,1,100,1,Air Quality KDD 2018,82.936,0.982,64.128,0.998,66.374,59.729,0.167
+chronos_t5_large,top_k_100,20,1,100,1,Airline Passengers,44.941,0.403,41.063,0.48,9.147,8.739,0.936
+chronos_t5_large,top_k_100,20,1,100,1,ARIMA Process,7.481,0.744,5.677,0.734,90.726,58.874,0.429
+chronos_t5_large,top_k_100,20,1,100,1,Atmospheric CO2 Concentrations,2.516,0.194,2.451,0.197,0.588,0.589,0.978
+chronos_t5_large,top_k_100,20,1,100,1,Australian Beer Production,11.048,0.288,9.562,0.322,2.337,2.246,0.921
+chronos_t5_large,top_k_100,20,1,100,1,Avocado Sales,247.312,0.878,199.251,0.855,23.918,23.037,0.147
+chronos_t5_large,top_k_100,20,1,100,1,Bank Branch Transactions,37.56,0.758,30.872,0.735,23.822,23.365,0.541
+chronos_t5_large,top_k_100,20,1,100,1,Climate Related Disasters Frequency,2.573,1.021,2.147,1.008,77.729,68.311,0.277
+chronos_t5_large,top_k_100,20,1,100,1,Daily Stock Prices,1.813,0.993,1.569,0.988,4.207,4.281,0.258
+chronos_t5_large,top_k_100,20,1,100,1,Daily Weather In 26 World Cities,3.274,0.966,2.73,0.964,33.784,29.628,0.241
+chronos_t5_large,top_k_100,20,1,100,1,GDP Per Capita Change,2.195,1.006,1.844,1.006,87.099,85.681,0.284
+chronos_t5_large,top_k_100,20,1,100,1,Geometric Brownian Motion,4.382,1.029,3.852,1.036,3.246,3.282,0.264
+chronos_t5_large,top_k_100,20,1,100,1,M4 Forecasting Competition Sampled Daily Series,370.292,0.607,315.8,0.586,4.899,4.988,0.425
+chronos_t5_large,top_k_100,20,1,100,1,M4 Forecasting Competition Sampled Hourly Series,888.489,0.336,718.295,0.3,10.899,9.822,0.886
+chronos_t5_large,top_k_100,20,1,100,1,M4 Forecasting Competition Sampled Monthly Series,99.298,0.678,87.091,0.69,2.303,2.315,0.637
+chronos_t5_large,top_k_100,20,1,100,1,M4 Forecasting Competition Sampled Quarterly Series,832.267,0.847,701.138,0.832,14.311,14.242,0.295
+chronos_t5_large,top_k_100,20,1,100,1,M4 Forecasting Competition Sampled Yearly Series,144.3,1.11,135.929,1.143,3.409,3.375,0.591
+chronos_t5_large,top_k_100,20,1,100,1,Online Retail Sales,110.341,1.01,62.201,0.934,99.171,75.559,0.121
+chronos_t5_large,top_k_100,20,1,100,1,PJM Hourly Energy Consumption,1.311,0.423,1.116,0.405,8.33,8.44,0.941
+chronos_t5_large,top_k_100,20,1,100,1,Random Walk Dataset,0.898,1.149,0.786,1.165,32.266,33.382,0.379
+chronos_t5_large,top_k_100,20,1,100,1,Seattle Burke Gilman Trail,8.97,0.461,5.9,0.372,66.641,29.011,0.786
+chronos_t5_large,top_k_100,20,1,100,1,Sunspots,43.669,0.784,32.468,0.689,49.521,42.218,0.425
+chronos_t5_large,top_k_100,20,1,100,1,Multi-Seasonality Timeseries With Covariates,2.37,0.47,1.4,0.382,3.76,3.773,0.689
+chronos_t5_large,top_k_100,20,1,100,1,Theme Park Attendance,4449.563,0.447,2417.729,0.293,9.098,9.694,0.832
+chronos_t5_large,top_k_200,20,1,200,1,Air Quality KDD 2018,89.577,1.071,67.575,1.049,71.616,63.022,0.098
+chronos_t5_large,top_k_200,20,1,200,1,Airline Passengers,44.941,0.403,41.063,0.48,9.147,8.739,0.936
+chronos_t5_large,top_k_200,20,1,200,1,ARIMA Process,7.472,0.742,5.672,0.731,89.831,58.53,0.431
+chronos_t5_large,top_k_200,20,1,200,1,Atmospheric CO2 Concentrations,2.516,0.194,2.451,0.197,0.588,0.589,0.978
+chronos_t5_large,top_k_200,20,1,200,1,Australian Beer Production,11.048,0.288,9.562,0.322,2.337,2.246,0.921
+chronos_t5_large,top_k_200,20,1,200,1,Avocado Sales,240.058,0.85,190.274,0.822,22.649,22.141,0.144
+chronos_t5_large,top_k_200,20,1,200,1,Bank Branch Transactions,37.232,0.76,30.458,0.736,23.765,23.245,0.541
+chronos_t5_large,top_k_200,20,1,200,1,Climate Related Disasters Frequency,2.552,1.02,2.137,1.009,77.757,68.419,0.284
+chronos_t5_large,top_k_200,20,1,200,1,Daily Stock Prices,1.814,0.991,1.569,0.985,4.194,4.268,0.248
+chronos_t5_large,top_k_200,20,1,200,1,Daily Weather In 26 World Cities,3.274,0.965,2.728,0.962,33.74,29.375,0.248
+chronos_t5_large,top_k_200,20,1,200,1,GDP Per Capita Change,2.196,1.01,1.845,1.011,90.349,85.531,0.32
+chronos_t5_large,top_k_200,20,1,200,1,Geometric Brownian Motion,4.381,1.029,3.85,1.036,3.244,3.28,0.264
+chronos_t5_large,top_k_200,20,1,200,1,M4 Forecasting Competition Sampled Daily Series,370.138,0.607,315.553,0.586,4.891,4.98,0.424
+chronos_t5_large,top_k_200,20,1,200,1,M4 Forecasting Competition Sampled Hourly Series,888.83,0.339,718.8,0.303,11.153,10.06,0.884
+chronos_t5_large,top_k_200,20,1,200,1,M4 Forecasting Competition Sampled Monthly Series,99.299,0.678,87.097,0.69,2.304,2.315,0.637
+chronos_t5_large,top_k_200,20,1,200,1,M4 Forecasting Competition Sampled Quarterly Series,819.478,0.855,689.22,0.839,14.137,14.156,0.312
+chronos_t5_large,top_k_200,20,1,200,1,M4 Forecasting Competition Sampled Yearly Series,148.809,1.11,140.56,1.142,3.462,3.415,0.598
+chronos_t5_large,top_k_200,20,1,200,1,Online Retail Sales,109.77,1,61.7,0.927,96.239,74.924,0.117
+chronos_t5_large,top_k_200,20,1,200,1,PJM Hourly Energy Consumption,1.311,0.423,1.116,0.405,8.33,8.44,0.941
+chronos_t5_large,top_k_200,20,1,200,1,Random Walk Dataset,0.914,1.167,0.802,1.186,34.035,34.632,0.385
+chronos_t5_large,top_k_200,20,1,200,1,Seattle Burke Gilman Trail,9.895,0.557,6.609,0.455,68.902,35.461,0.727
+chronos_t5_large,top_k_200,20,1,200,1,Sunspots,35.253,0.633,27.559,0.584,45.198,35.835,0.599
+chronos_t5_large,top_k_200,20,1,200,1,Multi-Seasonality Timeseries With Covariates,2.527,0.509,1.546,0.428,4.118,4.139,0.659
+chronos_t5_large,top_k_200,20,1,200,1,Theme Park Attendance,4449.727,0.447,2420.087,0.293,9.113,9.704,0.831
+chronos_t5_large,top_k_25,20,1,25,1,Air Quality KDD 2018,163.554,2.102,136.155,2.189,88.013,129.836,0.415
+chronos_t5_large,top_k_25,20,1,25,1,Airline Passengers,39.383,0.353,35.596,0.416,7.764,7.575,0.935
+chronos_t5_large,top_k_25,20,1,25,1,ARIMA Process,7.497,0.75,5.699,0.739,91.16,58.923,0.427
+chronos_t5_large,top_k_25,20,1,25,1,Atmospheric CO2 Concentrations,2.516,0.194,2.451,0.197,0.588,0.589,0.978
+chronos_t5_large,top_k_25,20,1,25,1,Australian Beer Production,10.207,0.266,9.106,0.307,2.224,2.139,0.93
+chronos_t5_large,top_k_25,20,1,25,1,Avocado Sales,252.687,0.965,207.183,0.972,27.68,25.959,0.153
+chronos_t5_large,top_k_25,20,1,25,1,Bank Branch Transactions,35.648,0.717,29.336,0.697,23.031,22.309,0.563
+chronos_t5_large,top_k_25,20,1,25,1,Climate Related Disasters Frequency,2.531,1.014,2.106,1.004,78.524,67.352,0.291
+chronos_t5_large,top_k_25,20,1,25,1,Daily Stock Prices,1.804,0.994,1.56,0.988,4.217,4.287,0.249
+chronos_t5_large,top_k_25,20,1,25,1,Daily Weather In 26 World Cities,3.313,0.978,2.775,0.981,34.318,30.941,0.25
+chronos_t5_large,top_k_25,20,1,25,1,GDP Per Capita Change,2.157,0.968,1.802,0.964,86.919,83.782,0.31
+chronos_t5_large,top_k_25,20,1,25,1,Geometric Brownian Motion,4.403,1.029,3.874,1.038,3.261,3.298,0.266
+chronos_t5_large,top_k_25,20,1,25,1,M4 Forecasting Competition Sampled Daily Series,366.415,0.603,312.005,0.58,4.943,5.029,0.432
+chronos_t5_large,top_k_25,20,1,25,1,M4 Forecasting Competition Sampled Hourly Series,887.34,0.336,717.215,0.295,10.437,9.659,0.883
+chronos_t5_large,top_k_25,20,1,25,1,M4 Forecasting Competition Sampled Monthly Series,98.703,0.673,86.369,0.683,2.277,2.289,0.637
+chronos_t5_large,top_k_25,20,1,25,1,M4 Forecasting Competition Sampled Quarterly Series,821.49,0.835,688.902,0.819,14.26,14.151,0.337
+chronos_t5_large,top_k_25,20,1,25,1,M4 Forecasting Competition Sampled Yearly Series,137.485,1.132,129.325,1.169,3.334,3.313,0.614
+chronos_t5_large,top_k_25,20,1,25,1,Online Retail Sales,111.249,1.068,63.735,0.982,111.417,78.703,0.131
+chronos_t5_large,top_k_25,20,1,25,1,PJM Hourly Energy Consumption,1.326,0.429,1.129,0.412,8.469,8.566,0.938
+chronos_t5_large,top_k_25,20,1,25,1,Random Walk Dataset,0.881,1.106,0.774,1.124,33.067,32.078,0.38
+chronos_t5_large,top_k_25,20,1,25,1,Seattle Burke Gilman Trail,8.34,0.42,5.503,0.334,66.229,26.056,0.818
+chronos_t5_large,top_k_25,20,1,25,1,Sunspots,64.438,1.157,49.063,1.041,80.728,63.797,0.086
+chronos_t5_large,top_k_25,20,1,25,1,Multi-Seasonality Timeseries With Covariates,2.284,0.437,1.232,0.325,3.318,3.326,0.69
+chronos_t5_large,top_k_25,20,1,25,1,Theme Park Attendance,4504.228,0.453,2800.411,0.339,10.666,11.229,0.817
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Air Quality KDD 2018,116.419,1.45,96.993,1.536,77.242,91.603,0.168
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Airline Passengers,29.178,0.261,26.067,0.305,5.6,5.547,0.955
+chronos_t5_large,top_p_0.1,20,0.1,50,1,ARIMA Process,5.939,0.747,4.563,0.737,93.072,58.414,0.466
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Atmospheric CO2 Concentrations,3.58,0.275,3.474,0.279,0.83,0.835,0.972
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Australian Beer Production,11.036,0.287,9.486,0.32,2.335,2.228,0.918
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Avocado Sales,242.455,0.936,197.321,0.934,26.439,24.983,0.157
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Bank Branch Transactions,37.512,0.744,30.93,0.722,23.577,23.405,0.549
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Climate Related Disasters Frequency,2.916,1.218,2.438,1.179,116.443,74.706,0.092
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Daily Stock Prices,1.714,0.925,1.483,0.927,4.073,4.129,0.061
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Daily Weather In 26 World Cities,3.666,1.11,3.114,1.122,38.028,31.475,0.018
+chronos_t5_large,top_p_0.1,20,0.1,50,1,GDP Per Capita Change,2.182,0.978,1.82,0.974,85.785,85.208,0.353
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Geometric Brownian Motion,4.127,0.976,3.658,0.988,3.11,3.142,0.02
+chronos_t5_large,top_p_0.1,20,0.1,50,1,M4 Forecasting Competition Sampled Daily Series,442.085,0.696,377.162,0.669,5.664,5.72,0.063
+chronos_t5_large,top_p_0.1,20,0.1,50,1,M4 Forecasting Competition Sampled Hourly Series,933.418,0.374,769.835,0.335,11.072,10.542,0.86
+chronos_t5_large,top_p_0.1,20,0.1,50,1,M4 Forecasting Competition Sampled Monthly Series,101.755,0.683,89.79,0.697,2.3,2.314,0.616
+chronos_t5_large,top_p_0.1,20,0.1,50,1,M4 Forecasting Competition Sampled Quarterly Series,770.539,0.778,643.578,0.758,12.996,12.987,0.265
+chronos_t5_large,top_p_0.1,20,0.1,50,1,M4 Forecasting Competition Sampled Yearly Series,139.553,1.144,132.017,1.191,3.437,3.417,0.395
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Online Retail Sales,154.487,1.332,116.869,1.44,170.74,115.248,0.058
+chronos_t5_large,top_p_0.1,20,0.1,50,1,PJM Hourly Energy Consumption,1.061,0.301,0.901,0.286,5.849,5.961,0.958
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Random Walk Dataset,0.881,1.114,0.771,1.132,32.31,31.502,0.33
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Seattle Burke Gilman Trail,8.131,0.425,5.426,0.347,71.221,27.045,0.81
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Sunspots,54.618,0.981,47.466,1.007,69.771,61.72,0.06
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Multi-Seasonality Timeseries With Covariates,2.206,0.426,1.135,0.307,3.059,3.061,0.703
+chronos_t5_large,top_p_0.1,20,0.1,50,1,Theme Park Attendance,4465.644,0.449,2708.437,0.328,10.24,10.86,0.82
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Air Quality KDD 2018,146.601,1.864,124.098,1.976,85.761,117.447,0.344
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Airline Passengers,34.568,0.31,31.115,0.364,6.771,6.622,0.946
+chronos_t5_large,top_p_0.25,20,0.25,50,1,ARIMA Process,5.755,0.72,4.394,0.711,91.764,58.288,0.451
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Atmospheric CO2 Concentrations,3.58,0.275,3.474,0.279,0.83,0.835,0.972
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Australian Beer Production,11.112,0.289,10.113,0.341,2.464,2.375,0.916
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Avocado Sales,250.424,0.949,205.072,0.951,27.023,25.443,0.15
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Bank Branch Transactions,36.481,0.731,30.097,0.711,23.24,22.685,0.553
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Climate Related Disasters Frequency,2.922,1.219,2.458,1.187,116.741,74.73,0.141
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Daily Stock Prices,1.689,0.915,1.458,0.914,3.974,4.033,0.205
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Daily Weather In 26 World Cities,3.717,1.115,3.149,1.125,37.65,32.463,0.071
+chronos_t5_large,top_p_0.25,20,0.25,50,1,GDP Per Capita Change,2.176,0.976,1.819,0.973,85.97,85.025,0.319
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Geometric Brownian Motion,4.485,1.07,3.989,1.091,3.36,3.413,0.363
+chronos_t5_large,top_p_0.25,20,0.25,50,1,M4 Forecasting Competition Sampled Daily Series,448.764,0.721,388.381,0.701,5.752,5.839,0.156
+chronos_t5_large,top_p_0.25,20,0.25,50,1,M4 Forecasting Competition Sampled Hourly Series,928.098,0.368,765.319,0.328,10.903,10.39,0.862
+chronos_t5_large,top_p_0.25,20,0.25,50,1,M4 Forecasting Competition Sampled Monthly Series,103.022,0.683,91.038,0.699,2.32,2.335,0.617
+chronos_t5_large,top_p_0.25,20,0.25,50,1,M4 Forecasting Competition Sampled Quarterly Series,771.267,0.786,640.655,0.763,13.189,13.115,0.304
+chronos_t5_large,top_p_0.25,20,0.25,50,1,M4 Forecasting Competition Sampled Yearly Series,139.839,1.125,132.451,1.174,3.417,3.396,0.425
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Online Retail Sales,146.738,1.231,107.061,1.28,153.269,101.303,0.104
+chronos_t5_large,top_p_0.25,20,0.25,50,1,PJM Hourly Energy Consumption,1.065,0.311,0.905,0.296,6.047,6.177,0.958
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Random Walk Dataset,0.879,1.103,0.77,1.119,32.365,31.532,0.361
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Seattle Burke Gilman Trail,8.048,0.414,5.278,0.329,70.218,25.74,0.815
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Sunspots,54.617,0.981,46.748,0.991,69.57,60.786,0.18
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Multi-Seasonality Timeseries With Covariates,2.202,0.425,1.136,0.307,3.067,3.07,0.703
+chronos_t5_large,top_p_0.25,20,0.25,50,1,Theme Park Attendance,4454.728,0.448,2805.785,0.34,10.702,11.25,0.819
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Air Quality KDD 2018,162.089,2.075,135.931,2.181,88.549,129.434,0.41
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Airline Passengers,36.355,0.326,32.621,0.381,7.101,6.942,0.942
+chronos_t5_large,top_p_0.5,20,0.5,50,1,ARIMA Process,4.847,0.721,3.866,0.713,91.596,58.686,0.441
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Atmospheric CO2 Concentrations,3.58,0.275,3.474,0.279,0.83,0.835,0.972
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Australian Beer Production,11.356,0.296,10.169,0.343,2.495,2.388,0.913
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Avocado Sales,255.152,0.959,209.522,0.965,27.496,25.809,0.149
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Bank Branch Transactions,35.774,0.718,29.497,0.7,23.047,22.328,0.56
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Climate Related Disasters Frequency,2.893,1.216,2.462,1.198,115.122,74.596,0.297
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Daily Stock Prices,1.791,0.92,1.557,0.917,4.009,4.069,0.338
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Daily Weather In 26 World Cities,3.414,0.989,2.851,0.984,34.045,30.492,0.16
+chronos_t5_large,top_p_0.5,20,0.5,50,1,GDP Per Capita Change,2.178,0.984,1.82,0.982,85.817,85.133,0.325
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Geometric Brownian Motion,4.231,1.004,3.744,1.013,3.172,3.208,0.299
+chronos_t5_large,top_p_0.5,20,0.5,50,1,M4 Forecasting Competition Sampled Daily Series,373.442,0.607,324.316,0.599,4.739,4.896,0.539
+chronos_t5_large,top_p_0.5,20,0.5,50,1,M4 Forecasting Competition Sampled Hourly Series,952.424,0.349,794.204,0.312,10.548,10.013,0.88
+chronos_t5_large,top_p_0.5,20,0.5,50,1,M4 Forecasting Competition Sampled Monthly Series,97.37,0.686,85.282,0.701,2.212,2.226,0.65
+chronos_t5_large,top_p_0.5,20,0.5,50,1,M4 Forecasting Competition Sampled Quarterly Series,777.392,0.79,647.616,0.766,13.499,13.438,0.323
+chronos_t5_large,top_p_0.5,20,0.5,50,1,M4 Forecasting Competition Sampled Yearly Series,136.009,1.085,128.428,1.128,3.275,3.262,0.665
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Online Retail Sales,124.487,1.158,83.362,1.138,140.322,90.245,0.133
+chronos_t5_large,top_p_0.5,20,0.5,50,1,PJM Hourly Energy Consumption,1.23,0.365,1.048,0.348,7.197,7.292,0.944
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Random Walk Dataset,0.881,1.103,0.773,1.12,32.393,32.263,0.377
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Seattle Burke Gilman Trail,8.122,0.415,5.343,0.328,69.749,25.638,0.817
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Sunspots,87.768,1.576,67.976,1.442,121.295,88.39,0.493
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Multi-Seasonality Timeseries With Covariates,2.199,0.42,1.126,0.3,3.046,3.05,0.702
+chronos_t5_large,top_p_0.5,20,0.5,50,1,Theme Park Attendance,4417.889,0.444,2722.065,0.33,10.338,10.915,0.823
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Air Quality KDD 2018,167.225,2.149,139.459,2.244,89.028,133.113,0.377
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Airline Passengers,39.768,0.356,35.586,0.416,7.786,7.573,0.93
+chronos_t5_large,top_p_0.75,20,0.75,50,1,ARIMA Process,6.447,0.729,4.963,0.721,91.17,58.96,0.454
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Atmospheric CO2 Concentrations,3.008,0.232,2.933,0.236,0.702,0.705,0.972
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Australian Beer Production,11.34,0.295,10.779,0.363,2.606,2.532,0.919
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Avocado Sales,249.921,0.955,205.55,0.959,27.201,25.597,0.152
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Bank Branch Transactions,35.939,0.719,29.497,0.695,23.011,22.43,0.559
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Climate Related Disasters Frequency,2.764,1.116,2.326,1.102,96.419,69.458,0.294
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Daily Stock Prices,1.712,0.915,1.484,0.906,4,4.058,0.271
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Daily Weather In 26 World Cities,3.377,0.985,2.828,0.986,33.269,30.806,0.232
+chronos_t5_large,top_p_0.75,20,0.75,50,1,GDP Per Capita Change,2.178,0.983,1.823,0.981,86.274,85.331,0.301
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Geometric Brownian Motion,4.292,1.018,3.806,1.034,3.215,3.254,0.336
+chronos_t5_large,top_p_0.75,20,0.75,50,1,M4 Forecasting Competition Sampled Daily Series,384.673,0.629,332.586,0.616,5.025,5.139,0.49
+chronos_t5_large,top_p_0.75,20,0.75,50,1,M4 Forecasting Competition Sampled Hourly Series,896.516,0.336,736.219,0.295,10.228,9.662,0.885
+chronos_t5_large,top_p_0.75,20,0.75,50,1,M4 Forecasting Competition Sampled Monthly Series,99.541,0.693,87.21,0.705,2.286,2.3,0.632
+chronos_t5_large,top_p_0.75,20,0.75,50,1,M4 Forecasting Competition Sampled Quarterly Series,806.133,0.81,674.888,0.785,13.979,13.887,0.338
+chronos_t5_large,top_p_0.75,20,0.75,50,1,M4 Forecasting Competition Sampled Yearly Series,137.161,1.109,130.151,1.159,3.333,3.316,0.668
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Online Retail Sales,112.775,1.088,67.761,1.015,122.691,81.072,0.158
+chronos_t5_large,top_p_0.75,20,0.75,50,1,PJM Hourly Energy Consumption,1.226,0.378,1.049,0.362,7.48,7.575,0.942
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Random Walk Dataset,0.874,1.097,0.768,1.115,32.423,32.159,0.379
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Seattle Burke Gilman Trail,8.38,0.421,5.478,0.334,68.835,26.04,0.814
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Sunspots,90.224,1.621,66.739,1.415,126.811,86.78,0.242
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Multi-Seasonality Timeseries With Covariates,2.186,0.413,1.103,0.288,2.998,3,0.699
+chronos_t5_large,top_p_0.75,20,0.75,50,1,Theme Park Attendance,4399.105,0.442,2717.349,0.329,10.277,10.896,0.822

@@ -89,8 +89,12 @@ def create_heatmap():
         fmt="",
         cmap=white_cmap, cbar=False,
         linewidths=0.5,
-        linecolor='#1db1c1'
+        linecolor='#1db1c1',
+        annot_kws={"size": 11}
     )
+    ax.set_yticklabels(ax.get_ymajorticklabels(), fontsize = 10)
+    ax.set_xticklabels(ax.get_xmajorticklabels(), fontsize = 10)
+
 
     # Using suptitle for the main title above everything
     fig.suptitle('Execution Times and Memory Usage', fontsize=16, y=0.99)
