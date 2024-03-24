@@ -28,7 +28,7 @@ def create_and_save_docker_image_chart(data, project_name):
     bars = plt.barh(
         data_reversed['model_name'],
         data_reversed['docker_image_size_gb'], color='#1db1c1')
-    plt.xlabel('Image Size (GB)')
+    plt.xlabel('Image Size (GB)', fontsize=12)
     # plt.ylabel('Docker Image')
     plt.title('Docker Image Sizes for Forecasting Models', fontsize=16, pad=10)
     plt.grid(axis='x', linestyle='--', alpha=0.6)
