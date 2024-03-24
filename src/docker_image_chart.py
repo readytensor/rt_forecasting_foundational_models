@@ -30,7 +30,7 @@ def create_and_save_docker_image_chart(data, project_name):
         data_reversed['docker_image_size_gb'], color='#1db1c1')
     plt.xlabel('Image Size (GB)')
     # plt.ylabel('Docker Image')
-    plt.title('Model Image Sizes', fontsize=16, pad=10)
+    plt.title('Docker Image Sizes for Forecasting Models', fontsize=16, pad=10)
     plt.grid(axis='x', linestyle='--', alpha=0.6)
 
     # Find the maximum value for setting the x-axis range
