@@ -68,7 +68,6 @@ def create_heatmap():
     perf_metrics.drop(columns=["dataset_name"], inplace=True)
     # Assuming 'sorted_filtered_metrics_df' is your sorted dataframe
     data_to_display = perf_metrics.set_index('model_name')
-
     
     # Convert the dataframe values to strings with commas for thousands
     formatted_values = data_to_display.map(lambda x: f"{x:,.1f}")
@@ -84,10 +83,12 @@ def create_heatmap():
     # but the text will show the dataframe's values
     fig = plt.figure(figsize=(10, 10))  # Adjust as needed
     ax = sns.heatmap(
-        data_to_display, mask=mask,
+        data_to_display,
+        mask=mask,
         annot=formatted_values.values,
         fmt="",
-        cmap=white_cmap, cbar=False,
+        cmap=white_cmap,
+        cbar=False,
         linewidths=0.5,
         linecolor='#1db1c1',
         annot_kws={"size": 11}

@@ -5,15 +5,15 @@ import matplotlib.pyplot as plt
 import chardet
 import sys
 
-INPUT_DIR = "./../inputs"
-OUTPUT_DIR = "./../outputs"
-SCORES_FNAME = "forecasting-model-scores.csv"
-DATASET_FNAME = "forecasting-benchmark-datasets.csv"
-MODELS_FNAME = "forecasting-models.csv"
-METRIC = "rmsse_fcst"
-
-
-AGGREGATED_SCORES_FNAME = "aggregate-scores.csv"
+from vars import (
+    INPUT_DIR,
+    OUTPUT_DIR,
+    SCORES_FNAME,
+    DATASET_FNAME,
+    MODELS_FNAME,
+    AGGREGATED_SCORES_FNAME,
+    METRIC,
+)
 
 def read_files():
     scores = pd.read_csv(os.path.join(INPUT_DIR, SCORES_FNAME))
