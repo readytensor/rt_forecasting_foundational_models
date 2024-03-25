@@ -77,7 +77,7 @@ def create_and_save_heatmap():
         )
 
     # Save the figure
-    plt.savefig(heatmap_file_path)
+    plt.savefig(heatmap_file_path, dpi=300)
     plt.close()  # Close the plot to prevent it from displaying again
 
 

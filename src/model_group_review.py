@@ -110,7 +110,7 @@ def identify_and_plot_hallucinations(models_scores):
 
     # Save the plot
     chart_fpath = os.path.join(OUTPUT_DIR, f"{model_group_name}_model_scores_by_dataset.png")
-    plt.savefig(chart_fpath)
+    plt.savefig(chart_fpath, dpi=300)
     plt.show()
 
 

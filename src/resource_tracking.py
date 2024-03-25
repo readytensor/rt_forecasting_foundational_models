@@ -124,7 +124,7 @@ def create_heatmap():
     plt.ylabel('')
 
     plt.tight_layout()
-    plt.savefig('./../outputs/model_exec_durations_and_memory.png')
+    plt.savefig('./../outputs/model_exec_durations_and_memory.png', dpi=300)
 
 
 # def create_perf_chart(perf_metrics):

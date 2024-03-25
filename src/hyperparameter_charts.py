@@ -149,7 +149,7 @@ def plot_hyperparameter_impacts(
     plt.tight_layout(pad=1.5)
     
     # Save the figure
-    plt.savefig(f"./../outputs/{project_name}_hyperparameter_impacts.png")
+    plt.savefig(f"./../outputs/{project_name}_hyperparameter_impacts.png", dpi=300)
     plt.show()
 
 

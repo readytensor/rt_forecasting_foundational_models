@@ -59,7 +59,7 @@ def create_and_save_docker_image_chart(data, project_name):
     plt.tight_layout(pad=1.5)
     
     # Save the figure
-    plt.savefig(f"./../outputs/{project_name}_docker_image_sizes.png")
+    plt.savefig(f"./../outputs/{project_name}_docker_image_sizes.png", dpi=300)
     plt.show()
 
 
