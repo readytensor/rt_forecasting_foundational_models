@@ -18,8 +18,8 @@ MLP Forecaster in NeuralForecast,Air Quality KDD 2018,25.81,4.14,83.58,71.05,199
 PatchTST Forecaster in GluonTS,Air Quality KDD 2018,164.7,1.46,118.06,25.95,126.99,33.04
 Variational Encoder Forecasting Model with Pretraining,Air Quality KDD 2018,290.19,25.92,9588.79,82.92,773.11,67.09
 NBeats Forecasting Model with Pretraining,Air Quality KDD 2018,1283.43,26.44,9588.78,82.92,923.97,2.05
-Amazon Chronos-T5-Tiny Forecasting Model,Air Quality KDD 2018,0.02,14.87,1.06,63.76,0.0,633.88
-Amazon Chronos-T5-Mini Forecasting Model,Air Quality KDD 2018,0.02,15.3,1.06,63.76,0.0,1238.13
-Amazon Chronos-T5-Base Forecasting Model,Air Quality KDD 2018,0.02,27.78,1.06,65.38,0.0,5225.55
-Amazon Chronos-T5-Small Forecasting Model,Air Quality KDD 2018,0.01,17.19,1.06,64.17,0.0,1809.26
-Amazon Chronos-T5-Large Forecasting Model,Air Quality KDD 2018,0.02,51.72,1.06,67.81,0.0,13779.09
+Amazon Chronos-T5-Tiny Forecasting Model,Air Quality KDD 2018,0.0,14.87,0.0,63.76,0.0,633.88
+Amazon Chronos-T5-Mini Forecasting Model,Air Quality KDD 2018,0.0,15.3,0.0,63.76,0.0,1238.13
+Amazon Chronos-T5-Base Forecasting Model,Air Quality KDD 2018,0.0,27.78,0.0,65.38,0.0,5225.55
+Amazon Chronos-T5-Small Forecasting Model,Air Quality KDD 2018,0.0,17.19,0.0,64.17,0.0,1809.26
+Amazon Chronos-T5-Large Forecasting Model,Air Quality KDD 2018,0.0,51.72,0.0,67.81,0.0,13779.09
