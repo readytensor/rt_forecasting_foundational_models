@@ -9,7 +9,7 @@ FourTheta Forecaster in Darts,statistical,1
 Theta Forecaster in Darts,statistical,1
 BATS Forecaster in Darts,statistical,1
 TBATS Forecaster in Darts,statistical,1
-XGBoost Forecasting Model,machine-learning,1
+XGBoost Forecasting Model - GPU,machine-learning,1
 Voting Forecaster in MLForecast,machine-learning,1
 Ridge Forecaster in Skforecast,machine-learning,1
 Random Forest Forecasting Model in Scikit-Learn,machine-learning,1

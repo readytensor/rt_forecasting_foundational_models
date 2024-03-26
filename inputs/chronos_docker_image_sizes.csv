@@ -1,26 +1,26 @@
-﻿model_name,docker_image_size_gb,,,,
-Naive Seasonal Forecaster in Darts,6.43,,,,
-Naive Drift Forecaster in Darts,6.43,,,,
-Naive Recent Window Mean Forecaster in Darts,6.43,,,,
-Double Exponential Smoothing Forecaster in NumPy,0.48,,,,
-Single Exponential Smoothing Forecaster in NumPy,0.48,,,,
-AutoARIMA Forecaster in Darts,6.43,,,,
-BATS Forecaster in Darts,6.43,,,,
-FourTheta Forecaster in Darts,6.43,,,,
-Theta Forecaster in Darts,6.43,,,,
-TBATS Forecaster in Darts,6.43,,,,
-XGBoost Forecasting Model,2.65,,,,
-Voting Forecaster in MLForecast,0.63,,,,
-Ridge Forecaster in Skforecast,0.51,,,,
-Random Forest Forecasting Model in Scikit-Learn,0.44,,,,
-Extra Trees Forecasting Model in Scikit-Learn,0.45,,,,
-Temporal Fusion Transformer Forecaster in GluonTS,7.21,,,,
-MLP Forecaster in NeuralForecast,7.93,,,,
-NBeats Forecasting Model with Pretraining,7.34,,,,
-PatchTST Forecaster in GluonTS,7.2,,,,
-Variational Encoder Forecasting Model with Pretraining,7.34,,,,
-Amazon Chronos-T5-Tiny Forecasting Model,15.96,,,,
-Amazon Chronos-T5-Mini Forecasting Model,16.01,,,,
-Amazon Chronos-T5-Base Forecasting Model,16.73,,,,
-Amazon Chronos-T5-Small Forecasting Model,16.11,,,,
-Amazon Chronos-T5-Large Forecasting Model,18.76,,,,
+﻿model_name,docker_image_size_gb
+Naive Seasonal Forecaster in Darts,6.43
+Naive Drift Forecaster in Darts,6.43
+Naive Recent Window Mean Forecaster in Darts,6.43
+Double Exponential Smoothing Forecaster in NumPy,0.48
+Single Exponential Smoothing Forecaster in NumPy,0.48
+AutoARIMA Forecaster in Darts,6.43
+BATS Forecaster in Darts,6.43
+FourTheta Forecaster in Darts,6.43
+Theta Forecaster in Darts,6.43
+TBATS Forecaster in Darts,6.43
+XGBoost Forecasting Model - GPU,2.65
+Voting Forecaster in MLForecast,0.63
+Ridge Forecaster in Skforecast,0.51
+Random Forest Forecasting Model in Scikit-Learn,0.44
+Extra Trees Forecasting Model in Scikit-Learn,0.45
+Temporal Fusion Transformer Forecaster in GluonTS,7.21
+MLP Forecaster in NeuralForecast,7.93
+NBeats Forecasting Model with Pretraining,7.34
+PatchTST Forecaster in GluonTS,7.2
+Variational Encoder Forecasting Model with Pretraining,7.34
+Amazon Chronos-T5-Tiny Forecasting Model,15.96
+Amazon Chronos-T5-Mini Forecasting Model,16.01
+Amazon Chronos-T5-Base Forecasting Model,16.73
+Amazon Chronos-T5-Small Forecasting Model,16.11
+Amazon Chronos-T5-Large Forecasting Model,18.76
