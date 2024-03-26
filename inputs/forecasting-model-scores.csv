@@ -5951,197 +5951,197 @@ model_name,model_external_id,model_category_id,metric_external_id,dataset_id,dat
 "Extra Trees Forecaster in Skforecast",m-zLLyucH5FOBgCFnyJv4dx,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.295
 "Extra Trees Forecaster in Skforecast",m-zLLyucH5FOBgCFnyJv4dx,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.658
 "Extra Trees Forecaster in Skforecast",m-zLLyucH5FOBgCFnyJv4dx,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-101.728
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.255
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,51,air_quality_kdd_2018,NULL,-84.275
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,51,air_quality_kdd_2018,NULL,-1.322
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,51,air_quality_kdd_2018,NULL,-77.145
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,51,air_quality_kdd_2018,NULL,-78.92
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.261
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-89.642
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.069
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,51,air_quality_kdd_2018,NULL,-67.464
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,51,air_quality_kdd_2018,NULL,-1.04
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,51,air_quality_kdd_2018,NULL,-68.295
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,51,air_quality_kdd_2018,NULL,-62.465
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.181
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,52,airline_passengers,NULL,-16.769
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,52,airline_passengers,NULL,-0.15
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,52,airline_passengers,NULL,-13.369
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,52,airline_passengers,NULL,-0.156
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,52,airline_passengers,NULL,-2.9
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,52,airline_passengers,NULL,-2.845
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,52,airline_passengers,NULL,0.968
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,52,airline_passengers,NULL,-13.567
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,52,airline_passengers,NULL,-0.122
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,52,airline_passengers,NULL,-10.72
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,52,airline_passengers,NULL,-0.125
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,52,airline_passengers,NULL,-2.349
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,52,airline_passengers,NULL,-2.281
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,52,airline_passengers,NULL,0.97
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,53,arima_process,NULL,-15.803
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,53,arima_process,NULL,-1.039
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,53,arima_process,NULL,-14.07
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,53,arima_process,NULL,-1.027
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,53,arima_process,NULL,-113.969
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,53,arima_process,NULL,-80.288
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,53,arima_process,NULL,0.237
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,53,arima_process,NULL,-17.182
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,53,arima_process,NULL,-0.959
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,53,arima_process,NULL,-15.533
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,53,arima_process,NULL,-0.946
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,53,arima_process,NULL,-111.998
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,53,arima_process,NULL,-77.069
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,53,arima_process,NULL,0.287
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,54,australian_beer_production,NULL,-10.976
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,54,australian_beer_production,NULL,-0.286
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,54,australian_beer_production,NULL,-10.002
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,54,australian_beer_production,NULL,-0.337
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,54,australian_beer_production,NULL,-2.335
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,54,australian_beer_production,NULL,-2.349
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,54,australian_beer_production,NULL,0.937
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,54,australian_beer_production,NULL,-9.865
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,54,australian_beer_production,NULL,-0.257
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,54,australian_beer_production,NULL,-8.74
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,54,australian_beer_production,NULL,-0.294
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,54,australian_beer_production,NULL,-2.041
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,54,australian_beer_production,NULL,-2.053
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,54,australian_beer_production,NULL,0.951
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,55,bank_branch_transactions,NULL,-36.989
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.783
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,55,bank_branch_transactions,NULL,-31.3
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,55,bank_branch_transactions,NULL,-0.779
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,55,bank_branch_transactions,NULL,-25.756
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,55,bank_branch_transactions,NULL,-23.541
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,55,bank_branch_transactions,NULL,-37.058
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.775
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,55,bank_branch_transactions,NULL,-31.466
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,55,bank_branch_transactions,NULL,-0.772
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,55,bank_branch_transactions,NULL,-25.696
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,55,bank_branch_transactions,NULL,-23.802
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,55,bank_branch_transactions,NULL,0.581
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,56,daily_stock_prices,NULL,-1.777
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.97
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,56,daily_stock_prices,NULL,-1.53
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,56,daily_stock_prices,NULL,-0.97
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,56,daily_stock_prices,NULL,-4.204
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,56,daily_stock_prices,NULL,-4.238
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,56,daily_stock_prices,NULL,0.111
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,56,daily_stock_prices,NULL,-1.751
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.958
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,56,daily_stock_prices,NULL,-1.504
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,56,daily_stock_prices,NULL,-0.952
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,56,daily_stock_prices,NULL,-4.15
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,56,daily_stock_prices,NULL,-4.186
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,56,daily_stock_prices,NULL,0.106
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,57,daily_weather,NULL,-3.583
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,57,daily_weather,NULL,-1.062
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,57,daily_weather,NULL,-3.074
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,57,daily_weather,NULL,-1.083
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,57,daily_weather,NULL,-41.991
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,57,daily_weather,NULL,-31.87
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,57,daily_weather,NULL,0.115
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,57,daily_weather,NULL,-3.63
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,57,daily_weather,NULL,-1.068
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,57,daily_weather,NULL,-3.122
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,57,daily_weather,NULL,-1.091
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,57,daily_weather,NULL,-43.412
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,57,daily_weather,NULL,-32.766
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,57,daily_weather,NULL,0.136
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.098
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.974
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.59
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.98
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.021
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.031
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,59,geometric_brownian_motion,NULL,0.161
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.056
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.965
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.552
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.97
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,59,geometric_brownian_motion,NULL,-2.973
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,59,geometric_brownian_motion,NULL,-2.977
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,59,geometric_brownian_motion,NULL,0.17
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1283.338
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.503
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1065.176
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.484
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-25.318
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-20.149
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.819
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1394.598
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.526
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1194.255
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.509
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-25.793
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-19.268
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.8
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-130.767
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-130.598
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.131
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-123.438
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-123.214
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.19
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.197
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.171
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.709
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.189
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.163
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.711
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,64,online_retail_sales,NULL,-103.148
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,64,online_retail_sales,NULL,-1.02
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,64,online_retail_sales,NULL,-60.594
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,64,online_retail_sales,NULL,-1.038
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,64,online_retail_sales,NULL,-96.56
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,64,online_retail_sales,NULL,-86.599
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,64,online_retail_sales,NULL,0.159
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,64,online_retail_sales,NULL,-100.724
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,64,online_retail_sales,NULL,-0.99
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,64,online_retail_sales,NULL,-60.049
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,64,online_retail_sales,NULL,-1.007
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,64,online_retail_sales,NULL,-95.367
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,64,online_retail_sales,NULL,-83.49
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,64,online_retail_sales,NULL,0.17
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,68,theme_park_attendance,NULL,-4715.815
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.474
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,68,theme_park_attendance,NULL,-3255.635
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,68,theme_park_attendance,NULL,-0.394
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,68,theme_park_attendance,NULL,-12.881
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,68,theme_park_attendance,NULL,-13.054
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,68,theme_park_attendance,NULL,0.805
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,68,theme_park_attendance,NULL,-4732.789
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.476
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,68,theme_park_attendance,NULL,-3387.198
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,68,theme_park_attendance,NULL,-0.41
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,68,theme_park_attendance,NULL,-13.646
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,68,theme_park_attendance,NULL,-13.582
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,68,theme_park_attendance,NULL,0.802
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.58
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.045
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.441
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.035
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.106
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.106
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.567
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.044
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.414
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.033
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.099
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.099
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.99
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,71,avocado_sales,NULL,-252.938
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,71,avocado_sales,NULL,-0.91
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,71,avocado_sales,NULL,-182.616
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,71,avocado_sales,NULL,-0.914
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,71,avocado_sales,NULL,-25.275
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,71,avocado_sales,NULL,-24.23
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,71,avocado_sales,NULL,0.122
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,71,avocado_sales,NULL,-286.988
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,71,avocado_sales,NULL,-0.95
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,71,avocado_sales,NULL,-221.265
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,71,avocado_sales,NULL,-0.97
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,71,avocado_sales,NULL,-27.294
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,71,avocado_sales,NULL,-25.575
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,71,avocado_sales,NULL,0.129
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,72,climate_related_disasters,NULL,-2.522
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,72,climate_related_disasters,NULL,-0.983
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,72,climate_related_disasters,NULL,-2.108
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,72,climate_related_disasters,NULL,-0.978
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,72,climate_related_disasters,NULL,-76.937
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,72,climate_related_disasters,NULL,-68.16
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,72,climate_related_disasters,NULL,-2.528
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,72,climate_related_disasters,NULL,-0.989
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,72,climate_related_disasters,NULL,-2.11
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,72,climate_related_disasters,NULL,-0.983
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,72,climate_related_disasters,NULL,-77.459
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,72,climate_related_disasters,NULL,-68.238
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,72,climate_related_disasters,NULL,0.255
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.396
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.022
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.037
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.02
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.036
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.021
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,73,gdp_per_capita_growth,NULL,-94.192
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,73,gdp_per_capita_growth,NULL,-93.123
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.34
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,73,gdp_per_capita_growth,NULL,-94.171
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,73,gdp_per_capita_growth,NULL,-93.324
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.346
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-396.123
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.626
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-339.884
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.606
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.08
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-5.152
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.365
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-384.865
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.618
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-329.725
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.599
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.044
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-5.106
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.387
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-157.254
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.914
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-136.607
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.908
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.812
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.679
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-156.424
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.912
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-136.001
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.909
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.827
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.683
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.44
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-763.705
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.791
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-638.037
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.768
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-12.495
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-12.996
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.325
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-773.877
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.789
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-648.606
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.765
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-12.634
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-13.194
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.327
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.267
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.768
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.897
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.728
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,77,pjm_energy_consumption,NULL,-15.21
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,77,pjm_energy_consumption,NULL,-14.998
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,77,pjm_energy_consumption,NULL,0.766
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.184
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.724
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.843
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.695
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,77,pjm_energy_consumption,NULL,-14.616
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,77,pjm_energy_consumption,NULL,-14.35
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,77,pjm_energy_consumption,NULL,0.789
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,78,random_walk,NULL,-0.845
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,78,random_walk,NULL,-1.078
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,78,random_walk,NULL,-0.738
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,78,random_walk,NULL,-1.099
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,78,random_walk,NULL,-33.98
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,78,random_walk,NULL,-33.862
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,78,random_walk,NULL,0.221
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,78,random_walk,NULL,-0.835
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,78,random_walk,NULL,-1.063
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,78,random_walk,NULL,-0.729
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,78,random_walk,NULL,-1.082
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,78,random_walk,NULL,-34.142
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,78,random_walk,NULL,-33.125
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,78,random_walk,NULL,0.209
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-11.49
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-11.154
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.524
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-8.361
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.45
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-79.317
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-35.322
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.747
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-8.021
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.44
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-79.041
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-34.587
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.754
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,80,sunspots,NULL,-46.087
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,80,sunspots,NULL,-0.828
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,80,sunspots,NULL,-33.671
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,80,sunspots,NULL,-0.714
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,80,sunspots,NULL,-49.76
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,80,sunspots,NULL,-43.782
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,80,sunspots,NULL,0.649
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,80,sunspots,NULL,-42.412
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,80,sunspots,NULL,-0.762
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,80,sunspots,NULL,-32.887
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,80,sunspots,NULL,-0.697
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,80,sunspots,NULL,-51.01
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,80,sunspots,NULL,-42.763
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,80,sunspots,NULL,0.642
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.746
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.597
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.928
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.562
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,81,synthetic_multiseasonality,NULL,-5.332
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,81,synthetic_multiseasonality,NULL,-5.321
-"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.644
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.705
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.586
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.871
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.544
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,smape_fcst,81,synthetic_multiseasonality,NULL,-5.173
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,wape_fcst,81,synthetic_multiseasonality,NULL,-5.162
+"NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.667
 "NBeats Forecasting Model with Pretraining",m-21Dp61qNSBq77hD4VMZOk,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
 "Adaboost Forecaster in Skforecast",m-NOcgTUj8xYTwjEkNcMdmP,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-102.714
 "Adaboost Forecaster in Skforecast",m-NOcgTUj8xYTwjEkNcMdmP,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.264
@@ -7103,197 +7103,197 @@ TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,smape_fcst,81,synthetic_multiseasonality,NULL,
 TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,wape_fcst,81,synthetic_multiseasonality,NULL,-2.588
 TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.954
 TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-85.433
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.017
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,51,air_quality_kdd_2018,NULL,-66.332
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,51,air_quality_kdd_2018,NULL,-1.024
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,51,air_quality_kdd_2018,NULL,-66.202
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,51,air_quality_kdd_2018,NULL,-61.784
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.221
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-92.941
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.119
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,51,air_quality_kdd_2018,NULL,-72.912
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,51,air_quality_kdd_2018,NULL,-1.126
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,51,air_quality_kdd_2018,NULL,-68.835
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,51,air_quality_kdd_2018,NULL,-68.166
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.154
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,52,airline_passengers,NULL,-21.084
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,52,airline_passengers,NULL,-0.189
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,52,airline_passengers,NULL,-17.103
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,52,airline_passengers,NULL,-0.2
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,52,airline_passengers,NULL,-3.639
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,52,airline_passengers,NULL,-3.64
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,52,airline_passengers,NULL,0.948
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,52,airline_passengers,NULL,-38.354
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,52,airline_passengers,NULL,-0.344
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,52,airline_passengers,NULL,-33.893
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,52,airline_passengers,NULL,-0.396
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,52,airline_passengers,NULL,-6.962
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,52,airline_passengers,NULL,-7.213
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,52,airline_passengers,NULL,0.952
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,53,arima_process,NULL,-5.962
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,53,arima_process,NULL,-0.787
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,53,arima_process,NULL,-5.153
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,53,arima_process,NULL,-0.777
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,53,arima_process,NULL,-106.627
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,53,arima_process,NULL,-66.138
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,53,arima_process,NULL,0.402
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,53,arima_process,NULL,-9.854
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,53,arima_process,NULL,-0.803
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,53,arima_process,NULL,-8.091
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,53,arima_process,NULL,-0.793
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,53,arima_process,NULL,-105.038
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,53,arima_process,NULL,-66.43
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,53,arima_process,NULL,0.367
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,54,australian_beer_production,NULL,-12.002
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,54,australian_beer_production,NULL,-0.312
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,54,australian_beer_production,NULL,-10.003
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,54,australian_beer_production,NULL,-0.337
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,54,australian_beer_production,NULL,-2.422
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,54,australian_beer_production,NULL,-2.35
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,54,australian_beer_production,NULL,0.933
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,54,australian_beer_production,NULL,-9.507
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,54,australian_beer_production,NULL,-0.247
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,54,australian_beer_production,NULL,-8.134
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,54,australian_beer_production,NULL,-0.274
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,54,australian_beer_production,NULL,-1.973
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,54,australian_beer_production,NULL,-1.911
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,54,australian_beer_production,NULL,0.955
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,55,bank_branch_transactions,NULL,-35.398
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.751
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,55,bank_branch_transactions,NULL,-29.514
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,55,bank_branch_transactions,NULL,-0.738
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,55,bank_branch_transactions,NULL,-23.178
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,55,bank_branch_transactions,NULL,-22.277
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,55,bank_branch_transactions,NULL,0.54
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,55,bank_branch_transactions,NULL,-38.519
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.795
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,55,bank_branch_transactions,NULL,-32.576
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,55,bank_branch_transactions,NULL,-0.788
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,55,bank_branch_transactions,NULL,-24.56
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,55,bank_branch_transactions,NULL,-24.225
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,55,bank_branch_transactions,NULL,0.539
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,56,daily_stock_prices,NULL,-1.776
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.962
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,56,daily_stock_prices,NULL,-1.541
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,56,daily_stock_prices,NULL,-0.965
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,56,daily_stock_prices,NULL,-4.281
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,56,daily_stock_prices,NULL,-4.319
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,56,daily_stock_prices,NULL,0.304
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,56,daily_stock_prices,NULL,-1.735
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.939
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,56,daily_stock_prices,NULL,-1.505
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,56,daily_stock_prices,NULL,-0.941
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,56,daily_stock_prices,NULL,-4.194
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,56,daily_stock_prices,NULL,-4.245
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,56,daily_stock_prices,NULL,0.272
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,57,daily_weather,NULL,-3.604
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,57,daily_weather,NULL,-1.042
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,57,daily_weather,NULL,-3.13
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,57,daily_weather,NULL,-1.074
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,57,daily_weather,NULL,-42.677
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,57,daily_weather,NULL,-34.768
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,57,daily_weather,NULL,0.221
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,57,daily_weather,NULL,-3.381
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,57,daily_weather,NULL,-1.015
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,57,daily_weather,NULL,-2.919
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,57,daily_weather,NULL,-1.041
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,57,daily_weather,NULL,-42.182
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,57,daily_weather,NULL,-31.738
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,57,daily_weather,NULL,0.243
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,59,geometric_brownian_motion,NULL,-3.994
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.955
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.5
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.961
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,59,geometric_brownian_motion,NULL,-2.946
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,59,geometric_brownian_motion,NULL,-2.954
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,59,geometric_brownian_motion,NULL,0.174
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.01
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.969
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.508
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.98
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,59,geometric_brownian_motion,NULL,-2.938
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,59,geometric_brownian_motion,NULL,-2.949
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,59,geometric_brownian_motion,NULL,0.258
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1274.293
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.457
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1087.676
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.436
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-21.396
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-16.659
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.83
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1118.627
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.471
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-951.255
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.44
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-21.386
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-17.129
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.808
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-127.428
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.116
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-119.927
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.17
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.169
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.144
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.722
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-127.095
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.109
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-118.835
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.159
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.113
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.094
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.724
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,64,online_retail_sales,NULL,-99.24
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,64,online_retail_sales,NULL,-0.968
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,64,online_retail_sales,NULL,-57.434
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,64,online_retail_sales,NULL,-0.977
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,64,online_retail_sales,NULL,-92.964
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,64,online_retail_sales,NULL,-80.606
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,64,online_retail_sales,NULL,0.155
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,64,online_retail_sales,NULL,-98.951
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,64,online_retail_sales,NULL,-0.976
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,64,online_retail_sales,NULL,-57.962
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,64,online_retail_sales,NULL,-0.995
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,64,online_retail_sales,NULL,-95.008
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,64,online_retail_sales,NULL,-81.881
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,64,online_retail_sales,NULL,0.164
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,68,theme_park_attendance,NULL,-5146.133
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.517
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,68,theme_park_attendance,NULL,-2984.782
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,68,theme_park_attendance,NULL,-0.361
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,68,theme_park_attendance,NULL,-11.523
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,68,theme_park_attendance,NULL,-11.968
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,68,theme_park_attendance,NULL,0.812
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,68,theme_park_attendance,NULL,-5071.107
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.51
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,68,theme_park_attendance,NULL,-3018.59
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,68,theme_park_attendance,NULL,-0.366
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,68,theme_park_attendance,NULL,-11.682
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,68,theme_park_attendance,NULL,-12.104
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,68,theme_park_attendance,NULL,0.818
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-1.454
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.112
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-1.323
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.106
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.319
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.318
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.97
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.911
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.07
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.763
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.061
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.184
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.183
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.969
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,71,avocado_sales,NULL,-277.526
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,71,avocado_sales,NULL,-0.972
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,71,avocado_sales,NULL,-209.349
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,71,avocado_sales,NULL,-0.995
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,71,avocado_sales,NULL,-27.837
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,71,avocado_sales,NULL,-26.645
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,71,avocado_sales,NULL,0.13
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,71,avocado_sales,NULL,-261.746
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,71,avocado_sales,NULL,-0.905
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,71,avocado_sales,NULL,-190.173
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,71,avocado_sales,NULL,-0.904
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,71,avocado_sales,NULL,-25.097
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,71,avocado_sales,NULL,-24.265
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,71,avocado_sales,NULL,0.135
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,72,climate_related_disasters,NULL,-2.846
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.086
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,72,climate_related_disasters,NULL,-2.435
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,72,climate_related_disasters,NULL,-1.09
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,72,climate_related_disasters,NULL,-84.266
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,72,climate_related_disasters,NULL,-74.156
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,72,climate_related_disasters,NULL,0.293
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,72,climate_related_disasters,NULL,-2.904
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.068
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,72,climate_related_disasters,NULL,-2.516
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,72,climate_related_disasters,NULL,-1.071
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,72,climate_related_disasters,NULL,-82.447
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,72,climate_related_disasters,NULL,-73.969
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,72,climate_related_disasters,NULL,0.254
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.251
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-0.958
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,73,gdp_per_capita_growth,NULL,-1.909
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,73,gdp_per_capita_growth,NULL,-0.964
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,73,gdp_per_capita_growth,NULL,-91.883
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,73,gdp_per_capita_growth,NULL,-86.927
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.253
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.327
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.001
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,73,gdp_per_capita_growth,NULL,-1.986
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.019
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,73,gdp_per_capita_growth,NULL,-91.366
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,73,gdp_per_capita_growth,NULL,-92.127
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.255
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-437.362
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.708
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-383.699
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.704
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.699
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-5.787
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.504
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-444.617
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.718
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-389.901
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.714
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.73
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-5.822
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.499
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-146.552
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.868
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-129.034
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.871
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.487
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.428
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.497
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-141.49
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.873
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-121.405
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.864
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.357
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.293
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.503
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-841.544
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.902
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-721.641
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.906
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-14.139
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-15.128
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.287
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-823.407
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.861
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-705.013
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.856
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-13.756
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-14.688
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.275
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,77,pjm_energy_consumption,NULL,-1.87
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.702
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.557
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.665
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,77,pjm_energy_consumption,NULL,-13.898
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,77,pjm_energy_consumption,NULL,-13.73
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,77,pjm_energy_consumption,NULL,0.801
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,77,pjm_energy_consumption,NULL,-1.776
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.686
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.427
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.636
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,77,pjm_energy_consumption,NULL,-13.231
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,77,pjm_energy_consumption,NULL,-13.163
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,77,pjm_energy_consumption,NULL,0.753
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,78,random_walk,NULL,-0.862
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,78,random_walk,NULL,-1.096
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,78,random_walk,NULL,-0.759
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,78,random_walk,NULL,-1.125
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,78,random_walk,NULL,-33.725
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,78,random_walk,NULL,-33.764
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,78,random_walk,NULL,0.179
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,78,random_walk,NULL,-0.846
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,78,random_walk,NULL,-1.075
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,78,random_walk,NULL,-0.742
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,78,random_walk,NULL,-1.101
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,78,random_walk,NULL,-33.304
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,78,random_walk,NULL,-33.363
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,78,random_walk,NULL,0.205
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-9.873
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.509
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-7.018
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.422
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-73.787
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-32.994
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.742
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-9.451
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.48
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-6.807
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.41
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-72.53
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-32
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.772
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,80,sunspots,NULL,-52.945
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,80,sunspots,NULL,-0.951
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,80,sunspots,NULL,-39.917
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,80,sunspots,NULL,-0.847
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,80,sunspots,NULL,-69.077
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,80,sunspots,NULL,-51.904
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,80,sunspots,NULL,0.693
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,80,sunspots,NULL,-53.664
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,80,sunspots,NULL,-0.964
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,80,sunspots,NULL,-40.082
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,80,sunspots,NULL,-0.85
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,80,sunspots,NULL,-62.283
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,80,sunspots,NULL,-52.118
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,80,sunspots,NULL,0.771
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.497
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.539
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.587
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.464
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,81,synthetic_multiseasonality,NULL,-4.324
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.322
-"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.685
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.535
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.549
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.635
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.475
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,smape_fcst,81,synthetic_multiseasonality,NULL,-4.474
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.474
+"Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.682
 "Variational Encoder Forecasting Model with Pretraining",m-APsLqSs6AFh93dDj0SYpE,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
 "DeepAR Forecaster in GluonTS",m-QMn5dCbqIdEOdQI7n5tEh,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-104.597
 "DeepAR Forecaster in GluonTS",m-QMn5dCbqIdEOdQI7n5tEh,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.315
@@ -8831,198 +8831,198 @@ TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,perc_pred_missing_fcst,81,synthetic_multiseaso
 "Random Forest Forecasting Model in Scikit-Learn",m-gIwXo4NIcbfEACzLA98kQ,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.425
 "Random Forest Forecasting Model in Scikit-Learn",m-gIwXo4NIcbfEACzLA98kQ,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.665
 "Random Forest Forecasting Model in Scikit-Learn",m-gIwXo4NIcbfEACzLA98kQ,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-79.73
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.94
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,51,air_quality_kdd_2018,NULL,-59.93
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.929
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,51,air_quality_kdd_2018,NULL,-58.797
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,51,air_quality_kdd_2018,NULL,-55.954
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.162
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,52,airline_passengers,NULL,-32.091
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,52,airline_passengers,NULL,-0.288
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,52,airline_passengers,NULL,-27.952
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,52,airline_passengers,NULL,-0.327
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,52,airline_passengers,NULL,-5.803
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,52,airline_passengers,NULL,-5.949
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,52,airline_passengers,NULL,0.926
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,53,arima_process,NULL,-10.258
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,53,arima_process,NULL,-0.891
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,53,arima_process,NULL,-8.75
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,53,arima_process,NULL,-0.877
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,53,arima_process,NULL,-95.853
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,53,arima_process,NULL,-71.551
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,53,arima_process,NULL,0.327
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,54,australian_beer_production,NULL,-18.581
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,54,australian_beer_production,NULL,-0.484
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,54,australian_beer_production,NULL,-16.526
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,54,australian_beer_production,NULL,-0.557
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,54,australian_beer_production,NULL,-3.93
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,54,australian_beer_production,NULL,-3.882
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,54,australian_beer_production,NULL,0.817
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,55,bank_branch_transactions,NULL,-41.107
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.824
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,55,bank_branch_transactions,NULL,-33.38
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,55,bank_branch_transactions,NULL,-0.786
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,55,bank_branch_transactions,NULL,-25.697
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,55,bank_branch_transactions,NULL,-26.056
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,55,bank_branch_transactions,NULL,0.448
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,56,daily_stock_prices,NULL,-1.821
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.997
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,56,daily_stock_prices,NULL,-1.54
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,56,daily_stock_prices,NULL,-0.957
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,56,daily_stock_prices,NULL,-4.159
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,56,daily_stock_prices,NULL,-4.191
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,56,daily_stock_prices,NULL,0.083
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,57,daily_weather,NULL,-3.464
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,57,daily_weather,NULL,-1.034
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,57,daily_weather,NULL,-2.834
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,57,daily_weather,NULL,-1.005
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,57,daily_weather,NULL,-36.686
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,57,daily_weather,NULL,-30.387
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,57,daily_weather,NULL,0.072
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.125
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.994
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.586
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.995
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.001
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.013
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,59,geometric_brownian_motion,NULL,0.135
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1473.164
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.442
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1212.112
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.402
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-16.721
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-14.054
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.84
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-136.293
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.253
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-128.489
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.306
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.278
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.25
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.601
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,64,online_retail_sales,NULL,-113.551
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,64,online_retail_sales,NULL,-1.197
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,64,online_retail_sales,NULL,-70.52
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,64,online_retail_sales,NULL,-1.19
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,64,online_retail_sales,NULL,-103.079
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,64,online_retail_sales,NULL,-98.089
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,64,online_retail_sales,NULL,0.099
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,68,theme_park_attendance,NULL,-4864.676
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.489
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,68,theme_park_attendance,NULL,-3134.065
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,68,theme_park_attendance,NULL,-0.38
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,68,theme_park_attendance,NULL,-12.885
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,68,theme_park_attendance,NULL,-12.567
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,68,theme_park_attendance,NULL,0.802
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.873
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.067
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.738
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.059
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.177
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.177
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.971
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,71,avocado_sales,NULL,-244.741
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,71,avocado_sales,NULL,-0.915
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,71,avocado_sales,NULL,-176.493
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,71,avocado_sales,NULL,-0.9
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,71,avocado_sales,NULL,-23.605
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,71,avocado_sales,NULL,-23.649
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,71,avocado_sales,NULL,0.103
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,72,climate_related_disasters,NULL,-2.684
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.036
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,72,climate_related_disasters,NULL,-2.198
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,72,climate_related_disasters,NULL,-1.009
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,72,climate_related_disasters,NULL,-78.325
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,72,climate_related_disasters,NULL,-69.538
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,72,climate_related_disasters,NULL,0.263
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.742
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.272
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.281
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.214
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,73,gdp_per_capita_growth,NULL,-101.901
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,73,gdp_per_capita_growth,NULL,-105.795
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.241
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-513.633
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.889
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-414.451
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.789
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-6.077
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-6.228
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.108
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-148.723
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.924
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-120.959
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.867
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.296
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.23
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.316
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-968.034
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.989
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-804.532
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.952
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-14.933
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-16.141
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.21
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.061
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.702
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.705
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.659
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,77,pjm_energy_consumption,NULL,-13.627
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,77,pjm_energy_consumption,NULL,-13.621
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,77,pjm_energy_consumption,NULL,0.798
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,78,random_walk,NULL,-0.86
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,78,random_walk,NULL,-1.086
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,78,random_walk,NULL,-0.744
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,78,random_walk,NULL,-1.093
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,78,random_walk,NULL,-34.055
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,78,random_walk,NULL,-33.877
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,78,random_walk,NULL,0.101
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-9.8
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.487
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-6.332
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.385
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-71.792
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-30.087
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.768
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,80,sunspots,NULL,-34.211
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,80,sunspots,NULL,-0.614
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,80,sunspots,NULL,-25.432
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,80,sunspots,NULL,-0.539
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,80,sunspots,NULL,-44.85
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,80,sunspots,NULL,-33.069
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,80,sunspots,NULL,0.719
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.389
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.523
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.568
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.454
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,81,synthetic_multiseasonality,NULL,-4.303
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.294
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.673
-"XGBoost Forecasting Model",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-79.73
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.94
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,51,air_quality_kdd_2018,NULL,-59.93
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.929
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,51,air_quality_kdd_2018,NULL,-58.797
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,51,air_quality_kdd_2018,NULL,-55.954
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.162
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,52,airline_passengers,NULL,-32.091
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,52,airline_passengers,NULL,-0.288
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,52,airline_passengers,NULL,-27.952
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,52,airline_passengers,NULL,-0.327
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,52,airline_passengers,NULL,-5.803
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,52,airline_passengers,NULL,-5.949
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,52,airline_passengers,NULL,0.926
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,53,arima_process,NULL,-10.258
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,53,arima_process,NULL,-0.891
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,53,arima_process,NULL,-8.75
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,53,arima_process,NULL,-0.877
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,53,arima_process,NULL,-95.853
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,53,arima_process,NULL,-71.551
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,53,arima_process,NULL,0.327
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,54,australian_beer_production,NULL,-18.581
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,54,australian_beer_production,NULL,-0.484
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,54,australian_beer_production,NULL,-16.526
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,54,australian_beer_production,NULL,-0.557
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,54,australian_beer_production,NULL,-3.93
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,54,australian_beer_production,NULL,-3.882
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,54,australian_beer_production,NULL,0.817
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,55,bank_branch_transactions,NULL,-41.107
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.824
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,55,bank_branch_transactions,NULL,-33.38
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,55,bank_branch_transactions,NULL,-0.786
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,55,bank_branch_transactions,NULL,-25.697
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,55,bank_branch_transactions,NULL,-26.056
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,55,bank_branch_transactions,NULL,0.448
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,56,daily_stock_prices,NULL,-1.821
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.997
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,56,daily_stock_prices,NULL,-1.54
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,56,daily_stock_prices,NULL,-0.957
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,56,daily_stock_prices,NULL,-4.159
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,56,daily_stock_prices,NULL,-4.191
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,56,daily_stock_prices,NULL,0.083
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,57,daily_weather,NULL,-3.464
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,57,daily_weather,NULL,-1.034
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,57,daily_weather,NULL,-2.834
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,57,daily_weather,NULL,-1.005
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,57,daily_weather,NULL,-36.686
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,57,daily_weather,NULL,-30.387
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,57,daily_weather,NULL,0.072
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.125
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.994
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.586
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.995
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.001
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.013
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,59,geometric_brownian_motion,NULL,0.135
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1473.164
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.442
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1212.112
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.402
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-16.721
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-14.054
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.84
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-136.293
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.253
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-128.489
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.306
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.278
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.25
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.601
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,64,online_retail_sales,NULL,-113.551
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,64,online_retail_sales,NULL,-1.197
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,64,online_retail_sales,NULL,-70.52
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,64,online_retail_sales,NULL,-1.19
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,64,online_retail_sales,NULL,-103.079
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,64,online_retail_sales,NULL,-98.089
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,64,online_retail_sales,NULL,0.099
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,68,theme_park_attendance,NULL,-4864.676
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.489
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,68,theme_park_attendance,NULL,-3134.065
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,68,theme_park_attendance,NULL,-0.38
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,68,theme_park_attendance,NULL,-12.885
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,68,theme_park_attendance,NULL,-12.567
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,68,theme_park_attendance,NULL,0.802
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.873
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.067
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.738
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.059
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.177
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.177
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.971
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,71,avocado_sales,NULL,-244.741
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,71,avocado_sales,NULL,-0.915
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,71,avocado_sales,NULL,-176.493
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,71,avocado_sales,NULL,-0.9
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,71,avocado_sales,NULL,-23.605
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,71,avocado_sales,NULL,-23.649
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,71,avocado_sales,NULL,0.103
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,72,climate_related_disasters,NULL,-2.684
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.036
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,72,climate_related_disasters,NULL,-2.198
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,72,climate_related_disasters,NULL,-1.009
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,72,climate_related_disasters,NULL,-78.325
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,72,climate_related_disasters,NULL,-69.538
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,72,climate_related_disasters,NULL,0.263
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.742
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.272
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.281
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.214
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,73,gdp_per_capita_growth,NULL,-101.901
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,73,gdp_per_capita_growth,NULL,-105.795
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.241
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-513.633
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.889
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-414.451
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.789
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-6.077
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-6.228
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.108
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-148.723
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.924
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-120.959
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.867
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.296
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.23
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.316
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-968.034
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.989
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-804.532
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.952
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-14.933
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-16.141
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.21
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.061
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.702
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.705
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.659
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,77,pjm_energy_consumption,NULL,-13.627
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,77,pjm_energy_consumption,NULL,-13.621
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,77,pjm_energy_consumption,NULL,0.798
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,78,random_walk,NULL,-0.86
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,78,random_walk,NULL,-1.086
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,78,random_walk,NULL,-0.744
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,78,random_walk,NULL,-1.093
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,78,random_walk,NULL,-34.055
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,78,random_walk,NULL,-33.877
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,78,random_walk,NULL,0.101
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-9.8
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.487
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-6.332
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.385
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-71.792
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-30.087
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.768
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,80,sunspots,NULL,-34.211
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,80,sunspots,NULL,-0.614
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,80,sunspots,NULL,-25.432
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,80,sunspots,NULL,-0.539
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,80,sunspots,NULL,-44.85
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,80,sunspots,NULL,-33.069
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,80,sunspots,NULL,0.719
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.389
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.523
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.568
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.454
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,smape_fcst,81,synthetic_multiseasonality,NULL,-4.303
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.294
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.673
+"XGBoost Forecasting Model - GPU",m-72SQXxaK0Zpxt7RAJcZvF,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
 "Extra Trees Forecasting Model in Scikit-Learn",m-QmKHzmDIJal9Q4lxLCEnG,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-75.684
 "Extra Trees Forecasting Model in Scikit-Learn",m-QmKHzmDIJal9Q4lxLCEnG,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.887
 "Extra Trees Forecasting Model in Scikit-Learn",m-QmKHzmDIJal9Q4lxLCEnG,5,mae_fcst,51,air_quality_kdd_2018,NULL,-58.563
@@ -9983,197 +9983,197 @@ TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,perc_pred_missing_fcst,81,synthetic_multiseaso
 "Prophet Forecaster in GluonTS",m-73yPMFyyLQ9uf8ND5RH5m,5,wape_fcst,81,synthetic_multiseasonality,NULL,-8.793
 "Prophet Forecaster in GluonTS",m-73yPMFyyLQ9uf8ND5RH5m,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.262
 "Prophet Forecaster in GluonTS",m-73yPMFyyLQ9uf8ND5RH5m,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-94.331
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.137
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,51,air_quality_kdd_2018,NULL,-78.694
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,51,air_quality_kdd_2018,NULL,-1.225
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,51,air_quality_kdd_2018,NULL,-70.066
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,51,air_quality_kdd_2018,NULL,-74.563
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.15
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-79.948
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.937
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,51,air_quality_kdd_2018,NULL,-63.852
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.979
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,51,air_quality_kdd_2018,NULL,-61.57
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,51,air_quality_kdd_2018,NULL,-60.17
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.385
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,52,airline_passengers,NULL,-59.902
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,52,airline_passengers,NULL,-0.537
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,52,airline_passengers,NULL,-53.931
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,52,airline_passengers,NULL,-0.63
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,52,airline_passengers,NULL,-10.888
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,52,airline_passengers,NULL,-11.477
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,52,airline_passengers,NULL,0.846
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,52,airline_passengers,NULL,-60.651
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,52,airline_passengers,NULL,-0.543
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,52,airline_passengers,NULL,-55.348
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,52,airline_passengers,NULL,-0.647
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,52,airline_passengers,NULL,-11.245
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,52,airline_passengers,NULL,-11.779
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,52,airline_passengers,NULL,0.896
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,53,arima_process,NULL,-12.457
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,53,arima_process,NULL,-1.016
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,53,arima_process,NULL,-11.374
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,53,arima_process,NULL,-1.014
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,53,arima_process,NULL,-129.996
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,53,arima_process,NULL,-84.857
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,53,arima_process,NULL,0.113
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,53,arima_process,NULL,-9.125
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,53,arima_process,NULL,-1.006
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,53,arima_process,NULL,-7.896
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,53,arima_process,NULL,-1
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,53,arima_process,NULL,-129.502
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,53,arima_process,NULL,-85.675
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,53,arima_process,NULL,0.112
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,54,australian_beer_production,NULL,-11.588
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,54,australian_beer_production,NULL,-0.302
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,54,australian_beer_production,NULL,-10.468
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,54,australian_beer_production,NULL,-0.353
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,54,australian_beer_production,NULL,-2.455
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,54,australian_beer_production,NULL,-2.459
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,54,australian_beer_production,NULL,0.935
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,54,australian_beer_production,NULL,-10.266
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,54,australian_beer_production,NULL,-0.267
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,54,australian_beer_production,NULL,-9.395
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,54,australian_beer_production,NULL,-0.316
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,54,australian_beer_production,NULL,-2.203
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,54,australian_beer_production,NULL,-2.207
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,54,australian_beer_production,NULL,0.951
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,55,bank_branch_transactions,NULL,-44.378
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.882
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,55,bank_branch_transactions,NULL,-38.349
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,55,bank_branch_transactions,NULL,-0.893
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,55,bank_branch_transactions,NULL,-28.182
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,55,bank_branch_transactions,NULL,-29.974
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,55,bank_branch_transactions,NULL,0.459
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,55,bank_branch_transactions,NULL,-43.911
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.867
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,55,bank_branch_transactions,NULL,-37.905
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,55,bank_branch_transactions,NULL,-0.88
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,55,bank_branch_transactions,NULL,-27.902
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,55,bank_branch_transactions,NULL,-29.741
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,55,bank_branch_transactions,NULL,0.486
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,56,daily_stock_prices,NULL,-1.771
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.989
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,56,daily_stock_prices,NULL,-1.531
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,56,daily_stock_prices,NULL,-0.991
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,56,daily_stock_prices,NULL,-4.325
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,56,daily_stock_prices,NULL,-4.405
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,56,daily_stock_prices,NULL,0.383
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,56,daily_stock_prices,NULL,-1.863
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,56,daily_stock_prices,NULL,-1.053
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,56,daily_stock_prices,NULL,-1.633
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,56,daily_stock_prices,NULL,-1.082
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,56,daily_stock_prices,NULL,-4.631
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,56,daily_stock_prices,NULL,-4.676
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,56,daily_stock_prices,NULL,0.317
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,57,daily_weather,NULL,-3.712
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,57,daily_weather,NULL,-1.209
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,57,daily_weather,NULL,-3.194
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,57,daily_weather,NULL,-1.257
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,57,daily_weather,NULL,-35.003
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,57,daily_weather,NULL,-29.998
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,57,daily_weather,NULL,0.247
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,57,daily_weather,NULL,-4.171
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,57,daily_weather,NULL,-1.384
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,57,daily_weather,NULL,-3.692
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,57,daily_weather,NULL,-1.48
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,57,daily_weather,NULL,-41.241
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,57,daily_weather,NULL,-39.177
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,57,daily_weather,NULL,0.179
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.288
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.973
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.806
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.982
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.236
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.269
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,59,geometric_brownian_motion,NULL,0.398
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.167
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.949
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.68
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.954
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.116
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.139
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,59,geometric_brownian_motion,NULL,0.385
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1772.037
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.544
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1493.076
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.497
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-21.9
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-17.896
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1934.037
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.542
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1700.947
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.502
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-24.543
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-18.545
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.797
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-128.896
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.056
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-120.413
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.085
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.104
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.086
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-129.184
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.143
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-119.287
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.165
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.137
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.133
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.712
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,64,online_retail_sales,NULL,-107.475
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,64,online_retail_sales,NULL,-0.978
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,64,online_retail_sales,NULL,-57.841
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,64,online_retail_sales,NULL,-0.864
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,64,online_retail_sales,NULL,-95.204
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,64,online_retail_sales,NULL,-69.526
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,64,online_retail_sales,NULL,0.197
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,64,online_retail_sales,NULL,-106.951
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,64,online_retail_sales,NULL,-0.972
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,64,online_retail_sales,NULL,-57.731
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,64,online_retail_sales,NULL,-0.861
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,64,online_retail_sales,NULL,-94.017
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,64,online_retail_sales,NULL,-69.322
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,64,online_retail_sales,NULL,0.2
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,68,theme_park_attendance,NULL,-3587.428
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.361
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,68,theme_park_attendance,NULL,-2667.518
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,68,theme_park_attendance,NULL,-0.323
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,68,theme_park_attendance,NULL,-11.168
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,68,theme_park_attendance,NULL,-10.696
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,68,theme_park_attendance,NULL,0.913
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,68,theme_park_attendance,NULL,-3830.656
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.385
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,68,theme_park_attendance,NULL,-2818.348
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,68,theme_park_attendance,NULL,-0.341
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,68,theme_park_attendance,NULL,-11.796
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,68,theme_park_attendance,NULL,-11.301
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,68,theme_park_attendance,NULL,0.908
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.738
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.057
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.624
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.05
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.15
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.15
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.985
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.702
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.054
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.595
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.048
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.143
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.143
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.984
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,71,avocado_sales,NULL,-187.32
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,71,avocado_sales,NULL,-0.765
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,71,avocado_sales,NULL,-155.374
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,71,avocado_sales,NULL,-185.883
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,71,avocado_sales,NULL,-0.764
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,71,avocado_sales,NULL,-153.593
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,71,avocado_sales,NULL,-0.771
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,71,avocado_sales,NULL,-20.08
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,71,avocado_sales,NULL,-20.299
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,71,avocado_sales,NULL,0.33
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,71,avocado_sales,NULL,-20.055
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,71,avocado_sales,NULL,-20.26
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,71,avocado_sales,NULL,0.323
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,72,climate_related_disasters,NULL,-2.763
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.163
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,72,climate_related_disasters,NULL,-2.214
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,72,climate_related_disasters,NULL,-1.116
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,72,climate_related_disasters,NULL,-93.156
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,72,climate_related_disasters,NULL,-71.803
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,72,climate_related_disasters,NULL,0.356
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,72,climate_related_disasters,NULL,-2.786
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.162
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,72,climate_related_disasters,NULL,-2.261
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,72,climate_related_disasters,NULL,-1.128
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,72,climate_related_disasters,NULL,-90.931
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,72,climate_related_disasters,NULL,-72.495
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,72,climate_related_disasters,NULL,0.267
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.347
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-0.99
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,73,gdp_per_capita_growth,NULL,-1.99
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,73,gdp_per_capita_growth,NULL,-0.984
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,73,gdp_per_capita_growth,NULL,-87.87
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,73,gdp_per_capita_growth,NULL,-92.333
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.357
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.331
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-0.98
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,73,gdp_per_capita_growth,NULL,-1.969
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,73,gdp_per_capita_growth,NULL,-0.974
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,73,gdp_per_capita_growth,NULL,-86.53
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,73,gdp_per_capita_growth,NULL,-90.998
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.353
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-436.324
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.722
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-378.503
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.704
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.961
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-6.046
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.513
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-430.034
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.706
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-374.766
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.694
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.891
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-5.969
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.515
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-141.72
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.87
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-118.531
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.856
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.063
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.059
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.313
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-143.676
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.897
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-121.171
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.902
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.22
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.206
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.325
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-913.877
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.927
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-789.25
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.928
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-14.757
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-16.003
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.27
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-934.903
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.945
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-809.287
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.94
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-15.279
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-16.588
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.325
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,77,pjm_energy_consumption,NULL,-3.009
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-1.093
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,77,pjm_energy_consumption,NULL,-2.573
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,77,pjm_energy_consumption,NULL,-1.069
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,77,pjm_energy_consumption,NULL,-23.416
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,77,pjm_energy_consumption,NULL,-21.864
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,77,pjm_energy_consumption,NULL,0.516
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.786
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-1.026
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,77,pjm_energy_consumption,NULL,-2.414
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,77,pjm_energy_consumption,NULL,-1.013
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,77,pjm_energy_consumption,NULL,-22.158
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,77,pjm_energy_consumption,NULL,-20.774
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,77,pjm_energy_consumption,NULL,0.619
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,78,random_walk,NULL,-0.872
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,78,random_walk,NULL,-1.096
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,78,random_walk,NULL,-0.767
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,78,random_walk,NULL,-1.124
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,78,random_walk,NULL,-36.177
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,78,random_walk,NULL,-35.319
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,78,random_walk,NULL,0.274
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,78,random_walk,NULL,-0.831
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,78,random_walk,NULL,-1.035
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,78,random_walk,NULL,-0.727
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,78,random_walk,NULL,-1.052
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,78,random_walk,NULL,-34.269
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,78,random_walk,NULL,-33.621
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,78,random_walk,NULL,0.199
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-8.947
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.456
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-6.28
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.385
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-67.838
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-30.08
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.801
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-7.914
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.407
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-5.426
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.335
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-66.803
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-26.157
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.831
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,80,sunspots,NULL,-28.418
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,80,sunspots,NULL,-0.51
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,80,sunspots,NULL,-20.27
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,80,sunspots,NULL,-0.43
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,80,sunspots,NULL,-31.792
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,80,sunspots,NULL,-26.357
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,80,sunspots,NULL,0.784
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,80,sunspots,NULL,-51.351
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,80,sunspots,NULL,-0.922
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,80,sunspots,NULL,-35.954
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,80,sunspots,NULL,-0.763
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,80,sunspots,NULL,-39.458
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,80,sunspots,NULL,-46.751
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,80,sunspots,NULL,0.847
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-1.755
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.374
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.065
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.315
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,81,synthetic_multiseasonality,NULL,-2.844
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,81,synthetic_multiseasonality,NULL,-2.877
-"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.849
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-1.661
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.352
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.053
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.309
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,smape_fcst,81,synthetic_multiseasonality,NULL,-2.735
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,wape_fcst,81,synthetic_multiseasonality,NULL,-2.797
+"Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.857
 "Temporal Fusion Transformer Forecaster in GluonTS",m-yUSywqxHOHO9ZQEczV4FV,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
 "Simple MLP Forecasting Model with PreTraining in PyTorch",m-84ms7UIe3Q22jeIVxbCCU,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-94.581
 "Simple MLP Forecasting Model with PreTraining in PyTorch",m-84ms7UIe3Q22jeIVxbCCU,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.14

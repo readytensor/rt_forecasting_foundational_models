@@ -1,6 +1,6 @@
-from aggregate_results import aggregate_and_save_scores
-from create_heatmap_chart import create_and_save_heatmap
-from resource_tracking import create_durations_and_memory_chart
+from f1_aggregate_results import aggregate_and_save_scores
+from f2_create_heatmap_chart import create_and_save_heatmap
+from f3_resource_tracking import create_durations_and_memory_chart
 
 
 def run_analysis():
