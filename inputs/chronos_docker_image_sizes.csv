@@ -16,9 +16,9 @@ Random Forest Forecasting Model in Scikit-Learn,0.44
 Extra Trees Forecasting Model in Scikit-Learn,0.45
 Temporal Fusion Transformer Forecaster in GluonTS,7.21
 MLP Forecaster in NeuralForecast,7.93
-NBeats Forecasting Model with Pretraining,7.34
 PatchTST Forecaster in GluonTS,7.2
 Variational Encoder Forecasting Model with Pretraining,7.34
+NBeats Forecasting Model with Pretraining,7.34
 Amazon Chronos-T5-Tiny Forecasting Model,15.96
 Amazon Chronos-T5-Mini Forecasting Model,16.01
 Amazon Chronos-T5-Base Forecasting Model,16.73
