@@ -2,15 +2,13 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import chardet
-import sys
+import os
 
 
-def create_and_save_heatmap():
+def create_and_save_heatmap(project):
 
     # Load the benchmarking results
-    file_path = './../outputs/aggregate-scores.csv'
-    heatmap_file_path = './../outputs/forecasting_models_heatmap.png'
-
+    file_path = f"./../outputs/{project}/{project}-aggregate-scores.csv"
 
     with open(file_path, 'rb') as file:
         result = chardet.detect(file.read())
@@ -77,10 +75,18 @@ def create_and_save_heatmap():
         )
 
     # Save the figure
+    heatmap_file_path = os.path.join(
+        "./../outputs/",
+        project,
+        f"{project}_forecasting_models_heatmap.png"
+
+    )
     plt.savefig(heatmap_file_path, dpi=300)
     plt.close()  # Close the plot to prevent it from displaying again
 
 
 
 if __name__ == "__main__":
-    create_and_save_heatmap()
+    project = "chronos"
+    # project = "moirai"
+    create_and_save_heatmap(project)

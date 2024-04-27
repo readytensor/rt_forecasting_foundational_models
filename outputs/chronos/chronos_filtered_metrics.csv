@@ -1,0 +1,31 @@
+model_name,dataset_name,benchmark_name,train_time_seconds,predict_time_seconds,train_cpu_memory_mb,predict_cpu_memory_mb,train_gpu_memory_mb,predict_gpu_memory_mb
+Naive Seasonal Forecaster in Darts,Air Quality KDD 2018,adding loading data to tracked t,9.6,0.31,63.97,4.83,0.0,0.0
+Naive Drift Forecaster in Darts,Air Quality KDD 2018,adding loading data to tracked t,9.61,0.29,63.95,4.81,0.0,0.0
+Naive Recent Window Mean Forecaster in Darts,Air Quality KDD 2018,adding loading data to tracked t,9.34,0.25,58.5,2.0,0.0,0.0
+Double Exponential Smoothing Forecaster in NumPy,Air Quality KDD 2018,adding loading data to tracked t,8.87,0.14,58.51,1.49,0.0,0.0
+Single Exponential Smoothing Forecaster in NumPy,Air Quality KDD 2018,adding loading data to tracked t,8.91,0.13,58.5,1.49,0.0,0.0
+AutoARIMA Forecaster in Darts,Air Quality KDD 2018,Run new benchmark with after mac,1846.3,2.96,946.55,518.51,0.0,0.0
+FourTheta Forecaster in Darts,Air Quality KDD 2018,removed gpu memory,11.16,5.08,63.92,4.26,0.0,0.0
+Theta Forecaster in Darts,Air Quality KDD 2018,removed gpu memory,11.17,5.08,61.32,4.26,0.0,0.0
+BATS Forecaster in Darts,Air Quality KDD 2018,with njobs set,1785.89,0.39,59.89,4.12,0.0,0.0
+TBATS Forecaster in Darts,Air Quality KDD 2018,Add njobs,4558.47,0.4,59.95,3.93,0.0,0.0
+XGBoost Forecasting Model - GPU,Air Quality KDD 2018,final updated tracker,116.0,9.88,8686.3,92.39,690.19,256.19
+Voting Forecaster in MLForecast,Air Quality KDD 2018,With fixed performance tracking ,515.39,109.16,274.3,59.18,0.0,0.0
+Ridge Forecaster in Skforecast,Air Quality KDD 2018,update alpha and resource tracki,9.82,1.11,374.23,2.23,0.0,0.0
+Random Forest Forecasting Model in Scikit-Learn,Air Quality KDD 2018,With performance tracking 3,612.88,12.65,9590.82,92.37,0.0,0.0
+Extra Trees Forecasting Model in Scikit-Learn,Air Quality KDD 2018,With performance tracking 3,117.36,12.1,9590.81,92.36,0.0,0.0
+Temporal Fusion Transformer Forecaster in GluonTS,Air Quality KDD 2018,Final benchmark 2,186.05,1.86,88.57,17.6,316.14,69.96
+DeepAR Forecaster in GluonTS,,,,,,,,
+MLP Forecaster in NeuralForecast,Air Quality KDD 2018,Final benchmark 1,25.81,4.14,83.58,71.05,1995.3,13.95
+PatchTST Forecaster in GluonTS,Air Quality KDD 2018,Final benchmark 1,164.7,1.46,118.06,25.95,126.99,33.04
+Variational Encoder Forecasting Model with Pretraining,Air Quality KDD 2018,Final benchmark 7,290.19,25.92,9588.79,82.92,773.11,67.09
+NBeats Forecasting Model with Pretraining,Air Quality KDD 2018,Final benchmark 5,1283.43,26.44,9588.78,82.92,923.97,2.05
+CNN forecaster using PyTorch,,,,,,,,
+PatchMixer Forecaster,,,,,,,,
+Moirai Small Forecaster,,,,,,,,
+Amazon Chronos-T5-Tiny Forecasting Model,Air Quality KDD 2018,update memory tracker,0.0,14.87,0.0,63.76,0.0,633.88
+Amazon Chronos-T5-Mini Forecasting Model,Air Quality KDD 2018,update memory tracker,0.0,15.3,0.0,63.76,0.0,1238.13
+Moirai Large Forecaster,,,,,,,,
+Amazon Chronos-T5-Base Forecasting Model,Air Quality KDD 2018,update memory tracker,0.0,27.78,0.0,65.38,0.0,5225.55
+Amazon Chronos-T5-Small Forecasting Model,Air Quality KDD 2018,update memory tracker,0.0,17.19,0.0,64.17,0.0,1809.26
+Amazon Chronos-T5-Large Forecasting Model,Air Quality KDD 2018,update memory tracker,0.0,51.72,0.0,67.81,0.0,13779.09

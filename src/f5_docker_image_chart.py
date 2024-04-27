@@ -4,12 +4,12 @@ import sys
 
 
 def read_docker_image_data(project):
-    file_path = f"./../inputs/{project}_docker_image_sizes.csv"
+    file_path = f"./../inputs/{project}/{project}_docker_image_sizes.csv"
     df = pd.read_csv(file_path)
     return df
 
 
-def create_and_save_docker_image_chart(data, project_name):
+def create_and_save_docker_image_chart(data, project):
     """
     Create a bar chart showing the sizes of Docker images for a given project.
 
@@ -29,7 +29,7 @@ def create_and_save_docker_image_chart(data, project_name):
         data_reversed['model_name'],
         data_reversed['docker_image_size_gb'], color='#1db1c1')
     # plt.ylabel('Docker Image')
-    plt.title('Docker Image Sizes for Forecasting Models', fontsize=16, pad=10)
+    plt.title('Docker Image Sizes (GB) for Forecasting Models', fontsize=16, pad=10)
     plt.grid(axis='x', linestyle='--', alpha=0.6)
 
     # Find the maximum value for setting the x-axis range
@@ -59,7 +59,10 @@ def create_and_save_docker_image_chart(data, project_name):
     plt.tight_layout(pad=1.5)
     
     # Save the figure
-    plt.savefig(f"./../outputs/{project_name}_docker_image_sizes.png", dpi=300)
+    plt.savefig(
+        f"./../outputs/{project}/{project}_docker_image_sizes.png",
+        dpi=300
+    )
     plt.show()
 
 
@@ -72,5 +75,6 @@ def create_docker_image_chart(project_name):
 
 
 if __name__ == "__main__":
-    project_name = "chronos"
+    # project_name = "chronos"
+    project_name = "moirai"
     create_docker_image_chart(project_name)

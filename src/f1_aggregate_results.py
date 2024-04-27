@@ -1,9 +1,5 @@
 import os
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import chardet
-import sys
 
 from vars import (
     INPUT_DIR,
@@ -15,14 +11,21 @@ from vars import (
     METRIC,
 )
 
-def read_files():
-    scores = pd.read_csv(os.path.join(INPUT_DIR, SCORES_FNAME))
-    datasets = pd.read_csv(os.path.join(INPUT_DIR, DATASET_FNAME))
-    models = pd.read_csv(os.path.join(INPUT_DIR, MODELS_FNAME), encoding="ISO-8859-1")
+def read_files(project):
+    scores = pd.read_csv(
+        os.path.join(INPUT_DIR, project, SCORES_FNAME.replace("<project>", project))
+    )
+    datasets = pd.read_csv(
+        os.path.join(INPUT_DIR, project, DATASET_FNAME.replace("<project>", project))
+    )
+    models = pd.read_csv(
+        os.path.join(INPUT_DIR, project, MODELS_FNAME.replace("<project>", project)),
+        encoding="ISO-8859-1"
+    )
     return scores, datasets, models
 
 def aggregate_scores(scores, datasets, models):
-    filtered = scores[scores["metric_external_id"] == METRIC]
+    filtered = scores[scores["metric_external_id"] == METRIC].copy()
     # filtered["final_metric_value"] = -1 * filtered["final_metric_value"]
     filtered.loc[:, "final_metric_value"] = -1 * filtered["final_metric_value"]
 
@@ -68,11 +71,12 @@ def aggregate_scores(scores, datasets, models):
         'hourly', 'daily', 'weekly', 'monthly', 'quarterly', 'yearly', 'other', 'overall']]
     return final_data
 
-def aggregate_and_save_scores():
-    scores, datasets, models = read_files()
+def aggregate_and_save_scores(project):
+    scores, datasets, models = read_files(project)
     aggregated_scores = aggregate_scores(scores, datasets, models)
+    os.makedirs(os.path.join(OUTPUT_DIR, project), exist_ok=True)
     aggregated_scores.to_csv(
-        os.path.join(OUTPUT_DIR, AGGREGATED_SCORES_FNAME),
+        os.path.join(OUTPUT_DIR, project, AGGREGATED_SCORES_FNAME.replace("<project>", project)),
         encoding="ISO-8859-1",
         index=False,
         float_format='%.2f'
@@ -80,4 +84,6 @@ def aggregate_and_save_scores():
 
 
 if __name__ == "__main__":
-    aggregate_and_save_scores()
+    project = "chronos"
+    # project = "moirai"
+    aggregate_and_save_scores(project)

@@ -4,7 +4,7 @@ import sys
 
 
 def read_experiments_data(project):
-    file_path = f"./../inputs/{project}-hyperparameter-experiments.csv"
+    file_path = f"./../inputs/{project}/{project}-hyperparameter-experiments.csv"
     df = pd.read_csv(file_path)
     return df
 
@@ -67,7 +67,6 @@ def average_metric_by_scenario(data, hyperparameter, hp_spec, scenario_values, s
         avg_metric_df.sort_index()
     elif hp_spec['type'] == 'categorical':
         avg_metric_df = avg_metric_df.reindex(hp_spec['categories'])
-
     return avg_metric_df
 
 
@@ -78,13 +77,14 @@ def generate_hyperparam_results(
     ):
     # read experiments CSV data
     data = read_experiments_data(project_name)
+    
     # filter to a specific model
     data = filter_data(data, "model", [model_name])
+    
     # generate scenarios dict
     hp_scenarios = create_hyperparameter_scenarios_dict(
         data, hyperparameters, scenario_col
     )
-
     hp_scenario_results = {}
     for hp, scenarios in hp_scenarios.items():
         avg_metric_df = average_metric_by_scenario(
@@ -98,8 +98,8 @@ def generate_hyperparam_results(
 
 
 def plot_hyperparameter_impacts(
-        model_name, 
-        hp_scenario_results, hyperparameters, metric_col, metric_name, y_axis_range=None):
+        model_name, hp_scenario_results, hyperparameters,
+        metric_col, metric_name, y_axis_range=None):
     """
     Plots the hyperparameter impact results using subplots, with an optional uniform y-axis range.
     
@@ -149,7 +149,10 @@ def plot_hyperparameter_impacts(
     plt.tight_layout(pad=1.5)
     
     # Save the figure
-    plt.savefig(f"./../outputs/{project_name}_hyperparameter_impacts.png", dpi=300)
+    plt.savefig(
+        f"./../outputs/{project_name}/{project_name}_hyperparameter_impacts.png",
+        dpi=300
+    )
     plt.show()
 
 
@@ -158,9 +161,9 @@ def create_and_save_hp_impacts_chart(
         metric_col, metric_name, y_range=None,
     ):
     hp_scenario_results = generate_hyperparam_results(
-        project_name, scenario_col, model_name, hyperparameters, metric_col, metric_name
+        project_name, scenario_col, model_name, hyperparameters,
+        metric_col, metric_name
     )
-
     plot_hyperparameter_impacts(
         model_name,
         hp_scenario_results, hyperparameters, metric_col, metric_name, y_range
@@ -168,9 +171,9 @@ def create_and_save_hp_impacts_chart(
 
 if __name__ == "__main__":
     # project name
-    project_name = "chronos"
+    project_name = "moirai"
     # name of the model to analyze
-    model_name = "chronos_t5_large"
+    model_name = "Moirai-large"
     # name of the column in data representing scenario name
     scenario_col = "scenario"
     # hyperparameters for the model
@@ -178,15 +181,13 @@ if __name__ == "__main__":
         "num_samples": {
             "type": "int"
         },
-        "top_p": {
-            "type": "float"
+        "context_length": {
+            "type": "int"
         },
-        "top_k": {
-            "type": "float"
-        },
-        "temperature": {
-            "type": "float"
-        },
+        # "patch_size": {
+        #     "type": "categorical",
+        #     "categories": ["auto", "auto_dataset"]
+        # },
     }
     # metric column name in the data
     metric_col = "Root Mean Squared Scaled Error"

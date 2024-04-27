@@ -1,0 +1,217 @@
+model,scenario,num_samples,context_length,patch_size,Dataset Name,Root Mean Squared Error,Root Mean Squared Scaled Error,Mean Absolute Error,Mean Absolute Scaled Error,Symmetric Mean Absolute Percent Error,Weighted Absolute Percent Error,R-Squared,Percent Predictions Missing
+Moirai-large,base_scenario,100,1000,auto,Air Quality KDD 2018,69.2,0.797,51.839,0.797,54.279,48.073,0.381,0
+Moirai-large,base_scenario,100,1000,auto,Airline Passengers,40.819,0.366,34.944,0.408,7.426,7.437,0.913,0
+Moirai-large,base_scenario,100,1000,auto,ARIMA Process,9.282,0.929,8.042,0.919,122.661,81.064,0.177,0
+Moirai-large,base_scenario,100,1000,auto,Atmospheric CO2 Concentrations,4.056,0.312,3.545,0.285,0.852,0.852,0.884,0
+Moirai-large,base_scenario,100,1000,auto,Australian Beer Production,19.855,0.517,16.954,0.571,3.943,3.982,0.801,0
+Moirai-large,base_scenario,100,1000,auto,Avocado Sales,282.149,0.93,213.318,0.91,25.317,24.306,0.096,0
+Moirai-large,base_scenario,100,1000,auto,Bank Branch Transactions,47.033,0.957,39.07,0.934,28.942,29.772,0.171,0
+Moirai-large,base_scenario,100,1000,auto,Climate Related Disasters Frequency,2.657,1.041,2.19,1.009,83.333,65.887,0.289,0
+Moirai-large,base_scenario,100,1000,auto,Daily Stock Prices,2.07,1.154,1.805,1.141,5.539,5.479,0.146,0
+Moirai-large,base_scenario,100,1000,auto,Daily Weather In 26 World Cities,3.078,0.908,2.592,0.904,35.703,27.737,0.145,0
+Moirai-large,base_scenario,100,1000,auto,GDP Per Capita Change,2.474,1.021,2.058,0.982,91.868,96.741,0.265,0
+Moirai-large,base_scenario,100,1000,auto,Geometric Brownian Motion,4.645,1.111,4.085,1.111,3.631,3.831,0.202,0
+Moirai-large,base_scenario,100,1000,auto,M4 Forecasting Competition Sampled Daily Series,410.749,0.665,354.204,0.647,5.702,5.709,0.287,0
+Moirai-large,base_scenario,100,1000,auto,M4 Forecasting Competition Sampled Hourly Series,911.569,0.397,750.918,0.356,12.861,12.073,0.855,0
+Moirai-large,base_scenario,100,1000,auto,M4 Forecasting Competition Sampled Monthly Series,116.282,0.78,98.142,0.769,2.654,2.644,0.48,0
+Moirai-large,base_scenario,100,1000,auto,M4 Forecasting Competition Sampled Quarterly Series,799.062,0.833,677.481,0.827,13.984,14.107,0.235,0
+Moirai-large,base_scenario,100,1000,auto,M4 Forecasting Competition Sampled Yearly Series,130.703,0.931,121.099,0.951,3.017,2.98,0.562,0
+Moirai-large,base_scenario,100,1000,auto,Online Retail Sales,114.6,1.052,66.458,0.989,106.262,79.086,0.085,0
+Moirai-large,base_scenario,100,1000,auto,PJM Hourly Energy Consumption,1.805,0.595,1.542,0.576,11.967,11.944,0.89,0
+Moirai-large,base_scenario,100,1000,auto,Random Walk Dataset,0.865,1.095,0.752,1.109,33.219,34.388,0.185,0
+Moirai-large,base_scenario,100,1000,auto,Seattle Burke Gilman Trail,8.139,0.417,5.3,0.329,66.649,25.68,0.819,0
+Moirai-large,base_scenario,100,1000,auto,Sunspots,58.291,1.047,46.708,0.991,72.685,60.734,0.023,0
+Moirai-large,base_scenario,100,1000,auto,Multi-Seasonality Timeseries With Covariates,3.782,0.836,2.728,0.79,7.611,7.601,0.37,0
+Moirai-large,base_scenario,100,1000,auto,Theme Park Attendance,5240.211,0.527,3548.322,0.43,14.128,14.228,0.738,0
+Moirai-large,num_samples = 50,50,1000,auto,Air Quality KDD 2018,70.23,0.811,52.103,0.802,54.269,48.36,0.347,0
+Moirai-large,num_samples = 50,50,1000,auto,Airline Passengers,42.836,0.384,36.933,0.432,7.823,7.86,0.93,0
+Moirai-large,num_samples = 50,50,1000,auto,ARIMA Process,9.037,0.928,7.879,0.919,121.378,81.442,0.163,0
+Moirai-large,num_samples = 50,50,1000,auto,Atmospheric CO2 Concentrations,4.045,0.311,3.522,0.283,0.847,0.846,0.849,0
+Moirai-large,num_samples = 50,50,1000,auto,Australian Beer Production,18.538,0.482,15.891,0.535,3.685,3.733,0.849,0
+Moirai-large,num_samples = 50,50,1000,auto,Avocado Sales,284.268,0.927,219.448,0.908,25.211,24.183,0.09,0
+Moirai-large,num_samples = 50,50,1000,auto,Bank Branch Transactions,47.372,0.968,39.497,0.947,29.241,30.216,0.145,0
+Moirai-large,num_samples = 50,50,1000,auto,Climate Related Disasters Frequency,2.697,1.045,2.211,1.004,83.367,66.029,0.244,0
+Moirai-large,num_samples = 50,50,1000,auto,Daily Stock Prices,2.136,1.17,1.865,1.162,5.627,5.547,0.079,0
+Moirai-large,num_samples = 50,50,1000,auto,Daily Weather In 26 World Cities,3.149,0.929,2.663,0.926,37.442,29.182,0.136,0
+Moirai-large,num_samples = 50,50,1000,auto,GDP Per Capita Change,2.456,1.039,2.065,1.008,93.845,96.63,0.224,0
+Moirai-large,num_samples = 50,50,1000,auto,Geometric Brownian Motion,4.682,1.118,4.103,1.115,3.623,3.788,0.172,0
+Moirai-large,num_samples = 50,50,1000,auto,M4 Forecasting Competition Sampled Daily Series,414.945,0.674,355.768,0.65,5.733,5.74,0.249,0
+Moirai-large,num_samples = 50,50,1000,auto,M4 Forecasting Competition Sampled Hourly Series,943.325,0.398,766.333,0.356,12.832,12.106,0.852,0
+Moirai-large,num_samples = 50,50,1000,auto,M4 Forecasting Competition Sampled Monthly Series,117.873,0.791,99.206,0.78,2.691,2.679,0.445,0
+Moirai-large,num_samples = 50,50,1000,auto,M4 Forecasting Competition Sampled Quarterly Series,810.163,0.843,689.228,0.834,14.217,14.283,0.228,0
+Moirai-large,num_samples = 50,50,1000,auto,M4 Forecasting Competition Sampled Yearly Series,129.679,0.945,121.043,0.955,3.02,2.982,0.562,0
+Moirai-large,num_samples = 50,50,1000,auto,Online Retail Sales,113.789,1.047,66.236,0.987,106.731,78.956,0.079,0
+Moirai-large,num_samples = 50,50,1000,auto,PJM Hourly Energy Consumption,1.803,0.594,1.539,0.574,11.944,11.914,0.889,0
+Moirai-large,num_samples = 50,50,1000,auto,Random Walk Dataset,0.869,1.098,0.755,1.11,33.14,34.322,0.136,0
+Moirai-large,num_samples = 50,50,1000,auto,Seattle Burke Gilman Trail,8.166,0.422,5.336,0.335,66.622,26.182,0.814,0
+Moirai-large,num_samples = 50,50,1000,auto,Sunspots,58.723,1.055,46.97,0.996,73.125,61.074,0.02,0
+Moirai-large,num_samples = 50,50,1000,auto,Multi-Seasonality Timeseries With Covariates,3.713,0.818,2.699,0.778,7.55,7.555,0.367,0
+Moirai-large,num_samples = 50,50,1000,auto,Theme Park Attendance,4987.145,0.501,3164.433,0.383,12.747,12.688,0.756,0
+Moirai-large,num_samples = 200,200,1000,auto,Air Quality KDD 2018,68.677,0.79,51.558,0.793,54.248,47.836,0.4,0
+Moirai-large,num_samples = 200,200,1000,auto,Airline Passengers,40.387,0.362,35.172,0.411,7.423,7.485,0.924,0
+Moirai-large,num_samples = 200,200,1000,auto,ARIMA Process,9.07,0.925,7.905,0.916,125.257,80.934,0.179,0
+Moirai-large,num_samples = 200,200,1000,auto,Atmospheric CO2 Concentrations,4.093,0.315,3.585,0.288,0.862,0.861,0.88,0
+Moirai-large,num_samples = 200,200,1000,auto,Australian Beer Production,18.508,0.482,16.155,0.544,3.768,3.795,0.823,0
+Moirai-large,num_samples = 200,200,1000,auto,Avocado Sales,285.679,0.924,212.7,0.903,25.1,24.13,0.105,0
+Moirai-large,num_samples = 200,200,1000,auto,Bank Branch Transactions,47.545,0.966,39.719,0.949,29.356,30.288,0.131,0
+Moirai-large,num_samples = 200,200,1000,auto,Climate Related Disasters Frequency,2.662,1.031,2.186,0.996,82.125,65.058,0.226,0
+Moirai-large,num_samples = 200,200,1000,auto,Daily Stock Prices,2.048,1.139,1.799,1.137,5.49,5.441,0.169,0
+Moirai-large,num_samples = 200,200,1000,auto,Daily Weather In 26 World Cities,3.121,0.913,2.617,0.905,36.447,28.029,0.196,0
+Moirai-large,num_samples = 200,200,1000,auto,GDP Per Capita Change,2.447,1.015,2.047,0.987,91.08,95.379,0.28,0
+Moirai-large,num_samples = 200,200,1000,auto,Geometric Brownian Motion,4.657,1.114,4.108,1.117,3.665,3.877,0.219,0
+Moirai-large,num_samples = 200,200,1000,auto,M4 Forecasting Competition Sampled Daily Series,407.525,0.661,351.505,0.643,5.66,5.668,0.34,0
+Moirai-large,num_samples = 200,200,1000,auto,M4 Forecasting Competition Sampled Hourly Series,914.736,0.398,756.644,0.358,12.921,12.17,0.855,0
+Moirai-large,num_samples = 200,200,1000,auto,M4 Forecasting Competition Sampled Monthly Series,115.149,0.773,97.323,0.765,2.639,2.628,0.502,0
+Moirai-large,num_samples = 200,200,1000,auto,M4 Forecasting Competition Sampled Quarterly Series,798.221,0.824,678.002,0.818,13.947,14.031,0.266,0
+Moirai-large,num_samples = 200,200,1000,auto,M4 Forecasting Competition Sampled Yearly Series,128.759,0.924,120.134,0.946,3.002,2.963,0.607,0
+Moirai-large,num_samples = 200,200,1000,auto,Online Retail Sales,114.139,1.045,66.117,0.98,105.162,78.415,0.101,0
+Moirai-large,num_samples = 200,200,1000,auto,PJM Hourly Energy Consumption,1.796,0.593,1.536,0.574,11.913,11.896,0.895,0
+Moirai-large,num_samples = 200,200,1000,auto,Random Walk Dataset,0.862,1.087,0.751,1.104,33.438,34.465,0.221,0
+Moirai-large,num_samples = 200,200,1000,auto,Seattle Burke Gilman Trail,8.167,0.417,5.297,0.33,66.472,25.768,0.818,0
+Moirai-large,num_samples = 200,200,1000,auto,Sunspots,58.502,1.051,46.009,0.976,71.707,59.826,0.022,0
+Moirai-large,num_samples = 200,200,1000,auto,Multi-Seasonality Timeseries With Covariates,3.705,0.816,2.685,0.774,7.519,7.518,0.433,0
+Moirai-large,num_samples = 200,200,1000,auto,Theme Park Attendance,5021.076,0.505,3385.174,0.41,13.378,13.574,0.755,0
+Moirai-large,num_samples = 300,300,1000,auto,Air Quality KDD 2018,68.354,0.785,51.327,0.788,54.022,47.601,0.416,0
+Moirai-large,num_samples = 300,300,1000,auto,Airline Passengers,41.319,0.37,35.395,0.414,7.478,7.533,0.921,0
+Moirai-large,num_samples = 300,300,1000,auto,ARIMA Process,9.159,0.926,7.979,0.917,125.595,80.884,0.188,0
+Moirai-large,num_samples = 300,300,1000,auto,Atmospheric CO2 Concentrations,4.161,0.32,3.643,0.293,0.876,0.875,0.874,0
+Moirai-large,num_samples = 300,300,1000,auto,Australian Beer Production,18.054,0.47,15.444,0.52,3.571,3.627,0.854,0
+Moirai-large,num_samples = 300,300,1000,auto,Avocado Sales,284.496,0.923,214.401,0.904,25.07,24.099,0.105,0
+Moirai-large,num_samples = 300,300,1000,auto,Bank Branch Transactions,47.283,0.958,39.334,0.94,29.134,29.965,0.156,0
+Moirai-large,num_samples = 300,300,1000,auto,Climate Related Disasters Frequency,2.693,1.048,2.216,1.015,83.928,66.452,0.213,0
+Moirai-large,num_samples = 300,300,1000,auto,Daily Stock Prices,2.057,1.143,1.802,1.136,5.513,5.46,0.206,0
+Moirai-large,num_samples = 300,300,1000,auto,Daily Weather In 26 World Cities,3.13,0.919,2.62,0.906,36.395,28.123,0.191,0
+Moirai-large,num_samples = 300,300,1000,auto,GDP Per Capita Change,2.451,1.004,2.059,0.974,92.124,96.5,0.216,0
+Moirai-large,num_samples = 300,300,1000,auto,Geometric Brownian Motion,4.609,1.106,4.063,1.11,3.623,3.842,0.25,0
+Moirai-large,num_samples = 300,300,1000,auto,M4 Forecasting Competition Sampled Daily Series,408.878,0.661,352.655,0.644,5.676,5.683,0.357,0
+Moirai-large,num_samples = 300,300,1000,auto,M4 Forecasting Competition Sampled Hourly Series,907.501,0.397,748.951,0.356,12.838,12.086,0.857,0
+Moirai-large,num_samples = 300,300,1000,auto,M4 Forecasting Competition Sampled Monthly Series,114.693,0.772,97.205,0.765,2.64,2.63,0.514,0
+Moirai-large,num_samples = 300,300,1000,auto,M4 Forecasting Competition Sampled Quarterly Series,791.511,0.825,671.827,0.82,13.87,13.966,0.286,0
+Moirai-large,num_samples = 300,300,1000,auto,M4 Forecasting Competition Sampled Yearly Series,125.988,0.918,117.718,0.938,2.965,2.93,0.611,0
+Moirai-large,num_samples = 300,300,1000,auto,Online Retail Sales,114.468,1.047,66.422,0.983,105.681,78.679,0.107,0
+Moirai-large,num_samples = 300,300,1000,auto,PJM Hourly Energy Consumption,1.8,0.592,1.538,0.573,11.886,11.876,0.895,0
+Moirai-large,num_samples = 300,300,1000,auto,Random Walk Dataset,0.862,1.091,0.752,1.107,33.35,34.426,0.239,0
+Moirai-large,num_samples = 300,300,1000,auto,Seattle Burke Gilman Trail,8.175,0.417,5.262,0.329,66.522,25.683,0.818,0
+Moirai-large,num_samples = 300,300,1000,auto,Sunspots,59.227,1.064,46.957,0.996,72.838,61.057,0.014,0
+Moirai-large,num_samples = 300,300,1000,auto,Multi-Seasonality Timeseries With Covariates,3.705,0.818,2.67,0.774,7.484,7.473,0.418,0
+Moirai-large,num_samples = 300,300,1000,auto,Theme Park Attendance,5094.648,0.512,3550.986,0.43,13.944,14.238,0.746,0
+Moirai-large,num_samples = 400,400,1000,auto,Air Quality KDD 2018,68.323,0.785,51.431,0.79,54.141,47.679,0.418,0
+Moirai-large,num_samples = 400,400,1000,auto,Airline Passengers,38.543,0.345,33.45,0.391,7.072,7.119,0.936,0
+Moirai-large,num_samples = 400,400,1000,auto,ARIMA Process,9.108,0.919,7.93,0.912,125.21,80.48,0.189,0
+Moirai-large,num_samples = 400,400,1000,auto,Atmospheric CO2 Concentrations,4.127,0.318,3.617,0.291,0.87,0.869,0.894,0
+Moirai-large,num_samples = 400,400,1000,auto,Australian Beer Production,19.156,0.499,16.663,0.561,3.865,3.914,0.814,0
+Moirai-large,num_samples = 400,400,1000,auto,Avocado Sales,283.153,0.922,213.279,0.903,25.087,24.12,0.108,0
+Moirai-large,num_samples = 400,400,1000,auto,Bank Branch Transactions,47.211,0.957,39.313,0.936,29.118,29.999,0.142,0
+Moirai-large,num_samples = 400,400,1000,auto,Climate Related Disasters Frequency,2.689,1.039,2.217,1.011,83.476,66.438,0.25,0
+Moirai-large,num_samples = 400,400,1000,auto,Daily Stock Prices,2.057,1.144,1.805,1.142,5.546,5.491,0.225,0
+Moirai-large,num_samples = 400,400,1000,auto,Daily Weather In 26 World Cities,3.139,0.919,2.638,0.912,36.929,28.296,0.213,0
+Moirai-large,num_samples = 400,400,1000,auto,GDP Per Capita Change,2.447,1.002,2.057,0.982,91.789,96.349,0.244,0
+Moirai-large,num_samples = 400,400,1000,auto,Geometric Brownian Motion,4.589,1.1,4.06,1.106,3.614,3.809,0.285,0
+Moirai-large,num_samples = 400,400,1000,auto,M4 Forecasting Competition Sampled Daily Series,407.632,0.659,352.313,0.643,5.674,5.681,0.374,0
+Moirai-large,num_samples = 400,400,1000,auto,M4 Forecasting Competition Sampled Hourly Series,917.916,0.397,753.731,0.356,12.837,12.101,0.858,0
+Moirai-large,num_samples = 400,400,1000,auto,M4 Forecasting Competition Sampled Monthly Series,115.063,0.771,97.533,0.764,2.637,2.627,0.519,0
+Moirai-large,num_samples = 400,400,1000,auto,M4 Forecasting Competition Sampled Quarterly Series,793.104,0.82,673.484,0.812,13.854,13.959,0.273,0
+Moirai-large,num_samples = 400,400,1000,auto,M4 Forecasting Competition Sampled Yearly Series,125.46,0.918,117.216,0.94,2.97,2.935,0.611,0
+Moirai-large,num_samples = 400,400,1000,auto,Online Retail Sales,114.19,1.045,66.15,0.981,105.14,78.492,0.094,0
+Moirai-large,num_samples = 400,400,1000,auto,PJM Hourly Energy Consumption,1.8,0.592,1.538,0.573,11.892,11.88,0.895,0
+Moirai-large,num_samples = 400,400,1000,auto,Random Walk Dataset,0.859,1.087,0.749,1.102,33.022,34.267,0.25,0
+Moirai-large,num_samples = 400,400,1000,auto,Seattle Burke Gilman Trail,8.167,0.417,5.222,0.326,65.93,25.472,0.819,0
+Moirai-large,num_samples = 400,400,1000,auto,Sunspots,59.145,1.062,46.682,0.99,72.696,60.701,0.015,0
+Moirai-large,num_samples = 400,400,1000,auto,Multi-Seasonality Timeseries With Covariates,3.699,0.812,2.664,0.767,7.438,7.432,0.436,0
+Moirai-large,num_samples = 400,400,1000,auto,Theme Park Attendance,5062.719,0.509,3439.712,0.417,13.669,13.792,0.751,0
+Moirai-large,context_length = 200,100,200,auto,Air Quality KDD 2018,77.287,0.884,56.594,0.85,55.551,52.345,0.314,0
+Moirai-large,context_length = 200,100,200,auto,Airline Passengers,41.275,0.37,35.338,0.413,7.491,7.52,0.909,0
+Moirai-large,context_length = 200,100,200,auto,ARIMA Process,8.749,0.929,7.608,0.918,122.477,80.244,0.194,0
+Moirai-large,context_length = 200,100,200,auto,Atmospheric CO2 Concentrations,3.806,0.293,2.963,0.238,0.712,0.712,0.6,0
+Moirai-large,context_length = 200,100,200,auto,Australian Beer Production,19.238,0.501,17.903,0.603,4.163,4.205,0.787,0
+Moirai-large,context_length = 200,100,200,auto,Avocado Sales,280.928,0.927,211.255,0.909,25.223,24.221,0.098,0
+Moirai-large,context_length = 200,100,200,auto,Bank Branch Transactions,47.025,0.955,38.943,0.932,28.971,29.785,0.138,0
+Moirai-large,context_length = 200,100,200,auto,Climate Related Disasters Frequency,2.666,1.037,2.189,1.005,82.932,65.74,0.253,0
+Moirai-large,context_length = 200,100,200,auto,Daily Stock Prices,1.787,1.022,1.522,1.001,4.395,4.458,0.159,0
+Moirai-large,context_length = 200,100,200,auto,Daily Weather In 26 World Cities,3.517,1.009,2.938,0.997,36.032,30.041,0.151,0
+Moirai-large,context_length = 200,100,200,auto,GDP Per Capita Change,2.486,1.025,2.059,0.983,91.685,97.022,0.216,0
+Moirai-large,context_length = 200,100,200,auto,Geometric Brownian Motion,4.382,1.049,3.866,1.058,3.328,3.393,0.194,0
+Moirai-large,context_length = 200,100,200,auto,M4 Forecasting Competition Sampled Daily Series,491.168,0.821,428.648,0.805,6.682,6.78,0.308,0
+Moirai-large,context_length = 200,100,200,auto,M4 Forecasting Competition Sampled Hourly Series,807.472,0.398,675.223,0.358,15.268,13.148,0.837,0
+Moirai-large,context_length = 200,100,200,auto,M4 Forecasting Competition Sampled Monthly Series,112.663,0.766,95.256,0.764,2.567,2.559,0.509,0
+Moirai-large,context_length = 200,100,200,auto,M4 Forecasting Competition Sampled Quarterly Series,806.197,0.832,681.259,0.817,13.911,14.019,0.248,0
+Moirai-large,context_length = 200,100,200,auto,M4 Forecasting Competition Sampled Yearly Series,126.576,0.955,118.095,0.971,3.012,2.977,0.565,0
+Moirai-large,context_length = 200,100,200,auto,Online Retail Sales,108.991,1.038,62.188,0.968,98.167,77.667,0.119,0
+Moirai-large,context_length = 200,100,200,auto,PJM Hourly Energy Consumption,1.888,0.653,1.589,0.624,13.015,12.994,0.831,0
+Moirai-large,context_length = 200,100,200,auto,Random Walk Dataset,0.889,1.099,0.782,1.12,34.223,36.698,0.173,0
+Moirai-large,context_length = 200,100,200,auto,Seattle Burke Gilman Trail,12.249,0.537,7.571,0.417,67.985,32.659,0.73,0
+Moirai-large,context_length = 200,100,200,auto,Sunspots,53.027,0.952,37.036,0.785,57.047,48.158,0.265,0
+Moirai-large,context_length = 200,100,200,auto,Multi-Seasonality Timeseries With Covariates,3.775,0.832,2.739,0.789,7.655,7.644,0.406,0
+Moirai-large,context_length = 200,100,200,auto,Theme Park Attendance,5108.045,0.513,3840.875,0.465,14.834,15.401,0.767,0
+Moirai-large,context_length = 500,100,500,auto,Air Quality KDD 2018,73.427,0.851,55.672,0.855,56.734,51.578,0.307,0
+Moirai-large,context_length = 500,100,500,auto,Airline Passengers,38.21,0.342,32.648,0.382,6.909,6.948,0.926,0
+Moirai-large,context_length = 500,100,500,auto,ARIMA Process,8.106,0.923,6.9,0.916,123.276,80.743,0.162,0
+Moirai-large,context_length = 500,100,500,auto,Atmospheric CO2 Concentrations,2.866,0.221,2.42,0.195,0.581,0.581,0.897,0
+Moirai-large,context_length = 500,100,500,auto,Australian Beer Production,19.1,0.497,16.951,0.571,3.946,3.982,0.799,0
+Moirai-large,context_length = 500,100,500,auto,Avocado Sales,282.241,0.926,212.724,0.904,25.151,24.139,0.117,0
+Moirai-large,context_length = 500,100,500,auto,Bank Branch Transactions,47.245,0.955,39.317,0.935,29.114,29.997,0.11,0
+Moirai-large,context_length = 500,100,500,auto,Climate Related Disasters Frequency,2.682,1.041,2.192,1.001,82.675,65.659,0.283,0
+Moirai-large,context_length = 500,100,500,auto,Daily Stock Prices,2.032,1.083,1.753,1.07,4.834,4.863,0.143,0
+Moirai-large,context_length = 500,100,500,auto,Daily Weather In 26 World Cities,3.555,1.013,3.011,1,42.106,31.342,0.134,0
+Moirai-large,context_length = 500,100,500,auto,GDP Per Capita Change,2.473,1.027,2.092,0.999,91.86,97.222,0.303,0
+Moirai-large,context_length = 500,100,500,auto,Geometric Brownian Motion,4.652,1.118,4.072,1.116,3.619,3.802,0.21,0
+Moirai-large,context_length = 500,100,500,auto,M4 Forecasting Competition Sampled Daily Series,419.74,0.676,360.558,0.656,5.569,5.614,0.312,0
+Moirai-large,context_length = 500,100,500,auto,M4 Forecasting Competition Sampled Hourly Series,1013.841,0.398,829.057,0.357,12.669,11.912,0.834,0
+Moirai-large,context_length = 500,100,500,auto,M4 Forecasting Competition Sampled Monthly Series,115.674,0.776,97.602,0.764,2.635,2.624,0.498,0
+Moirai-large,context_length = 500,100,500,auto,M4 Forecasting Competition Sampled Quarterly Series,810.815,0.837,688.025,0.83,14.055,14.146,0.24,0
+Moirai-large,context_length = 500,100,500,auto,M4 Forecasting Competition Sampled Yearly Series,130.96,0.939,121.515,0.95,3.032,2.992,0.574,0
+Moirai-large,context_length = 500,100,500,auto,Online Retail Sales,114.571,1.051,66.574,0.986,105.979,78.829,0.083,0
+Moirai-large,context_length = 500,100,500,auto,PJM Hourly Energy Consumption,2.072,0.712,1.758,0.688,14.525,14.251,0.795,0
+Moirai-large,context_length = 500,100,500,auto,Random Walk Dataset,0.861,1.09,0.751,1.106,33.04,34.361,0.185,0
+Moirai-large,context_length = 500,100,500,auto,Seattle Burke Gilman Trail,8.519,0.428,5.469,0.337,67.453,26.305,0.814,0
+Moirai-large,context_length = 500,100,500,auto,Sunspots,59.109,1.062,46.112,0.978,69.876,59.959,0.056,0
+Moirai-large,context_length = 500,100,500,auto,Multi-Seasonality Timeseries With Covariates,3.67,0.808,2.658,0.765,7.407,7.406,0.379,0
+Moirai-large,context_length = 500,100,500,auto,Theme Park Attendance,5132.762,0.516,3593.837,0.435,14.789,14.41,0.749,0
+Moirai-large,context_length = 2000,100,2000,auto,Air Quality KDD 2018,77.227,0.9,56.606,0.873,60.639,52.441,0.256,0
+Moirai-large,context_length = 2000,100,2000,auto,Airline Passengers,38.243,0.343,32.528,0.38,6.926,6.923,0.906,0
+Moirai-large,context_length = 2000,100,2000,auto,ARIMA Process,9.158,0.92,7.97,0.912,122.745,80.192,0.165,0
+Moirai-large,context_length = 2000,100,2000,auto,Atmospheric CO2 Concentrations,3.959,0.305,3.449,0.277,0.829,0.829,0.865,0
+Moirai-large,context_length = 2000,100,2000,auto,Australian Beer Production,18.251,0.475,15.99,0.539,3.726,3.756,0.809,0
+Moirai-large,context_length = 2000,100,2000,auto,Avocado Sales,283.964,0.927,214.894,0.912,25.3,24.284,0.099,0
+Moirai-large,context_length = 2000,100,2000,auto,Bank Branch Transactions,47.222,0.955,39.252,0.935,29.058,29.961,0.124,0
+Moirai-large,context_length = 2000,100,2000,auto,Climate Related Disasters Frequency,2.677,1.026,2.185,0.98,80.089,64.395,0.299,0
+Moirai-large,context_length = 2000,100,2000,auto,Daily Stock Prices,2.106,1.167,1.839,1.155,5.613,5.548,0.142,0
+Moirai-large,context_length = 2000,100,2000,auto,Daily Weather In 26 World Cities,3.253,0.943,2.753,0.94,38.498,29.21,0.142,0
+Moirai-large,context_length = 2000,100,2000,auto,GDP Per Capita Change,2.5,1.035,2.112,1.017,93.599,98.813,0.251,0
+Moirai-large,context_length = 2000,100,2000,auto,Geometric Brownian Motion,4.582,1.1,4.014,1.099,3.563,3.725,0.166,0
+Moirai-large,context_length = 2000,100,2000,auto,M4 Forecasting Competition Sampled Daily Series,373.7,0.6,318.054,0.575,5.036,5.064,0.365,0
+Moirai-large,context_length = 2000,100,2000,auto,M4 Forecasting Competition Sampled Hourly Series,913.545,0.397,756.439,0.356,12.801,12.073,0.857,0
+Moirai-large,context_length = 2000,100,2000,auto,M4 Forecasting Competition Sampled Monthly Series,116.692,0.784,98.691,0.773,2.675,2.665,0.486,0
+Moirai-large,context_length = 2000,100,2000,auto,M4 Forecasting Competition Sampled Quarterly Series,790.593,0.823,673.421,0.816,13.956,14.045,0.24,0
+Moirai-large,context_length = 2000,100,2000,auto,M4 Forecasting Competition Sampled Yearly Series,124.68,0.916,116.308,0.935,2.968,2.931,0.577,0
+Moirai-large,context_length = 2000,100,2000,auto,Online Retail Sales,114.16,1.05,66.282,0.985,105.605,78.817,0.093,0
+Moirai-large,context_length = 2000,100,2000,auto,PJM Hourly Energy Consumption,1.378,0.425,1.2,0.417,8.728,8.73,0.938,0
+Moirai-large,context_length = 2000,100,2000,auto,Random Walk Dataset,0.864,1.092,0.75,1.106,33.386,34.39,0.167,0
+Moirai-large,context_length = 2000,100,2000,auto,Seattle Burke Gilman Trail,8.375,0.422,5.408,0.334,66.522,26.083,0.816,0
+Moirai-large,context_length = 2000,100,2000,auto,Sunspots,70.45,1.265,52.982,1.124,82.746,68.892,0.044,0
+Moirai-large,context_length = 2000,100,2000,auto,Multi-Seasonality Timeseries With Covariates,3.788,0.837,2.748,0.795,7.696,7.694,0.363,0
+Moirai-large,context_length = 2000,100,2000,auto,Theme Park Attendance,5333.353,0.536,3594.489,0.435,14.098,14.413,0.735,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Air Quality KDD 2018,69.152,0.796,51.862,0.797,54.394,48.098,0.379,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Airline Passengers,40.245,0.361,34.763,0.406,7.348,7.398,0.925,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,ARIMA Process,9.01,0.919,7.851,0.909,122.12,80.313,0.173,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Atmospheric CO2 Concentrations,4.025,0.31,3.512,0.283,0.845,0.844,0.859,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Australian Beer Production,18.259,0.475,15.649,0.527,3.62,3.676,0.86,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Avocado Sales,282.019,0.926,210.331,0.907,25.221,24.217,0.095,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Bank Branch Transactions,47.219,0.961,39.058,0.935,28.991,29.87,0.112,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Climate Related Disasters Frequency,2.712,1.058,2.238,1.023,83.923,66.869,0.264,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Daily Stock Prices,2.072,1.148,1.797,1.134,5.501,5.441,0.149,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Daily Weather In 26 World Cities,3.134,0.922,2.626,0.913,36.59,27.892,0.124,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,GDP Per Capita Change,2.485,1.011,2.071,0.978,92.06,96.94,0.291,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Geometric Brownian Motion,4.586,1.098,4.017,1.096,3.561,3.731,0.211,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,M4 Forecasting Competition Sampled Daily Series,409.645,0.663,352.715,0.644,5.678,5.684,0.303,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,M4 Forecasting Competition Sampled Hourly Series,932.025,0.399,760.547,0.357,12.874,12.173,0.853,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,M4 Forecasting Competition Sampled Monthly Series,116.708,0.78,98.581,0.77,2.667,2.656,0.482,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,M4 Forecasting Competition Sampled Quarterly Series,797.885,0.831,673.42,0.82,13.903,14.012,0.242,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,M4 Forecasting Competition Sampled Yearly Series,129.137,0.929,120.317,0.945,3.024,2.985,0.577,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Online Retail Sales,114.292,1.043,66.063,0.974,104.686,77.97,0.091,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,PJM Hourly Energy Consumption,1.808,0.596,1.546,0.577,11.989,11.962,0.888,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Random Walk Dataset,0.863,1.093,0.75,1.105,33.427,34.358,0.179,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Seattle Burke Gilman Trail,8.17,0.417,5.269,0.329,66.575,25.664,0.818,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Sunspots,58.835,1.057,46.864,0.994,72.48,60.937,0.016,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Multi-Seasonality Timeseries With Covariates,3.725,0.826,2.652,0.77,7.451,7.436,0.375,0
+Moirai-large,patch_size = auto_dataset,100,1000,auto_dataset,Theme Park Attendance,5012.231,0.504,3402.442,0.412,13.289,13.643,0.755,0

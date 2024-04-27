@@ -3,12 +3,14 @@ from f2_create_heatmap_chart import create_and_save_heatmap
 from f3_resource_tracking import create_durations_and_memory_chart
 
 
-def run_analysis():
-    aggregate_and_save_scores()
-    create_and_save_heatmap()
-    create_durations_and_memory_chart()
+def run_analysis(project):
+    aggregate_and_save_scores(project)
+    create_and_save_heatmap(project)
+    create_durations_and_memory_chart(project)
 
 
 
 if __name__ == "__main__":
-    run_analysis()
+    project = "chronos"
+    # project = "moirai"
+    run_analysis(project)

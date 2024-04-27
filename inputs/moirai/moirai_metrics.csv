@@ -1,0 +1,776 @@
+model_name,dataset_name,benchmark_external_id,train_execution_time_seconds,predict_execution_time_seconds,train_cpu_memory_mb,predict_cpu_memory_mb,train_gpu_memory_mb,predict_gpu_memory_mb
+Amazon Chronos-T5-Base Forecasting Model,ARIMA Process,tU7b7vFoxRG7AOBlhgF6g,0,6.44,0,8.57,0,4747.21
+Amazon Chronos-T5-Base Forecasting Model,Air Quality KDD 2018,tU7b7vFoxRG7AOBlhgF6g,0,27.78,0,65.38,0,5225.55
+Amazon Chronos-T5-Base Forecasting Model,Airline Passengers,tU7b7vFoxRG7AOBlhgF6g,0,3.67,0,8.21,0,832.66
+Amazon Chronos-T5-Base Forecasting Model,Atmospheric CO2 Concentrations,tU7b7vFoxRG7AOBlhgF6g,0,4.75,0,8.26,0,892.1
+Amazon Chronos-T5-Base Forecasting Model,Australian Beer Production,tU7b7vFoxRG7AOBlhgF6g,0,3.41,0,8.21,0,818.59
+Amazon Chronos-T5-Base Forecasting Model,Avocado Sales,tU7b7vFoxRG7AOBlhgF6g,0,9.59,0,9.74,0,4495.9
+Amazon Chronos-T5-Base Forecasting Model,Bank Branch Transactions,tU7b7vFoxRG7AOBlhgF6g,0,5.92,0,8.72,0,4510.23
+Amazon Chronos-T5-Base Forecasting Model,Climate Related Disasters Frequency,tU7b7vFoxRG7AOBlhgF6g,0,4.84,0,8.38,0,4411.17
+Amazon Chronos-T5-Base Forecasting Model,Daily Stock Prices ,tU7b7vFoxRG7AOBlhgF6g,0,9.45,0,12.88,0,4620
+Amazon Chronos-T5-Base Forecasting Model,Daily Weather in 26 World Cities,tU7b7vFoxRG7AOBlhgF6g,0,6.85,0,18.37,0,4536.91
+Amazon Chronos-T5-Base Forecasting Model,GDP per Capita Change,tU7b7vFoxRG7AOBlhgF6g,0,11.88,0,8.38,0,4411.17
+Amazon Chronos-T5-Base Forecasting Model,Geometric Brownian Motion,tU7b7vFoxRG7AOBlhgF6g,0,8.16,0,9.33,0,4468.3
+Amazon Chronos-T5-Base Forecasting Model,M4 Forecasting Competition Sampled Daily Series,tU7b7vFoxRG7AOBlhgF6g,0,17.52,0,10.74,0,5168.72
+Amazon Chronos-T5-Base Forecasting Model,M4 Forecasting Competition Sampled Hourly Series,tU7b7vFoxRG7AOBlhgF6g,0,13.7,0,8.75,0,5225.55
+Amazon Chronos-T5-Base Forecasting Model,M4 Forecasting Competition Sampled Monthly Series,tU7b7vFoxRG7AOBlhgF6g,0,11.3,0,8.87,0,4663.54
+Amazon Chronos-T5-Base Forecasting Model,M4 Forecasting Competition Sampled Quarterly Series,tU7b7vFoxRG7AOBlhgF6g,0,7.5,0,8.36,0,4495.9
+Amazon Chronos-T5-Base Forecasting Model,M4 Forecasting Competition Sampled Yearly Series,tU7b7vFoxRG7AOBlhgF6g,0,6.53,0,8.36,0,4413.1
+Amazon Chronos-T5-Base Forecasting Model,Multi-Seasonality Timeseries With Covariates,tU7b7vFoxRG7AOBlhgF6g,0,5.53,0,8.6,0,4468.3
+Amazon Chronos-T5-Base Forecasting Model,Online Retail Sales,tU7b7vFoxRG7AOBlhgF6g,0,6.64,0,8.67,0,4620
+Amazon Chronos-T5-Base Forecasting Model,PJM Hourly Energy Consumption,tU7b7vFoxRG7AOBlhgF6g,0,7.77,0,13.5,0,5225.55
+Amazon Chronos-T5-Base Forecasting Model,Random Walk Dataset,tU7b7vFoxRG7AOBlhgF6g,0,15.45,0,8.96,0,4677.87
+Amazon Chronos-T5-Base Forecasting Model,Seattle Burke Gilman Trail,tU7b7vFoxRG7AOBlhgF6g,0,7.33,0,9.65,0,2336.32
+Amazon Chronos-T5-Base Forecasting Model,Smoke Test Forecasting,tU7b7vFoxRG7AOBlhgF6g,0,3.54,0,8.18,0,2465.53
+Amazon Chronos-T5-Base Forecasting Model,Sunspots,tU7b7vFoxRG7AOBlhgF6g,0,6.64,0,8.43,0,899.31
+Amazon Chronos-T5-Base Forecasting Model,Theme Park Attendance,tU7b7vFoxRG7AOBlhgF6g,0,3.98,0,9.06,0,828.44
+Amazon Chronos-T5-Large Forecasting Model,ARIMA Process,G7a9F9piJ0PB5wg5glb9s,0,12.24,0,14.17,0,12505.02
+Amazon Chronos-T5-Large Forecasting Model,Air Quality KDD 2018,G7a9F9piJ0PB5wg5glb9s,0,51.72,0,67.81,0,13779.09
+Amazon Chronos-T5-Large Forecasting Model,Airline Passengers,G7a9F9piJ0PB5wg5glb9s,0,5.71,0,13.82,0,2712.48
+Amazon Chronos-T5-Large Forecasting Model,Atmospheric CO2 Concentrations,G7a9F9piJ0PB5wg5glb9s,0,7.38,0,13.88,0,2712.48
+Amazon Chronos-T5-Large Forecasting Model,Australian Beer Production,G7a9F9piJ0PB5wg5glb9s,0,5.21,0,13.83,0,2712.48
+Amazon Chronos-T5-Large Forecasting Model,Avocado Sales,G7a9F9piJ0PB5wg5glb9s,0,19.95,0,15.35,0,11829.68
+Amazon Chronos-T5-Large Forecasting Model,Bank Branch Transactions,G7a9F9piJ0PB5wg5glb9s,0,9.96,0,14.32,0,11867.83
+Amazon Chronos-T5-Large Forecasting Model,Climate Related Disasters Frequency,G7a9F9piJ0PB5wg5glb9s,0,8.92,0,14.03,0,11569.21
+Amazon Chronos-T5-Large Forecasting Model,Daily Stock Prices ,G7a9F9piJ0PB5wg5glb9s,0,17.53,0,16.95,0,12168.27
+Amazon Chronos-T5-Large Forecasting Model,Daily Weather in 26 World Cities,G7a9F9piJ0PB5wg5glb9s,0,10.53,0,18.51,0,11941.84
+Amazon Chronos-T5-Large Forecasting Model,GDP per Capita Change,G7a9F9piJ0PB5wg5glb9s,0,12.02,0,14,0,11569.21
+Amazon Chronos-T5-Large Forecasting Model,Geometric Brownian Motion,G7a9F9piJ0PB5wg5glb9s,0,38.16,0,14.97,0,11758.68
+Amazon Chronos-T5-Large Forecasting Model,M4 Forecasting Competition Sampled Daily Series,G7a9F9piJ0PB5wg5glb9s,0,38.72,0,15.49,0,13630.13
+Amazon Chronos-T5-Large Forecasting Model,M4 Forecasting Competition Sampled Hourly Series,G7a9F9piJ0PB5wg5glb9s,0,29.94,0,14.38,0,13779.09
+Amazon Chronos-T5-Large Forecasting Model,M4 Forecasting Competition Sampled Monthly Series,G7a9F9piJ0PB5wg5glb9s,0,24.29,0,14.49,0,12279.5
+Amazon Chronos-T5-Large Forecasting Model,M4 Forecasting Competition Sampled Quarterly Series,G7a9F9piJ0PB5wg5glb9s,0,15.4,0,14.01,0,11829.68
+Amazon Chronos-T5-Large Forecasting Model,M4 Forecasting Competition Sampled Yearly Series,G7a9F9piJ0PB5wg5glb9s,0,13.74,0,13.96,0,11607.07
+Amazon Chronos-T5-Large Forecasting Model,Multi-Seasonality Timeseries With Covariates,G7a9F9piJ0PB5wg5glb9s,0,30.27,0,14.23,0,11758.68
+Amazon Chronos-T5-Large Forecasting Model,Online Retail Sales,G7a9F9piJ0PB5wg5glb9s,0,13.7,0,14.28,0,12168.27
+Amazon Chronos-T5-Large Forecasting Model,PJM Hourly Energy Consumption,G7a9F9piJ0PB5wg5glb9s,0,13.86,0,16.83,0,13779.09
+Amazon Chronos-T5-Large Forecasting Model,Random Walk Dataset,G7a9F9piJ0PB5wg5glb9s,0,43.55,0,14.59,0,12328.65
+Amazon Chronos-T5-Large Forecasting Model,Seattle Burke Gilman Trail,G7a9F9piJ0PB5wg5glb9s,0,12.57,0,15.29,0,6336.58
+Amazon Chronos-T5-Large Forecasting Model,Smoke Test Forecasting,G7a9F9piJ0PB5wg5glb9s,0,5.71,0,13.81,0,6560.81
+Amazon Chronos-T5-Large Forecasting Model,Sunspots,G7a9F9piJ0PB5wg5glb9s,0,11.01,0,14.06,0,2712.48
+Amazon Chronos-T5-Large Forecasting Model,Theme Park Attendance,G7a9F9piJ0PB5wg5glb9s,0,26.88,0,14.69,0,2712.48
+Amazon Chronos-T5-Mini Forecasting Model,ARIMA Process,wVijDCm5QbtunPbuGDe6u,0,3.57,0,4.83,0,1132.67
+Amazon Chronos-T5-Mini Forecasting Model,Air Quality KDD 2018,wVijDCm5QbtunPbuGDe6u,0,15.3,0,63.76,0,1238.13
+Amazon Chronos-T5-Mini Forecasting Model,Airline Passengers,wVijDCm5QbtunPbuGDe6u,0,2.69,0,4.48,0,153.77
+Amazon Chronos-T5-Mini Forecasting Model,Atmospheric CO2 Concentrations,wVijDCm5QbtunPbuGDe6u,0,5.23,0,4.53,0,172.41
+Amazon Chronos-T5-Mini Forecasting Model,Australian Beer Production,wVijDCm5QbtunPbuGDe6u,0,2.58,0,4.49,0,150.64
+Amazon Chronos-T5-Mini Forecasting Model,Avocado Sales,wVijDCm5QbtunPbuGDe6u,0,5.58,0,7.15,0,1075.56
+Amazon Chronos-T5-Mini Forecasting Model,Bank Branch Transactions,wVijDCm5QbtunPbuGDe6u,0,3.2,0,4.98,0,1078.5
+Amazon Chronos-T5-Mini Forecasting Model,Climate Related Disasters Frequency,wVijDCm5QbtunPbuGDe6u,0,2.92,0,4.66,0,1052.67
+Amazon Chronos-T5-Mini Forecasting Model,Daily Stock Prices ,wVijDCm5QbtunPbuGDe6u,0,6.37,0,11.25,0,1103.14
+Amazon Chronos-T5-Mini Forecasting Model,Daily Weather in 26 World Cities,wVijDCm5QbtunPbuGDe6u,0,4.32,0,18.37,0,1085.28
+Amazon Chronos-T5-Mini Forecasting Model,GDP per Capita Change,wVijDCm5QbtunPbuGDe6u,0,3.21,0,4.63,0,1052.67
+Amazon Chronos-T5-Mini Forecasting Model,Geometric Brownian Motion,wVijDCm5QbtunPbuGDe6u,0,3.96,0,7.43,0,1069.08
+Amazon Chronos-T5-Mini Forecasting Model,M4 Forecasting Competition Sampled Daily Series,wVijDCm5QbtunPbuGDe6u,0,6.61,0,9.12,0,1225.13
+Amazon Chronos-T5-Mini Forecasting Model,M4 Forecasting Competition Sampled Hourly Series,wVijDCm5QbtunPbuGDe6u,0,5.55,0,5.21,0,1238.13
+Amazon Chronos-T5-Mini Forecasting Model,M4 Forecasting Competition Sampled Monthly Series,wVijDCm5QbtunPbuGDe6u,0,4.82,0,5.5,0,1112.15
+Amazon Chronos-T5-Mini Forecasting Model,M4 Forecasting Competition Sampled Quarterly Series,wVijDCm5QbtunPbuGDe6u,0,3.66,0,4.64,0,1075.56
+Amazon Chronos-T5-Mini Forecasting Model,M4 Forecasting Competition Sampled Yearly Series,wVijDCm5QbtunPbuGDe6u,0,3.37,0,4.63,0,1058.09
+Amazon Chronos-T5-Mini Forecasting Model,Multi-Seasonality Timeseries With Covariates,wVijDCm5QbtunPbuGDe6u,0,3.53,0,4.82,0,1069.08
+Amazon Chronos-T5-Mini Forecasting Model,Online Retail Sales,wVijDCm5QbtunPbuGDe6u,0,3.68,0,4.91,0,1103.14
+Amazon Chronos-T5-Mini Forecasting Model,PJM Hourly Energy Consumption,wVijDCm5QbtunPbuGDe6u,0,4.93,0,11.88,0,1238.13
+Amazon Chronos-T5-Mini Forecasting Model,Random Walk Dataset,wVijDCm5QbtunPbuGDe6u,0,5.17,0,6.07,0,1115.28
+Amazon Chronos-T5-Mini Forecasting Model,Seattle Burke Gilman Trail,wVijDCm5QbtunPbuGDe6u,0,4.88,0,6.4,0,524.52
+Amazon Chronos-T5-Mini Forecasting Model,Smoke Test Forecasting,wVijDCm5QbtunPbuGDe6u,0,2.65,0,4.45,0,558.95
+Amazon Chronos-T5-Mini Forecasting Model,Sunspots,wVijDCm5QbtunPbuGDe6u,0,3.94,0,4.68,0,175.66
+Amazon Chronos-T5-Mini Forecasting Model,Theme Park Attendance,wVijDCm5QbtunPbuGDe6u,0,2.92,0,5.33,0,152.83
+Amazon Chronos-T5-Small Forecasting Model,ARIMA Process,X1K1F7y0WYW2jX2kI20sx,0,4.03,0,5.73,0,1649.97
+Amazon Chronos-T5-Small Forecasting Model,Air Quality KDD 2018,X1K1F7y0WYW2jX2kI20sx,0,17.19,0,64.17,0,1809.26
+Amazon Chronos-T5-Small Forecasting Model,Airline Passengers,X1K1F7y0WYW2jX2kI20sx,0,2.91,0,5.4,0,245.74
+Amazon Chronos-T5-Small Forecasting Model,Atmospheric CO2 Concentrations,X1K1F7y0WYW2jX2kI20sx,0,3.46,0,5.45,0,277.2
+Amazon Chronos-T5-Small Forecasting Model,Australian Beer Production,X1K1F7y0WYW2jX2kI20sx,0,2.84,0,5.4,0,241.05
+Amazon Chronos-T5-Small Forecasting Model,Avocado Sales,X1K1F7y0WYW2jX2kI20sx,0,5.21,0,7.54,0,1567.93
+Amazon Chronos-T5-Small Forecasting Model,Bank Branch Transactions,X1K1F7y0WYW2jX2kI20sx,0,3.76,0,5.88,0,1573.6
+Amazon Chronos-T5-Small Forecasting Model,Climate Related Disasters Frequency,X1K1F7y0WYW2jX2kI20sx,0,4.72,0,5.56,0,1532.36
+Amazon Chronos-T5-Small Forecasting Model,Daily Stock Prices ,X1K1F7y0WYW2jX2kI20sx,0,7.26,0,11.65,0,1608.41
+Amazon Chronos-T5-Small Forecasting Model,Daily Weather in 26 World Cities,X1K1F7y0WYW2jX2kI20sx,0,4.66,0,18.37,0,1579.68
+Amazon Chronos-T5-Small Forecasting Model,GDP per Capita Change,X1K1F7y0WYW2jX2kI20sx,0,3.6,0,5.56,0,1532.36
+Amazon Chronos-T5-Small Forecasting Model,Geometric Brownian Motion,X1K1F7y0WYW2jX2kI20sx,0,6.26,0,7.85,0,1559.06
+Amazon Chronos-T5-Small Forecasting Model,M4 Forecasting Competition Sampled Daily Series,X1K1F7y0WYW2jX2kI20sx,0,8.09,0,9.52,0,1791.13
+Amazon Chronos-T5-Small Forecasting Model,M4 Forecasting Competition Sampled Hourly Series,X1K1F7y0WYW2jX2kI20sx,0,6.83,0,5.92,0,1809.26
+Amazon Chronos-T5-Small Forecasting Model,M4 Forecasting Competition Sampled Monthly Series,X1K1F7y0WYW2jX2kI20sx,0,6.96,0,6.01,0,1621.85
+Amazon Chronos-T5-Small Forecasting Model,M4 Forecasting Competition Sampled Quarterly Series,X1K1F7y0WYW2jX2kI20sx,0,5.7,0,5.56,0,1567.93
+Amazon Chronos-T5-Small Forecasting Model,M4 Forecasting Competition Sampled Yearly Series,X1K1F7y0WYW2jX2kI20sx,0,3.81,0,5.54,0,1543.03
+Amazon Chronos-T5-Small Forecasting Model,Multi-Seasonality Timeseries With Covariates,X1K1F7y0WYW2jX2kI20sx,0,3.48,0,5.77,0,1559.06
+Amazon Chronos-T5-Small Forecasting Model,Online Retail Sales,X1K1F7y0WYW2jX2kI20sx,0,4.94,0,5.86,0,1608.41
+Amazon Chronos-T5-Small Forecasting Model,PJM Hourly Energy Consumption,X1K1F7y0WYW2jX2kI20sx,0,4.49,0,12.28,0,1809.26
+Amazon Chronos-T5-Small Forecasting Model,Random Walk Dataset,X1K1F7y0WYW2jX2kI20sx,0,5.43,0,6.49,0,1627.36
+Amazon Chronos-T5-Small Forecasting Model,Seattle Burke Gilman Trail,X1K1F7y0WYW2jX2kI20sx,0,5.02,0,6.83,0,781.35
+Amazon Chronos-T5-Small Forecasting Model,Smoke Test Forecasting,X1K1F7y0WYW2jX2kI20sx,0,2.9,0,5.36,0,825.27
+Amazon Chronos-T5-Small Forecasting Model,Sunspots,X1K1F7y0WYW2jX2kI20sx,0,4.67,0,5.6,0,277.2
+Amazon Chronos-T5-Small Forecasting Model,Theme Park Attendance,X1K1F7y0WYW2jX2kI20sx,0,3.07,0,6.24,0,244.33
+Amazon Chronos-T5-Tiny Forecasting Model,ARIMA Process,1NsFE0DGwf5awR1XTOrqv,0,3.46,0,4.83,0,580.68
+Amazon Chronos-T5-Tiny Forecasting Model,Air Quality KDD 2018,1NsFE0DGwf5awR1XTOrqv,0,14.87,0,63.76,0,633.88
+Amazon Chronos-T5-Tiny Forecasting Model,Airline Passengers,1NsFE0DGwf5awR1XTOrqv,0,2.71,0,4.48,0,77.78
+Amazon Chronos-T5-Tiny Forecasting Model,Atmospheric CO2 Concentrations,1NsFE0DGwf5awR1XTOrqv,0,3.07,0,4.53,0,84.36
+Amazon Chronos-T5-Tiny Forecasting Model,Australian Beer Production,1NsFE0DGwf5awR1XTOrqv,0,2.58,0,4.46,0,76.21
+Amazon Chronos-T5-Tiny Forecasting Model,Avocado Sales,1NsFE0DGwf5awR1XTOrqv,0,4.35,0,7.13,0,558.96
+Amazon Chronos-T5-Tiny Forecasting Model,Bank Branch Transactions,1NsFE0DGwf5awR1XTOrqv,0,3.18,0,4.97,0,559.45
+Amazon Chronos-T5-Tiny Forecasting Model,Climate Related Disasters Frequency,1NsFE0DGwf5awR1XTOrqv,0,2.86,0,4.65,0,541.52
+Amazon Chronos-T5-Tiny Forecasting Model,Daily Stock Prices ,1NsFE0DGwf5awR1XTOrqv,0,4.78,0,11.26,0,566.91
+Amazon Chronos-T5-Tiny Forecasting Model,Daily Weather in 26 World Cities,1NsFE0DGwf5awR1XTOrqv,0,4.21,0,18.37,0,562.09
+Amazon Chronos-T5-Tiny Forecasting Model,GDP per Capita Change,1NsFE0DGwf5awR1XTOrqv,0,3.14,0,4.63,0,541.52
+Amazon Chronos-T5-Tiny Forecasting Model,Geometric Brownian Motion,1NsFE0DGwf5awR1XTOrqv,0,3.73,0,7.42,0,549.35
+Amazon Chronos-T5-Tiny Forecasting Model,M4 Forecasting Competition Sampled Daily Series,1NsFE0DGwf5awR1XTOrqv,0,6.19,0,9.12,0,627.53
+Amazon Chronos-T5-Tiny Forecasting Model,M4 Forecasting Competition Sampled Hourly Series,1NsFE0DGwf5awR1XTOrqv,0,5.85,0,5.19,0,633.88
+Amazon Chronos-T5-Tiny Forecasting Model,M4 Forecasting Competition Sampled Monthly Series,1NsFE0DGwf5awR1XTOrqv,0,5.45,0,5.51,0,571.72
+Amazon Chronos-T5-Tiny Forecasting Model,M4 Forecasting Competition Sampled Quarterly Series,1NsFE0DGwf5awR1XTOrqv,0,3.57,0,4.65,0,558.96
+Amazon Chronos-T5-Tiny Forecasting Model,M4 Forecasting Competition Sampled Yearly Series,1NsFE0DGwf5awR1XTOrqv,0,3.21,0,4.62,0,543.08
+Amazon Chronos-T5-Tiny Forecasting Model,Multi-Seasonality Timeseries With Covariates,1NsFE0DGwf5awR1XTOrqv,0,3.02,0,4.84,0,549.35
+Amazon Chronos-T5-Tiny Forecasting Model,Online Retail Sales,1NsFE0DGwf5awR1XTOrqv,0,3.41,0,4.93,0,566.91
+Amazon Chronos-T5-Tiny Forecasting Model,PJM Hourly Energy Consumption,1NsFE0DGwf5awR1XTOrqv,0,5.04,0,11.88,0,633.88
+Amazon Chronos-T5-Tiny Forecasting Model,Random Walk Dataset,1NsFE0DGwf5awR1XTOrqv,0,4.33,0,6.06,0,574.1
+Amazon Chronos-T5-Tiny Forecasting Model,Seattle Burke Gilman Trail,1NsFE0DGwf5awR1XTOrqv,0,4.21,0,6.4,0,269.97
+Amazon Chronos-T5-Tiny Forecasting Model,Smoke Test Forecasting,1NsFE0DGwf5awR1XTOrqv,0,2.67,0,4.43,0,295.57
+Amazon Chronos-T5-Tiny Forecasting Model,Sunspots,1NsFE0DGwf5awR1XTOrqv,0,4,0,4.69,0,85
+Amazon Chronos-T5-Tiny Forecasting Model,Theme Park Attendance,1NsFE0DGwf5awR1XTOrqv,0,3.49,0,5.33,0,77.31
+AutoARIMA Forecaster in Darts,ARIMA Process,Cfdn1s47cet1tDfVlQt8r,1298.39,1.65,410.31,213.38,0,0
+AutoARIMA Forecaster in Darts,Air Quality KDD 2018,Cfdn1s47cet1tDfVlQt8r,1846.3,2.96,946.55,518.51,0,0
+AutoARIMA Forecaster in Darts,Airline Passengers,Cfdn1s47cet1tDfVlQt8r,182.41,0.14,44.99,6.41,0,0
+AutoARIMA Forecaster in Darts,Atmospheric CO2 Concentrations,Cfdn1s47cet1tDfVlQt8r,41.87,0.17,107.36,17.31,0,0
+AutoARIMA Forecaster in Darts,Australian Beer Production,Cfdn1s47cet1tDfVlQt8r,22.53,0.14,31.15,3.3,0,0
+AutoARIMA Forecaster in Darts,Avocado Sales,Cfdn1s47cet1tDfVlQt8r,755.48,6.59,130.48,159.44,0,0
+AutoARIMA Forecaster in Darts,Bank Branch Transactions,Cfdn1s47cet1tDfVlQt8r,3.27,1.99,10.81,23.31,0,0
+AutoARIMA Forecaster in Darts,Climate Related Disasters Frequency,Cfdn1s47cet1tDfVlQt8r,585.35,2.46,20.64,37.51,0,0
+AutoARIMA Forecaster in Darts,Daily Stock Prices ,Cfdn1s47cet1tDfVlQt8r,304.03,2.53,87.68,81.73,0,0
+AutoARIMA Forecaster in Darts,Daily Weather in 26 World Cities,Cfdn1s47cet1tDfVlQt8r,4.08,1.89,20.78,23.58,0,0
+AutoARIMA Forecaster in Darts,GDP per Capita Change,Cfdn1s47cet1tDfVlQt8r,763.38,4.98,32.69,61.99,0,0
+AutoARIMA Forecaster in Darts,Geometric Brownian Motion,Cfdn1s47cet1tDfVlQt8r,609.73,5.28,74.6,100.2,0,0
+AutoARIMA Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,Cfdn1s47cet1tDfVlQt8r,3160.15,6.23,1344.23,1412.29,0,0
+AutoARIMA Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,Cfdn1s47cet1tDfVlQt8r,7304.11,2.83,963.28,603.1,0,0
+AutoARIMA Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,Cfdn1s47cet1tDfVlQt8r,12342.39,5.52,620.49,755.94,0,0
+AutoARIMA Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,Cfdn1s47cet1tDfVlQt8r,1043.23,3.87,72.8,92.12,0,0
+AutoARIMA Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,Cfdn1s47cet1tDfVlQt8r,670.93,5.59,33.43,69.96,0,0
+AutoARIMA Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,Cfdn1s47cet1tDfVlQt8r,5.35,2.17,11.62,26.01,0,0
+AutoARIMA Forecaster in Darts,Online Retail Sales,Cfdn1s47cet1tDfVlQt8r,1619.98,2.4,221.27,143.64,0,0
+AutoARIMA Forecaster in Darts,PJM Hourly Energy Consumption,Cfdn1s47cet1tDfVlQt8r,4974.77,1.89,1517.74,679.8,0,0
+AutoARIMA Forecaster in Darts,Random Walk Dataset,Cfdn1s47cet1tDfVlQt8r,519.73,3.75,139.58,104.68,0,0
+AutoARIMA Forecaster in Darts,Seattle Burke Gilman Trail,Cfdn1s47cet1tDfVlQt8r,11.22,0.45,15.43,19.72,0,0
+AutoARIMA Forecaster in Darts,Smoke Test Forecasting,Cfdn1s47cet1tDfVlQt8r,993.81,0.44,47.48,18.45,0,0
+AutoARIMA Forecaster in Darts,Sunspots,Cfdn1s47cet1tDfVlQt8r,844.77,0.63,1523.39,89.93,0,0
+AutoARIMA Forecaster in Darts,Theme Park Attendance,Cfdn1s47cet1tDfVlQt8r,978.94,0.17,98.47,8.41,0,0
+BATS Forecaster in Darts,ARIMA Process,V9QGRFzrBkZCpYy0yO88n,2247.99,0.23,2.4,2.6,0,0
+BATS Forecaster in Darts,Air Quality KDD 2018,V9QGRFzrBkZCpYy0yO88n,9887.46,0.42,62.79,6.01,0,0
+BATS Forecaster in Darts,Airline Passengers,V9QGRFzrBkZCpYy0yO88n,48.72,0.11,1.39,1.37,0,0
+BATS Forecaster in Darts,Atmospheric CO2 Concentrations,V9QGRFzrBkZCpYy0yO88n,254.7,0.06,1.43,1.4,0,0
+BATS Forecaster in Darts,Australian Beer Production,V9QGRFzrBkZCpYy0yO88n,15.61,0.05,1.39,1.36,0,0
+BATS Forecaster in Darts,Avocado Sales,V9QGRFzrBkZCpYy0yO88n,5133.77,1.43,6.5,6.98,0,0
+BATS Forecaster in Darts,Bank Branch Transactions,V9QGRFzrBkZCpYy0yO88n,4234.47,0.42,2.34,3.23,0,0
+BATS Forecaster in Darts,Climate Related Disasters Frequency,V9QGRFzrBkZCpYy0yO88n,313.95,0.59,1.76,3.67,0,0
+BATS Forecaster in Darts,Daily Stock Prices ,V9QGRFzrBkZCpYy0yO88n,1857.7,0.47,9.21,3.88,0,0
+BATS Forecaster in Darts,Daily Weather in 26 World Cities,V9QGRFzrBkZCpYy0yO88n,1504.7,0.31,18,2.81,0,0
+BATS Forecaster in Darts,GDP per Capita Change,V9QGRFzrBkZCpYy0yO88n,838.13,0.99,2.56,5.62,0,0
+BATS Forecaster in Darts,Geometric Brownian Motion,V9QGRFzrBkZCpYy0yO88n,2612.18,0.81,5.87,5.73,0,0
+BATS Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,V9QGRFzrBkZCpYy0yO88n,3837.97,0.56,8.3,5.43,0,0
+BATS Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,V9QGRFzrBkZCpYy0yO88n,14646.13,0.36,3.62,3.57,0,0
+BATS Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,V9QGRFzrBkZCpYy0yO88n,9291.88,0.93,5.19,6.65,0,0
+BATS Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,V9QGRFzrBkZCpYy0yO88n,2195.12,0.83,2.41,5.14,0,0
+BATS Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,V9QGRFzrBkZCpYy0yO88n,2916.25,1.14,2.66,6.03,0,0
+BATS Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,V9QGRFzrBkZCpYy0yO88n,2066.48,0.31,2.51,2.84,0,0
+BATS Forecaster in Darts,Online Retail Sales,V9QGRFzrBkZCpYy0yO88n,689.66,0.44,2.89,3.72,0,0
+BATS Forecaster in Darts,PJM Hourly Energy Consumption,V9QGRFzrBkZCpYy0yO88n,4178.83,0.15,11.25,2.43,0,0
+BATS Forecaster in Darts,Random Walk Dataset,V9QGRFzrBkZCpYy0yO88n,1158.9,0.61,4.7,4.82,0,0
+BATS Forecaster in Darts,Seattle Burke Gilman Trail,V9QGRFzrBkZCpYy0yO88n,425.4,0.1,4.16,2.1,0,0
+BATS Forecaster in Darts,Smoke Test Forecasting,V9QGRFzrBkZCpYy0yO88n,82.29,0.1,1.4,1.48,0,0
+BATS Forecaster in Darts,Sunspots,V9QGRFzrBkZCpYy0yO88n,173.31,0.08,1.5,1.48,0,0
+BATS Forecaster in Darts,Theme Park Attendance,V9QGRFzrBkZCpYy0yO88n,90.01,0.09,3.3,1.55,0,0
+CNN forecaster using PyTorch,ARIMA Process,PrQsHj1ydSam8GfG0aBv9,32.19,1.79,3451.2,386.64,33.07,11.2
+CNN forecaster using PyTorch,Air Quality KDD 2018,PrQsHj1ydSam8GfG0aBv9,23.86,6.64,3304.3,530.25,76.57,27.57
+CNN forecaster using PyTorch,Airline Passengers,PrQsHj1ydSam8GfG0aBv9,2.16,1.74,386.32,386.8,28.32,9.44
+CNN forecaster using PyTorch,Atmospheric CO2 Concentrations,PrQsHj1ydSam8GfG0aBv9,3.79,1.74,386.07,386.77,46.78,9.85
+CNN forecaster using PyTorch,Australian Beer Production,PrQsHj1ydSam8GfG0aBv9,2.19,1.97,386.75,386.32,24.06,9.39
+CNN forecaster using PyTorch,Avocado Sales,PrQsHj1ydSam8GfG0aBv9,19.56,2.03,3503.64,386.9,26.08,12.83
+CNN forecaster using PyTorch,Bank Branch Transactions,PrQsHj1ydSam8GfG0aBv9,17.41,1.82,3467.92,387.15,26.28,10.5
+CNN forecaster using PyTorch,Climate Related Disasters Frequency,PrQsHj1ydSam8GfG0aBv9,4.37,1.77,386.36,386.79,19.92,9.71
+CNN forecaster using PyTorch,Daily Stock Prices ,PrQsHj1ydSam8GfG0aBv9,28.26,2.33,3500.26,386.22,29.57,12.25
+CNN forecaster using PyTorch,Daily Weather in 26 World Cities,PrQsHj1ydSam8GfG0aBv9,12.09,2.69,3567.36,386.93,28.29,10.58
+CNN forecaster using PyTorch,GDP per Capita Change,PrQsHj1ydSam8GfG0aBv9,8.47,1.76,3453.81,386.61,22.85,10.17
+CNN forecaster using PyTorch,Geometric Brownian Motion,PrQsHj1ydSam8GfG0aBv9,9.65,1.88,3465.42,386.4,24.86,11.15
+CNN forecaster using PyTorch,M4 Forecasting Competition Sampled Daily Series,PrQsHj1ydSam8GfG0aBv9,10.75,1.94,3503.68,386.02,46.78,22.97
+CNN forecaster using PyTorch,M4 Forecasting Competition Sampled Hourly Series,PrQsHj1ydSam8GfG0aBv9,17.1,1.81,3500.35,386.51,51.66,16.45
+CNN forecaster using PyTorch,M4 Forecasting Competition Sampled Monthly Series,PrQsHj1ydSam8GfG0aBv9,24.79,1.82,3467.33,386.78,30.57,13.17
+CNN forecaster using PyTorch,M4 Forecasting Competition Sampled Quarterly Series,PrQsHj1ydSam8GfG0aBv9,6.65,1.76,3444.74,386.94,23.89,10.6
+CNN forecaster using PyTorch,M4 Forecasting Competition Sampled Yearly Series,PrQsHj1ydSam8GfG0aBv9,5.94,1.79,3431.07,385.8,19.9,9.81
+CNN forecaster using PyTorch,Multi-Seasonality Timeseries With Covariates,PrQsHj1ydSam8GfG0aBv9,9.17,1.79,3458.16,386.74,24.96,10.31
+CNN forecaster using PyTorch,Online Retail Sales,PrQsHj1ydSam8GfG0aBv9,14.09,1.81,3486.12,386.08,29.38,11.38
+CNN forecaster using PyTorch,PJM Hourly Energy Consumption,PrQsHj1ydSam8GfG0aBv9,11.34,2.51,3517.21,387.01,51.66,11.6
+CNN forecaster using PyTorch,Random Walk Dataset,PrQsHj1ydSam8GfG0aBv9,17.08,1.82,3444.34,387.11,30.99,13.33
+CNN forecaster using PyTorch,Seattle Burke Gilman Trail,PrQsHj1ydSam8GfG0aBv9,27.9,2.03,3797.91,386.18,99.45,13.77
+CNN forecaster using PyTorch,Smoke Test Forecasting,PrQsHj1ydSam8GfG0aBv9,2.69,2.01,385.94,386.21,24.86,9.49
+CNN forecaster using PyTorch,Sunspots,PrQsHj1ydSam8GfG0aBv9,7.89,1.86,3456.68,386.92,87.57,11.69
+CNN forecaster using PyTorch,Theme Park Attendance,PrQsHj1ydSam8GfG0aBv9,4.94,1.9,386.06,386.35,27.68,9.42
+DeepAR Forecaster in GluonTS,ARIMA Process,H6Lemgo1TqWHbi5ZcGjw4,640.89,1.26,1146.25,484.93,55.77,48.22
+DeepAR Forecaster in GluonTS,Air Quality KDD 2018,H6Lemgo1TqWHbi5ZcGjw4,363.71,1.6,757.84,484.72,126.04,84.62
+DeepAR Forecaster in GluonTS,Airline Passengers,H6Lemgo1TqWHbi5ZcGjw4,354.87,1.1,1147.03,484.32,47,25.76
+DeepAR Forecaster in GluonTS,Atmospheric CO2 Concentrations,H6Lemgo1TqWHbi5ZcGjw4,147.23,1.16,1137.53,485.1,76.51,26.04
+DeepAR Forecaster in GluonTS,Australian Beer Production,H6Lemgo1TqWHbi5ZcGjw4,361.49,1.18,1147.25,484.66,39.95,25.65
+DeepAR Forecaster in GluonTS,Avocado Sales,H6Lemgo1TqWHbi5ZcGjw4,80.13,1.27,1151.41,484.67,42.24,49.2
+DeepAR Forecaster in GluonTS,Bank Branch Transactions,H6Lemgo1TqWHbi5ZcGjw4,268.54,1.14,1145.82,486.07,43.68,49.68
+DeepAR Forecaster in GluonTS,Climate Related Disasters Frequency,H6Lemgo1TqWHbi5ZcGjw4,33.76,1.22,1151.5,482.89,37.71,45.19
+DeepAR Forecaster in GluonTS,Daily Stock Prices ,H6Lemgo1TqWHbi5ZcGjw4,192.02,1.23,1157.19,484.75,49.88,64.88
+DeepAR Forecaster in GluonTS,Daily Weather in 26 World Cities,H6Lemgo1TqWHbi5ZcGjw4,308.56,1.28,1154.53,485.46,45.46,56.79
+DeepAR Forecaster in GluonTS,GDP per Capita Change,H6Lemgo1TqWHbi5ZcGjw4,135.06,1.28,1149.56,484.59,37.71,45.19
+DeepAR Forecaster in GluonTS,Geometric Brownian Motion,H6Lemgo1TqWHbi5ZcGjw4,411.39,1.3,1150.3,484.47,41.06,49.91
+DeepAR Forecaster in GluonTS,M4 Forecasting Competition Sampled Daily Series,H6Lemgo1TqWHbi5ZcGjw4,342.61,1.42,1146.59,484.98,78.84,73.36
+DeepAR Forecaster in GluonTS,M4 Forecasting Competition Sampled Hourly Series,H6Lemgo1TqWHbi5ZcGjw4,208.08,1.53,1149.51,485.03,90.32,72.61
+DeepAR Forecaster in GluonTS,M4 Forecasting Competition Sampled Monthly Series,H6Lemgo1TqWHbi5ZcGjw4,241.72,1.36,1147.32,484.83,50.84,49.96
+DeepAR Forecaster in GluonTS,M4 Forecasting Competition Sampled Quarterly Series,H6Lemgo1TqWHbi5ZcGjw4,125.22,1.25,1146.17,481.2,42.01,46.99
+DeepAR Forecaster in GluonTS,M4 Forecasting Competition Sampled Yearly Series,H6Lemgo1TqWHbi5ZcGjw4,97.05,1.28,1145.43,483.83,37.96,45.39
+DeepAR Forecaster in GluonTS,Multi-Seasonality Timeseries With Covariates,H6Lemgo1TqWHbi5ZcGjw4,372.34,1.16,1150.31,485.07,41.18,50.58
+DeepAR Forecaster in GluonTS,Online Retail Sales,H6Lemgo1TqWHbi5ZcGjw4,161.7,1.7,1149.23,479.7,49.88,64.88
+DeepAR Forecaster in GluonTS,PJM Hourly Energy Consumption,H6Lemgo1TqWHbi5ZcGjw4,455.34,1.22,1149.82,485.1,90.32,39.94
+DeepAR Forecaster in GluonTS,Random Walk Dataset,H6Lemgo1TqWHbi5ZcGjw4,402.53,1.56,1142.98,482.41,52.09,55.02
+DeepAR Forecaster in GluonTS,Seattle Burke Gilman Trail,H6Lemgo1TqWHbi5ZcGjw4,849.86,1.44,1149.5,485.64,162.23,34.96
+DeepAR Forecaster in GluonTS,Smoke Test Forecasting,H6Lemgo1TqWHbi5ZcGjw4,572.81,1.07,1150.3,485.82,41.1,28.97
+DeepAR Forecaster in GluonTS,Sunspots,H6Lemgo1TqWHbi5ZcGjw4,518.08,1.22,1137.18,485.62,137.72,26.6
+DeepAR Forecaster in GluonTS,Theme Park Attendance,H6Lemgo1TqWHbi5ZcGjw4,362.26,1.12,1227.2,484.65,55.03,27.24
+Double Exponential Smoothing Forecaster in NumPy,ARIMA Process,A6tkHoweIgyQk5FkqZ0wf,0.19,0.09,2.28,1.37,0,0
+Double Exponential Smoothing Forecaster in NumPy,Air Quality KDD 2018,A6tkHoweIgyQk5FkqZ0wf,8.87,0.14,58.51,1.49,0,0
+Double Exponential Smoothing Forecaster in NumPy,Airline Passengers,A6tkHoweIgyQk5FkqZ0wf,0.09,0.05,1.38,1.36,0,0
+Double Exponential Smoothing Forecaster in NumPy,Atmospheric CO2 Concentrations,A6tkHoweIgyQk5FkqZ0wf,0.07,0.05,1.43,1.36,0,0
+Double Exponential Smoothing Forecaster in NumPy,Australian Beer Production,A6tkHoweIgyQk5FkqZ0wf,0.08,0.07,1.38,1.36,0,0
+Double Exponential Smoothing Forecaster in NumPy,Avocado Sales,A6tkHoweIgyQk5FkqZ0wf,0.73,0.21,4.29,1.48,0,0
+Double Exponential Smoothing Forecaster in NumPy,Bank Branch Transactions,A6tkHoweIgyQk5FkqZ0wf,0.32,0.13,2.06,1.41,0,0
+Double Exponential Smoothing Forecaster in NumPy,Climate Related Disasters Frequency,A6tkHoweIgyQk5FkqZ0wf,0.18,0.13,1.48,1.39,0,0
+Double Exponential Smoothing Forecaster in NumPy,Daily Stock Prices ,A6tkHoweIgyQk5FkqZ0wf,1.2,0.13,8.99,1.38,0,0
+Double Exponential Smoothing Forecaster in NumPy,Daily Weather in 26 World Cities,A6tkHoweIgyQk5FkqZ0wf,1.63,0.09,18.02,1.4,0,0
+Double Exponential Smoothing Forecaster in NumPy,GDP per Capita Change,A6tkHoweIgyQk5FkqZ0wf,0.17,0.17,1.55,1.44,0,0
+Double Exponential Smoothing Forecaster in NumPy,Geometric Brownian Motion,A6tkHoweIgyQk5FkqZ0wf,0.35,0.19,5.3,1.39,0,0
+Double Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Daily Series,A6tkHoweIgyQk5FkqZ0wf,0.51,0.15,7.7,1.4,0,0
+Double Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Hourly Series,A6tkHoweIgyQk5FkqZ0wf,0.23,0.11,2.69,1.38,0,0
+Double Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Monthly Series,A6tkHoweIgyQk5FkqZ0wf,0.33,0.17,2.8,1.46,0,0
+Double Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Quarterly Series,A6tkHoweIgyQk5FkqZ0wf,0.23,0.17,1.51,1.44,0,0
+Double Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Yearly Series,A6tkHoweIgyQk5FkqZ0wf,0.18,0.19,1.47,1.44,0,0
+Double Exponential Smoothing Forecaster in NumPy,Multi-Seasonality Timeseries With Covariates,A6tkHoweIgyQk5FkqZ0wf,0.15,0.1,2.54,1.37,0,0
+Double Exponential Smoothing Forecaster in NumPy,Online Retail Sales,A6tkHoweIgyQk5FkqZ0wf,0.24,0.1,2.13,1.39,0,0
+Double Exponential Smoothing Forecaster in NumPy,PJM Hourly Energy Consumption,A6tkHoweIgyQk5FkqZ0wf,0.96,0.07,11.27,1.38,0,0
+Double Exponential Smoothing Forecaster in NumPy,Random Walk Dataset,A6tkHoweIgyQk5FkqZ0wf,0.33,0.14,3.66,1.38,0,0
+Double Exponential Smoothing Forecaster in NumPy,Seattle Burke Gilman Trail,A6tkHoweIgyQk5FkqZ0wf,0.24,0.06,3.63,1.39,0,0
+Double Exponential Smoothing Forecaster in NumPy,Smoke Test Forecasting,A6tkHoweIgyQk5FkqZ0wf,0.09,0.06,1.39,1.36,0,0
+Double Exponential Smoothing Forecaster in NumPy,Sunspots,A6tkHoweIgyQk5FkqZ0wf,0.09,0.05,1.51,1.36,0,0
+Double Exponential Smoothing Forecaster in NumPy,Theme Park Attendance,A6tkHoweIgyQk5FkqZ0wf,0.26,0.07,3.32,1.5,0,0
+Extra Trees Forecasting Model in Scikit-Learn,ARIMA Process,9IOerPSEX1BF8VwHBh3of,2.34,0.29,18.26,21.04,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Air Quality KDD 2018,9IOerPSEX1BF8VwHBh3of,117.36,12.1,9590.81,92.36,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Airline Passengers,9IOerPSEX1BF8VwHBh3of,0.21,0.16,1.38,2.3,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Atmospheric CO2 Concentrations,9IOerPSEX1BF8VwHBh3of,0.59,0.26,3.5,18.94,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Australian Beer Production,9IOerPSEX1BF8VwHBh3of,0.21,0.18,1.38,3.42,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Avocado Sales,9IOerPSEX1BF8VwHBh3of,5.23,0.97,64.94,12.4,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Bank Branch Transactions,9IOerPSEX1BF8VwHBh3of,2.92,0.39,36.58,13.71,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Climate Related Disasters Frequency,9IOerPSEX1BF8VwHBh3of,0.41,0.25,3.55,4.15,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Daily Stock Prices ,9IOerPSEX1BF8VwHBh3of,8.39,1.67,224.5,14.85,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Daily Weather in 26 World Cities,9IOerPSEX1BF8VwHBh3of,17.47,2.38,292.57,19.07,0,0
+Extra Trees Forecasting Model in Scikit-Learn,GDP per Capita Change,9IOerPSEX1BF8VwHBh3of,0.31,0.22,2.88,7.71,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Geometric Brownian Motion,9IOerPSEX1BF8VwHBh3of,0.89,0.47,19.25,9.37,0,0
+Extra Trees Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Daily Series,9IOerPSEX1BF8VwHBh3of,5.69,0.68,131.53,24.53,0,0
+Extra Trees Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Hourly Series,9IOerPSEX1BF8VwHBh3of,6.45,0.53,42.48,51.86,0,0
+Extra Trees Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Monthly Series,9IOerPSEX1BF8VwHBh3of,1.67,0.46,15.07,17.37,0,0
+Extra Trees Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Quarterly Series,9IOerPSEX1BF8VwHBh3of,0.29,0.21,1.79,5.42,0,0
+Extra Trees Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Yearly Series,9IOerPSEX1BF8VwHBh3of,0.24,0.21,1.97,4.19,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Multi-Seasonality Timeseries With Covariates,9IOerPSEX1BF8VwHBh3of,0.82,0.29,22.12,11.89,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Online Retail Sales,9IOerPSEX1BF8VwHBh3of,2.08,0.4,25.27,8.29,0,0
+Extra Trees Forecasting Model in Scikit-Learn,PJM Hourly Energy Consumption,9IOerPSEX1BF8VwHBh3of,8.1,1.8,300.87,57.58,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Random Walk Dataset,9IOerPSEX1BF8VwHBh3of,1.83,0.43,25.31,14.24,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Seattle Burke Gilman Trail,9IOerPSEX1BF8VwHBh3of,32.09,1.03,551.79,102.13,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Smoke Test Forecasting,9IOerPSEX1BF8VwHBh3of,0.22,0.14,1.38,3.97,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Sunspots,9IOerPSEX1BF8VwHBh3of,7.19,0.64,33.08,70.46,0,0
+Extra Trees Forecasting Model in Scikit-Learn,Theme Park Attendance,9IOerPSEX1BF8VwHBh3of,0.62,0.59,3.32,10.6,0,0
+FourTheta Forecaster in Darts,ARIMA Process,BR6h6fks45wcTdHOxR4Lj,0.83,0.29,3.61,0.67,0,0
+FourTheta Forecaster in Darts,Air Quality KDD 2018,BR6h6fks45wcTdHOxR4Lj,11.16,5.08,63.92,4.26,0,0
+FourTheta Forecaster in Darts,Airline Passengers,BR6h6fks45wcTdHOxR4Lj,0.05,0.01,0.65,0.26,0,0
+FourTheta Forecaster in Darts,Atmospheric CO2 Concentrations,BR6h6fks45wcTdHOxR4Lj,0.06,0.01,0.7,0.23,0,0
+FourTheta Forecaster in Darts,Australian Beer Production,BR6h6fks45wcTdHOxR4Lj,0.06,0.01,0.67,0.26,0,0
+FourTheta Forecaster in Darts,Avocado Sales,BR6h6fks45wcTdHOxR4Lj,3.01,0.85,6.72,1.58,0,0
+FourTheta Forecaster in Darts,Bank Branch Transactions,BR6h6fks45wcTdHOxR4Lj,0.89,0.26,2.51,0.67,0,0
+FourTheta Forecaster in Darts,Climate Related Disasters Frequency,BR6h6fks45wcTdHOxR4Lj,1.34,0.37,2.39,0.73,0,0
+FourTheta Forecaster in Darts,Daily Stock Prices ,BR6h6fks45wcTdHOxR4Lj,1.65,0.67,10.27,1.21,0,0
+FourTheta Forecaster in Darts,Daily Weather in 26 World Cities,BR6h6fks45wcTdHOxR4Lj,1.18,0.39,9.08,0.78,0,0
+FourTheta Forecaster in Darts,GDP per Capita Change,BR6h6fks45wcTdHOxR4Lj,2.54,0.65,3.51,1.1,0,0
+FourTheta Forecaster in Darts,Geometric Brownian Motion,BR6h6fks45wcTdHOxR4Lj,2.7,0.97,9.22,1.6,0,0
+FourTheta Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,BR6h6fks45wcTdHOxR4Lj,2.17,0.87,11.39,1.63,0,0
+FourTheta Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,BR6h6fks45wcTdHOxR4Lj,1.23,0.4,4.79,0.96,0,0
+FourTheta Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,BR6h6fks45wcTdHOxR4Lj,2.02,0.78,5.8,1.34,0,0
+FourTheta Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,BR6h6fks45wcTdHOxR4Lj,1.65,0.65,3.21,1.05,0,0
+FourTheta Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,BR6h6fks45wcTdHOxR4Lj,1.66,0.63,3.32,1.18,0,0
+FourTheta Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,BR6h6fks45wcTdHOxR4Lj,1.01,0.29,2.63,0.7,0,0
+FourTheta Forecaster in Darts,Online Retail Sales,BR6h6fks45wcTdHOxR4Lj,1.21,0.35,3.51,0.76,0,0
+FourTheta Forecaster in Darts,PJM Hourly Energy Consumption,BR6h6fks45wcTdHOxR4Lj,3.03,1.27,15.29,1.82,0,0
+FourTheta Forecaster in Darts,Random Walk Dataset,BR6h6fks45wcTdHOxR4Lj,1.81,0.66,6.51,1.28,0,0
+FourTheta Forecaster in Darts,Seattle Burke Gilman Trail,BR6h6fks45wcTdHOxR4Lj,0.36,0.17,4.22,0.82,0,0
+FourTheta Forecaster in Darts,Smoke Test Forecasting,BR6h6fks45wcTdHOxR4Lj,0.16,0.04,0.81,0.32,0,0
+FourTheta Forecaster in Darts,Sunspots,BR6h6fks45wcTdHOxR4Lj,0.09,0.03,1.17,0.3,0,0
+FourTheta Forecaster in Darts,Theme Park Attendance,BR6h6fks45wcTdHOxR4Lj,0.07,0.02,1.33,0.29,0,0
+MLP Forecaster in NeuralForecast,ARIMA Process,kR6isQ9H1p2cznOfEcyE1,13.13,4.1,53.33,53.43,44.9,9.35
+MLP Forecaster in NeuralForecast,Air Quality KDD 2018,kR6isQ9H1p2cznOfEcyE1,25.81,4.14,83.58,71.05,1995.3,13.95
+MLP Forecaster in NeuralForecast,Airline Passengers,kR6isQ9H1p2cznOfEcyE1,11.98,4.08,52.33,52.84,18.91,9.17
+MLP Forecaster in NeuralForecast,Atmospheric CO2 Concentrations,kR6isQ9H1p2cznOfEcyE1,12.07,4.1,52.38,52.89,21.86,9.25
+MLP Forecaster in NeuralForecast,Australian Beer Production,kR6isQ9H1p2cznOfEcyE1,12.35,4.07,52.33,52.85,18.21,9.15
+MLP Forecaster in NeuralForecast,Avocado Sales,kR6isQ9H1p2cznOfEcyE1,12.75,3.62,55.52,55.01,33.36,9.71
+MLP Forecaster in NeuralForecast,Bank Branch Transactions,kR6isQ9H1p2cznOfEcyE1,14.07,3.64,53.34,53.83,33.8,9.66
+MLP Forecaster in NeuralForecast,Climate Related Disasters Frequency,kR6isQ9H1p2cznOfEcyE1,11.86,3.57,52.65,53.3,20.29,9.31
+MLP Forecaster in NeuralForecast,Daily Stock Prices ,kR6isQ9H1p2cznOfEcyE1,13.4,3.57,57.41,54.83,78.35,9.98
+MLP Forecaster in NeuralForecast,Daily Weather in 26 World Cities,kR6isQ9H1p2cznOfEcyE1,16.04,3.62,58.49,56.9,91.16,10.61
+MLP Forecaster in NeuralForecast,GDP per Capita Change,kR6isQ9H1p2cznOfEcyE1,11.25,4.13,52.65,53.06,18.01,9.17
+MLP Forecaster in NeuralForecast,Geometric Brownian Motion,kR6isQ9H1p2cznOfEcyE1,11.22,4.13,54.5,53.68,20.44,9.23
+MLP Forecaster in NeuralForecast,M4 Forecasting Competition Sampled Daily Series,kR6isQ9H1p2cznOfEcyE1,13.14,4.16,56.99,55.7,158.51,9.66
+MLP Forecaster in NeuralForecast,M4 Forecasting Competition Sampled Hourly Series,kR6isQ9H1p2cznOfEcyE1,11.68,4.14,53.98,53.87,85.65,9.58
+MLP Forecaster in NeuralForecast,M4 Forecasting Competition Sampled Monthly Series,kR6isQ9H1p2cznOfEcyE1,11.46,4.14,53.89,53.89,28.68,9.3
+MLP Forecaster in NeuralForecast,M4 Forecasting Competition Sampled Quarterly Series,kR6isQ9H1p2cznOfEcyE1,11.14,4.11,52.66,53.13,18.51,9.2
+MLP Forecaster in NeuralForecast,M4 Forecasting Competition Sampled Yearly Series,kR6isQ9H1p2cznOfEcyE1,11.04,4.1,52.6,53.09,18.08,9.17
+MLP Forecaster in NeuralForecast,Multi-Seasonality Timeseries With Covariates,kR6isQ9H1p2cznOfEcyE1,12.49,3.62,53.23,53.74,27.55,9.41
+MLP Forecaster in NeuralForecast,Online Retail Sales,kR6isQ9H1p2cznOfEcyE1,11.92,3.59,53.39,53.73,36.94,9.43
+MLP Forecaster in NeuralForecast,PJM Hourly Energy Consumption,kR6isQ9H1p2cznOfEcyE1,13.25,4.08,55.97,53.49,81.22,9.42
+MLP Forecaster in NeuralForecast,Random Walk Dataset,kR6isQ9H1p2cznOfEcyE1,12.17,4.58,54.46,54.19,40.88,9.35
+MLP Forecaster in NeuralForecast,Seattle Burke Gilman Trail,kR6isQ9H1p2cznOfEcyE1,14.95,4.57,54.61,54.85,431.87,9.88
+MLP Forecaster in NeuralForecast,Smoke Test Forecasting,kR6isQ9H1p2cznOfEcyE1,12.2,3.52,52.35,53.11,18.55,9.16
+MLP Forecaster in NeuralForecast,Sunspots,kR6isQ9H1p2cznOfEcyE1,12.09,4.13,52.56,53.03,41.31,9.43
+MLP Forecaster in NeuralForecast,Theme Park Attendance,kR6isQ9H1p2cznOfEcyE1,12.29,3.58,53.06,53.77,37.49,9.24
+Moirai Base Forecaster,ARIMA Process,gTULh2i1VfZQKA0s6AZR0,0,11.03,0,872.57,0,702.92
+Moirai Base Forecaster,Air Quality KDD 2018,gTULh2i1VfZQKA0s6AZR0,0,17.6,0,915.58,0,702.92
+Moirai Base Forecaster,Airline Passengers,gTULh2i1VfZQKA0s6AZR0,0,3.07,0,861.61,0,702.92
+Moirai Base Forecaster,Atmospheric CO2 Concentrations,gTULh2i1VfZQKA0s6AZR0,0,3.05,0,856.33,0,702.92
+Moirai Base Forecaster,Australian Beer Production,gTULh2i1VfZQKA0s6AZR0,0,2.99,0,857.62,0,702.92
+Moirai Base Forecaster,Avocado Sales,gTULh2i1VfZQKA0s6AZR0,0,39.4,0,860.68,0,702.92
+Moirai Base Forecaster,Bank Branch Transactions,gTULh2i1VfZQKA0s6AZR0,0,14.15,0,855.41,0,702.92
+Moirai Base Forecaster,Climate Related Disasters Frequency,gTULh2i1VfZQKA0s6AZR0,0,19.69,0,849.48,0,702.92
+Moirai Base Forecaster,Daily Stock Prices ,gTULh2i1VfZQKA0s6AZR0,0,20.69,0,893.88,0,702.92
+Moirai Base Forecaster,Daily Weather in 26 World Cities,gTULh2i1VfZQKA0s6AZR0,0,12.31,0,868.86,0,702.92
+Moirai Base Forecaster,GDP per Capita Change,gTULh2i1VfZQKA0s6AZR0,0,33.04,0,891.03,0,702.92
+Moirai Base Forecaster,Geometric Brownian Motion,gTULh2i1VfZQKA0s6AZR0,0,37.56,0,877.73,0,702.92
+Moirai Base Forecaster,M4 Forecasting Competition Sampled Daily Series,gTULh2i1VfZQKA0s6AZR0,0,22.86,0,865.07,0,702.92
+Moirai Base Forecaster,M4 Forecasting Competition Sampled Hourly Series,gTULh2i1VfZQKA0s6AZR0,0,14.53,0,866.8,0,702.92
+Moirai Base Forecaster,M4 Forecasting Competition Sampled Monthly Series,gTULh2i1VfZQKA0s6AZR0,0,29.73,0,876.5,0,702.92
+Moirai Base Forecaster,M4 Forecasting Competition Sampled Quarterly Series,gTULh2i1VfZQKA0s6AZR0,0,28.02,0,852.57,0,702.92
+Moirai Base Forecaster,M4 Forecasting Competition Sampled Yearly Series,gTULh2i1VfZQKA0s6AZR0,0,37.32,0,869.51,0,702.92
+Moirai Base Forecaster,Multi-Seasonality Timeseries With Covariates,gTULh2i1VfZQKA0s6AZR0,0,14.88,0,882.68,0,702.92
+Moirai Base Forecaster,Online Retail Sales,gTULh2i1VfZQKA0s6AZR0,0,15.68,0,862.11,0,702.92
+Moirai Base Forecaster,PJM Hourly Energy Consumption,gTULh2i1VfZQKA0s6AZR0,0,6.5,0,862.4,0,702.92
+Moirai Base Forecaster,Random Walk Dataset,gTULh2i1VfZQKA0s6AZR0,0,26.93,0,871.91,0,702.92
+Moirai Base Forecaster,Seattle Burke Gilman Trail,gTULh2i1VfZQKA0s6AZR0,0,4.14,0,864.92,0,702.92
+Moirai Base Forecaster,Smoke Test Forecasting,gTULh2i1VfZQKA0s6AZR0,0,4.48,0,855.03,0,702.92
+Moirai Base Forecaster,Sunspots,gTULh2i1VfZQKA0s6AZR0,0,3.09,0,859.32,0,702.92
+Moirai Base Forecaster,Theme Park Attendance,gTULh2i1VfZQKA0s6AZR0,0,3.08,0,852.05,0,702.92
+Moirai Large Forecaster,ARIMA Process,IRipkKZ8i65L78CgAyk3V,0,17.86,0,1974.12,0,2374.2
+Moirai Large Forecaster,Air Quality KDD 2018,IRipkKZ8i65L78CgAyk3V,0,27.08,0,2010.86,0,2374.2
+Moirai Large Forecaster,Airline Passengers,IRipkKZ8i65L78CgAyk3V,0,5.12,0,1972.91,0,2374.2
+Moirai Large Forecaster,Atmospheric CO2 Concentrations,IRipkKZ8i65L78CgAyk3V,0,5.15,0,1977.09,0,2374.2
+Moirai Large Forecaster,Australian Beer Production,IRipkKZ8i65L78CgAyk3V,0,5.16,0,1970.03,0,2374.2
+Moirai Large Forecaster,Avocado Sales,IRipkKZ8i65L78CgAyk3V,0,64.98,0,1975.68,0,2374.2
+Moirai Large Forecaster,Bank Branch Transactions,IRipkKZ8i65L78CgAyk3V,0,23.06,0,1972.05,0,2374.2
+Moirai Large Forecaster,Climate Related Disasters Frequency,IRipkKZ8i65L78CgAyk3V,0,32.74,0,1971.85,0,2374.2
+Moirai Large Forecaster,Daily Stock Prices ,IRipkKZ8i65L78CgAyk3V,0,34.8,0,1979.1,0,2374.2
+Moirai Large Forecaster,Daily Weather in 26 World Cities,IRipkKZ8i65L78CgAyk3V,0,19.79,0,1982.06,0,2374.2
+Moirai Large Forecaster,GDP per Capita Change,IRipkKZ8i65L78CgAyk3V,0,55.18,0,1980.16,0,2374.2
+Moirai Large Forecaster,Geometric Brownian Motion,IRipkKZ8i65L78CgAyk3V,0,59.83,0,1977.27,0,2374.2
+Moirai Large Forecaster,M4 Forecasting Competition Sampled Daily Series,IRipkKZ8i65L78CgAyk3V,0,38.46,0,1980.5,0,2374.2
+Moirai Large Forecaster,M4 Forecasting Competition Sampled Hourly Series,IRipkKZ8i65L78CgAyk3V,0,24.48,0,1975.64,0,2374.2
+Moirai Large Forecaster,M4 Forecasting Competition Sampled Monthly Series,IRipkKZ8i65L78CgAyk3V,0,49.91,0,1975.4,0,2374.2
+Moirai Large Forecaster,M4 Forecasting Competition Sampled Quarterly Series,IRipkKZ8i65L78CgAyk3V,0,47.61,0,1973.4,0,2374.2
+Moirai Large Forecaster,M4 Forecasting Competition Sampled Yearly Series,IRipkKZ8i65L78CgAyk3V,0,60.28,0,1973.81,0,2374.2
+Moirai Large Forecaster,Multi-Seasonality Timeseries With Covariates,IRipkKZ8i65L78CgAyk3V,0,24.82,0,1978.98,0,2374.2
+Moirai Large Forecaster,Online Retail Sales,IRipkKZ8i65L78CgAyk3V,0,25.96,0,1976.67,0,2374.2
+Moirai Large Forecaster,PJM Hourly Energy Consumption,IRipkKZ8i65L78CgAyk3V,0,10.61,0,1983.8,0,2374.2
+Moirai Large Forecaster,Random Walk Dataset,IRipkKZ8i65L78CgAyk3V,0,44.25,0,1980.25,0,2374.2
+Moirai Large Forecaster,Seattle Burke Gilman Trail,IRipkKZ8i65L78CgAyk3V,0,7.02,0,1972.17,0,2374.2
+Moirai Large Forecaster,Smoke Test Forecasting,IRipkKZ8i65L78CgAyk3V,0,7.35,0,1971.93,0,2374.2
+Moirai Large Forecaster,Sunspots,IRipkKZ8i65L78CgAyk3V,0,5.16,0,1975.94,0,2374.2
+Moirai Large Forecaster,Theme Park Attendance,IRipkKZ8i65L78CgAyk3V,0,5.31,0,1975.85,0,2374.2
+Moirai Small Forecaster,ARIMA Process,nyE9rvkn3KPDv6NXS6aEb,0,7.6,0,725.2,0,113.55
+Moirai Small Forecaster,Air Quality KDD 2018,nyE9rvkn3KPDv6NXS6aEb,0,13.48,0,789.23,0,117.77
+Moirai Small Forecaster,Airline Passengers,nyE9rvkn3KPDv6NXS6aEb,0,2.32,0,756.87,0,113.35
+Moirai Small Forecaster,Atmospheric CO2 Concentrations,nyE9rvkn3KPDv6NXS6aEb,0,2.23,0,725.09,0,114.88
+Moirai Small Forecaster,Australian Beer Production,nyE9rvkn3KPDv6NXS6aEb,0,2.33,0,740.17,0,111.55
+Moirai Small Forecaster,Avocado Sales,nyE9rvkn3KPDv6NXS6aEb,0,27.43,0,734.52,0,111.95
+Moirai Small Forecaster,Bank Branch Transactions,nyE9rvkn3KPDv6NXS6aEb,0,9.85,0,734.85,0,111.95
+Moirai Small Forecaster,Climate Related Disasters Frequency,nyE9rvkn3KPDv6NXS6aEb,0,13.8,0,750.58,0,111.55
+Moirai Small Forecaster,Daily Stock Prices ,nyE9rvkn3KPDv6NXS6aEb,0,14.66,0,756.18,0,113.35
+Moirai Small Forecaster,Daily Weather in 26 World Cities,nyE9rvkn3KPDv6NXS6aEb,0,8.78,0,756.53,0,111.95
+Moirai Small Forecaster,GDP per Capita Change,nyE9rvkn3KPDv6NXS6aEb,0,23.02,0,747.89,0,111.55
+Moirai Small Forecaster,Geometric Brownian Motion,nyE9rvkn3KPDv6NXS6aEb,0,26.32,0,730.73,0,111.95
+Moirai Small Forecaster,M4 Forecasting Competition Sampled Daily Series,nyE9rvkn3KPDv6NXS6aEb,0,16.57,0,741.3,0,114.88
+Moirai Small Forecaster,M4 Forecasting Competition Sampled Hourly Series,nyE9rvkn3KPDv6NXS6aEb,0,10.51,0,726.6,0,115.1
+Moirai Small Forecaster,M4 Forecasting Competition Sampled Monthly Series,nyE9rvkn3KPDv6NXS6aEb,0,20.9,0,764.07,0,113.35
+Moirai Small Forecaster,M4 Forecasting Competition Sampled Quarterly Series,nyE9rvkn3KPDv6NXS6aEb,0,19.94,0,733.6,0,111.95
+Moirai Small Forecaster,M4 Forecasting Competition Sampled Yearly Series,nyE9rvkn3KPDv6NXS6aEb,0,25.76,0,729.96,0,111.55
+Moirai Small Forecaster,Multi-Seasonality Timeseries With Covariates,nyE9rvkn3KPDv6NXS6aEb,0,10.61,0,744.93,0,111.95
+Moirai Small Forecaster,Online Retail Sales,nyE9rvkn3KPDv6NXS6aEb,0,11.16,0,749.64,0,113.35
+Moirai Small Forecaster,PJM Hourly Energy Consumption,nyE9rvkn3KPDv6NXS6aEb,0,4.74,0,742.61,0,115.1
+Moirai Small Forecaster,Random Walk Dataset,nyE9rvkn3KPDv6NXS6aEb,0,19.09,0,731.93,0,113.55
+Moirai Small Forecaster,Seattle Burke Gilman Trail,nyE9rvkn3KPDv6NXS6aEb,0,2.98,0,728.43,0,119.5
+Moirai Small Forecaster,Smoke Test Forecasting,nyE9rvkn3KPDv6NXS6aEb,0,3.19,0,732.7,0,111.95
+Moirai Small Forecaster,Sunspots,nyE9rvkn3KPDv6NXS6aEb,0,2.38,0,726.54,0,118.38
+Moirai Small Forecaster,Theme Park Attendance,nyE9rvkn3KPDv6NXS6aEb,0,2.34,0,731.46,0,111.95
+NBeats Forecasting Model with Pretraining,ARIMA Process,GhH0aNinM1xYwQrt4R83L,583.76,1.87,116.01,3.79,46.57,0.15
+NBeats Forecasting Model with Pretraining,Air Quality KDD 2018,GhH0aNinM1xYwQrt4R83L,1283.43,26.44,9588.78,82.92,923.97,2.05
+NBeats Forecasting Model with Pretraining,Airline Passengers,GhH0aNinM1xYwQrt4R83L,379.35,1.74,62.89,3.36,21.22,0.08
+NBeats Forecasting Model with Pretraining,Atmospheric CO2 Concentrations,GhH0aNinM1xYwQrt4R83L,510.41,1.76,208.19,3.51,70.99,0.17
+NBeats Forecasting Model with Pretraining,Australian Beer Production,GhH0aNinM1xYwQrt4R83L,320.68,1.73,29.03,3.38,9.67,0.06
+NBeats Forecasting Model with Pretraining,Avocado Sales,GhH0aNinM1xYwQrt4R83L,553.16,3.43,642.26,5.29,137.05,0.43
+NBeats Forecasting Model with Pretraining,Bank Branch Transactions,GhH0aNinM1xYwQrt4R83L,454.62,2.28,584.29,4.03,109.34,0.3
+NBeats Forecasting Model with Pretraining,Climate Related Disasters Frequency,GhH0aNinM1xYwQrt4R83L,271.16,2.07,112.48,3.66,16.81,0.09
+NBeats Forecasting Model with Pretraining,Daily Stock Prices ,GhH0aNinM1xYwQrt4R83L,552.13,5.02,730.25,10.75,161.97,0.39
+NBeats Forecasting Model with Pretraining,Daily Weather in 26 World Cities,GhH0aNinM1xYwQrt4R83L,564.43,6.74,1728.74,17.87,356.18,0.69
+NBeats Forecasting Model with Pretraining,GDP per Capita Change,GhH0aNinM1xYwQrt4R83L,195.4,1.8,23.24,3.5,6.66,0.07
+NBeats Forecasting Model with Pretraining,Geometric Brownian Motion,GhH0aNinM1xYwQrt4R83L,289.21,2.19,40.43,5.08,15.76,0.1
+NBeats Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Daily Series,GhH0aNinM1xYwQrt4R83L,714.63,2.39,231.81,7.48,92.77,0.29
+NBeats Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Hourly Series,GhH0aNinM1xYwQrt4R83L,1106.88,1.99,276.43,4.18,111.24,0.32
+NBeats Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Monthly Series,GhH0aNinM1xYwQrt4R83L,407.95,2.08,93.43,4.19,37.31,0.16
+NBeats Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Quarterly Series,GhH0aNinM1xYwQrt4R83L,280.18,1.81,30.65,3.57,10.69,0.09
+NBeats Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Yearly Series,GhH0aNinM1xYwQrt4R83L,201.36,1.83,21.25,3.49,4.38,0.06
+NBeats Forecasting Model with Pretraining,Multi-Seasonality Timeseries With Covariates,GhH0aNinM1xYwQrt4R83L,361.2,2.08,274.85,3.87,54.82,0.2
+NBeats Forecasting Model with Pretraining,Online Retail Sales,GhH0aNinM1xYwQrt4R83L,623.47,2.1,209.45,3.97,57.2,0.19
+NBeats Forecasting Model with Pretraining,PJM Hourly Energy Consumption,GhH0aNinM1xYwQrt4R83L,1024.02,3.76,300.81,12.98,111.24,0.23
+NBeats Forecasting Model with Pretraining,Random Walk Dataset,GhH0aNinM1xYwQrt4R83L,334.72,2.03,97.28,4.29,38.86,0.16
+NBeats Forecasting Model with Pretraining,Seattle Burke Gilman Trail,GhH0aNinM1xYwQrt4R83L,1458.88,2.37,4749.65,5.64,1086.67,1.98
+NBeats Forecasting Model with Pretraining,Smoke Test Forecasting,GhH0aNinM1xYwQrt4R83L,222.66,1.72,35.34,3.32,12.02,0.07
+NBeats Forecasting Model with Pretraining,Sunspots,GhH0aNinM1xYwQrt4R83L,980.98,1.83,506.78,3.91,178.3,0.36
+NBeats Forecasting Model with Pretraining,Theme Park Attendance,GhH0aNinM1xYwQrt4R83L,494.64,2.25,54.02,4.33,18.35,0.08
+Naive Drift Forecaster in Darts,ARIMA Process,zNIOVeiF8prqnvWgDCuAd,0.28,0.19,2.26,1.77,0,0
+Naive Drift Forecaster in Darts,Air Quality KDD 2018,zNIOVeiF8prqnvWgDCuAd,9.61,0.29,63.95,4.81,0,0
+Naive Drift Forecaster in Darts,Airline Passengers,zNIOVeiF8prqnvWgDCuAd,0.07,0.06,1.39,1.36,0,0
+Naive Drift Forecaster in Darts,Atmospheric CO2 Concentrations,zNIOVeiF8prqnvWgDCuAd,0.07,0.05,1.43,1.36,0,0
+Naive Drift Forecaster in Darts,Australian Beer Production,zNIOVeiF8prqnvWgDCuAd,0.09,0.05,1.39,1.36,0,0
+Naive Drift Forecaster in Darts,Avocado Sales,zNIOVeiF8prqnvWgDCuAd,1.09,0.69,5.28,3.24,0,0
+Naive Drift Forecaster in Darts,Bank Branch Transactions,zNIOVeiF8prqnvWgDCuAd,0.35,0.23,2.04,1.88,0,0
+Naive Drift Forecaster in Darts,Climate Related Disasters Frequency,zNIOVeiF8prqnvWgDCuAd,0.4,0.32,1.49,2.16,0,0
+Naive Drift Forecaster in Darts,Daily Stock Prices ,zNIOVeiF8prqnvWgDCuAd,1.41,0.33,9.22,2.5,0,0
+Naive Drift Forecaster in Darts,Daily Weather in 26 World Cities,zNIOVeiF8prqnvWgDCuAd,1.64,0.2,17.99,1.97,0,0
+Naive Drift Forecaster in Darts,GDP per Capita Change,zNIOVeiF8prqnvWgDCuAd,0.54,0.67,1.91,2.91,0,0
+Naive Drift Forecaster in Darts,Geometric Brownian Motion,zNIOVeiF8prqnvWgDCuAd,0.81,0.6,5.76,3.3,0,0
+Naive Drift Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,zNIOVeiF8prqnvWgDCuAd,0.75,0.4,7.67,2.82,0,0
+Naive Drift Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,zNIOVeiF8prqnvWgDCuAd,0.35,0.26,2.83,2,0,0
+Naive Drift Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,zNIOVeiF8prqnvWgDCuAd,0.61,0.48,3.44,2.76,0,0
+Naive Drift Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,zNIOVeiF8prqnvWgDCuAd,0.43,0.53,1.75,2.52,0,0
+Naive Drift Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,zNIOVeiF8prqnvWgDCuAd,0.56,0.6,1.96,3,0,0
+Naive Drift Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,zNIOVeiF8prqnvWgDCuAd,0.3,0.25,2.51,1.87,0,0
+Naive Drift Forecaster in Darts,Online Retail Sales,zNIOVeiF8prqnvWgDCuAd,0.36,0.25,2.23,2,0,0
+Naive Drift Forecaster in Darts,PJM Hourly Energy Consumption,zNIOVeiF8prqnvWgDCuAd,1.24,0.12,11.25,2.34,0,0
+Naive Drift Forecaster in Darts,Random Walk Dataset,zNIOVeiF8prqnvWgDCuAd,0.6,0.44,4.04,2.63,0,0
+Naive Drift Forecaster in Darts,Seattle Burke Gilman Trail,zNIOVeiF8prqnvWgDCuAd,0.27,0.09,3.78,1.61,0,0
+Naive Drift Forecaster in Darts,Smoke Test Forecasting,zNIOVeiF8prqnvWgDCuAd,0.09,0.08,1.39,1.36,0,0
+Naive Drift Forecaster in Darts,Sunspots,zNIOVeiF8prqnvWgDCuAd,0.08,0.06,1.5,1.36,0,0
+Naive Drift Forecaster in Darts,Theme Park Attendance,zNIOVeiF8prqnvWgDCuAd,0.29,0.12,3.29,1.51,0,0
+Naive Recent Window Mean Forecaster in Darts,ARIMA Process,SV0ocF3iFyDja2QjNgiXp,0.23,0.17,2.26,1.69,0,0
+Naive Recent Window Mean Forecaster in Darts,Air Quality KDD 2018,SV0ocF3iFyDja2QjNgiXp,9.34,0.25,58.5,2,0,0
+Naive Recent Window Mean Forecaster in Darts,Airline Passengers,SV0ocF3iFyDja2QjNgiXp,0.08,0.05,1.39,1.36,0,0
+Naive Recent Window Mean Forecaster in Darts,Atmospheric CO2 Concentrations,SV0ocF3iFyDja2QjNgiXp,0.07,0.05,1.43,1.37,0,0
+Naive Recent Window Mean Forecaster in Darts,Australian Beer Production,SV0ocF3iFyDja2QjNgiXp,0.08,0.05,1.39,1.36,0,0
+Naive Recent Window Mean Forecaster in Darts,Avocado Sales,SV0ocF3iFyDja2QjNgiXp,1.08,0.62,5,3.22,0,0
+Naive Recent Window Mean Forecaster in Darts,Bank Branch Transactions,SV0ocF3iFyDja2QjNgiXp,0.34,0.22,2.04,1.9,0,0
+Naive Recent Window Mean Forecaster in Darts,Climate Related Disasters Frequency,SV0ocF3iFyDja2QjNgiXp,0.36,0.3,1.49,2.21,0,0
+Naive Recent Window Mean Forecaster in Darts,Daily Stock Prices ,SV0ocF3iFyDja2QjNgiXp,1.32,0.32,8.96,2.18,0,0
+Naive Recent Window Mean Forecaster in Darts,Daily Weather in 26 World Cities,SV0ocF3iFyDja2QjNgiXp,1.7,0.18,17.99,1.8,0,0
+Naive Recent Window Mean Forecaster in Darts,GDP per Capita Change,SV0ocF3iFyDja2QjNgiXp,0.52,0.5,1.8,2.93,0,0
+Naive Recent Window Mean Forecaster in Darts,Geometric Brownian Motion,SV0ocF3iFyDja2QjNgiXp,0.72,0.57,5.26,3.03,0,0
+Naive Recent Window Mean Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,SV0ocF3iFyDja2QjNgiXp,0.62,0.37,7.67,2.35,0,0
+Naive Recent Window Mean Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,SV0ocF3iFyDja2QjNgiXp,0.33,0.23,2.67,1.88,0,0
+Naive Recent Window Mean Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,SV0ocF3iFyDja2QjNgiXp,0.56,0.46,3.06,2.69,0,0
+Naive Recent Window Mean Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,SV0ocF3iFyDja2QjNgiXp,0.44,0.44,1.67,2.59,0,0
+Naive Recent Window Mean Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,SV0ocF3iFyDja2QjNgiXp,0.56,0.55,1.88,3.08,0,0
+Naive Recent Window Mean Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,SV0ocF3iFyDja2QjNgiXp,0.29,0.23,2.51,1.88,0,0
+Naive Recent Window Mean Forecaster in Darts,Online Retail Sales,SV0ocF3iFyDja2QjNgiXp,0.34,0.24,2.12,1.97,0,0
+Naive Recent Window Mean Forecaster in Darts,PJM Hourly Energy Consumption,SV0ocF3iFyDja2QjNgiXp,0.93,0.11,11.25,1.51,0,0
+Naive Recent Window Mean Forecaster in Darts,Random Walk Dataset,SV0ocF3iFyDja2QjNgiXp,0.54,0.41,3.63,2.45,0,0
+Naive Recent Window Mean Forecaster in Darts,Seattle Burke Gilman Trail,SV0ocF3iFyDja2QjNgiXp,0.25,0.08,3.6,1.45,0,0
+Naive Recent Window Mean Forecaster in Darts,Smoke Test Forecasting,SV0ocF3iFyDja2QjNgiXp,0.08,0.07,1.39,1.36,0,0
+Naive Recent Window Mean Forecaster in Darts,Sunspots,SV0ocF3iFyDja2QjNgiXp,0.08,0.06,1.5,1.36,0,0
+Naive Recent Window Mean Forecaster in Darts,Theme Park Attendance,SV0ocF3iFyDja2QjNgiXp,0.28,0.07,3.29,1.51,0,0
+Naive Seasonal Forecaster in Darts,ARIMA Process,TaSoj67v0EJva5MbqZGCP,0.32,0.18,2.26,1.8,0,0
+Naive Seasonal Forecaster in Darts,Air Quality KDD 2018,TaSoj67v0EJva5MbqZGCP,9.6,0.31,63.97,4.83,0,0
+Naive Seasonal Forecaster in Darts,Airline Passengers,TaSoj67v0EJva5MbqZGCP,0.13,0.05,1.39,1.36,0,0
+Naive Seasonal Forecaster in Darts,Atmospheric CO2 Concentrations,TaSoj67v0EJva5MbqZGCP,0.08,0.07,1.43,1.36,0,0
+Naive Seasonal Forecaster in Darts,Australian Beer Production,TaSoj67v0EJva5MbqZGCP,0.07,0.06,1.39,1.36,0,0
+Naive Seasonal Forecaster in Darts,Avocado Sales,TaSoj67v0EJva5MbqZGCP,1.13,0.65,5.3,3.35,0,0
+Naive Seasonal Forecaster in Darts,Bank Branch Transactions,TaSoj67v0EJva5MbqZGCP,0.35,0.22,2.04,1.91,0,0
+Naive Seasonal Forecaster in Darts,Climate Related Disasters Frequency,TaSoj67v0EJva5MbqZGCP,0.39,0.39,1.49,2.21,0,0
+Naive Seasonal Forecaster in Darts,Daily Stock Prices ,TaSoj67v0EJva5MbqZGCP,1.41,0.4,9.23,2.56,0,0
+Naive Seasonal Forecaster in Darts,Daily Weather in 26 World Cities,TaSoj67v0EJva5MbqZGCP,1.67,0.25,17.99,2,0,0
+Naive Seasonal Forecaster in Darts,GDP per Capita Change,TaSoj67v0EJva5MbqZGCP,0.54,0.52,1.92,2.96,0,0
+Naive Seasonal Forecaster in Darts,Geometric Brownian Motion,TaSoj67v0EJva5MbqZGCP,0.83,0.59,5.76,3.42,0,0
+Naive Seasonal Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,TaSoj67v0EJva5MbqZGCP,0.76,0.4,7.66,2.89,0,0
+Naive Seasonal Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,TaSoj67v0EJva5MbqZGCP,0.38,0.25,2.82,2.04,0,0
+Naive Seasonal Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,TaSoj67v0EJva5MbqZGCP,0.6,0.48,3.46,3.13,0,0
+Naive Seasonal Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,TaSoj67v0EJva5MbqZGCP,0.46,0.44,1.77,2.61,0,0
+Naive Seasonal Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,TaSoj67v0EJva5MbqZGCP,0.59,0.59,2,3.12,0,0
+Naive Seasonal Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,TaSoj67v0EJva5MbqZGCP,0.31,0.23,2.51,1.92,0,0
+Naive Seasonal Forecaster in Darts,Online Retail Sales,TaSoj67v0EJva5MbqZGCP,0.41,0.26,2.24,2.07,0,0
+Naive Seasonal Forecaster in Darts,PJM Hourly Energy Consumption,TaSoj67v0EJva5MbqZGCP,1.14,0.14,11.25,2.35,0,0
+Naive Seasonal Forecaster in Darts,Random Walk Dataset,TaSoj67v0EJva5MbqZGCP,0.62,0.44,4.04,2.71,0,0
+Naive Seasonal Forecaster in Darts,Seattle Burke Gilman Trail,TaSoj67v0EJva5MbqZGCP,0.29,0.09,3.78,1.62,0,0
+Naive Seasonal Forecaster in Darts,Smoke Test Forecasting,TaSoj67v0EJva5MbqZGCP,0.07,0.1,1.39,1.36,0,0
+Naive Seasonal Forecaster in Darts,Sunspots,TaSoj67v0EJva5MbqZGCP,0.1,0.05,1.5,1.36,0,0
+Naive Seasonal Forecaster in Darts,Theme Park Attendance,TaSoj67v0EJva5MbqZGCP,0.28,0.08,3.29,1.51,0,0
+PatchMixer Forecaster,ARIMA Process,UMIndIFxWE1NtUl0Hzh4c,37.78,1.96,1158.21,635.58,23.91,10.89
+PatchMixer Forecaster,Air Quality KDD 2018,UMIndIFxWE1NtUl0Hzh4c,429.87,1.92,734.59,634.87,207,41.31
+PatchMixer Forecaster,Airline Passengers,UMIndIFxWE1NtUl0Hzh4c,1.93,1.27,635.21,635.21,146.76,136.52
+PatchMixer Forecaster,Atmospheric CO2 Concentrations,UMIndIFxWE1NtUl0Hzh4c,3.27,1.4,634.97,635.43,157.38,12.46
+PatchMixer Forecaster,Australian Beer Production,UMIndIFxWE1NtUl0Hzh4c,2.46,1.26,635.98,635.21,145.37,136.3
+PatchMixer Forecaster,Avocado Sales,UMIndIFxWE1NtUl0Hzh4c,75,2.09,1155.52,636.23,148.22,138.2
+PatchMixer Forecaster,Bank Branch Transactions,UMIndIFxWE1NtUl0Hzh4c,24.48,1.52,1153.15,635.6,147.07,138.07
+PatchMixer Forecaster,Climate Related Disasters Frequency,UMIndIFxWE1NtUl0Hzh4c,5.67,1.61,1159.11,636.27,144.72,12.68
+PatchMixer Forecaster,Daily Stock Prices ,UMIndIFxWE1NtUl0Hzh4c,84.33,1.44,1153.86,635.64,149.05,138.64
+PatchMixer Forecaster,Daily Weather in 26 World Cities,UMIndIFxWE1NtUl0Hzh4c,41.17,1.49,1154.57,634.94,150.3,140.65
+PatchMixer Forecaster,GDP per Capita Change,UMIndIFxWE1NtUl0Hzh4c,15.06,1.84,1191.69,636.03,144.55,12.4
+PatchMixer Forecaster,Geometric Brownian Motion,UMIndIFxWE1NtUl0Hzh4c,46.24,1.48,1152.13,635.89,145.13,136.53
+PatchMixer Forecaster,M4 Forecasting Competition Sampled Daily Series,UMIndIFxWE1NtUl0Hzh4c,224.41,1.57,1147.94,636.12,34.84,17.02
+PatchMixer Forecaster,M4 Forecasting Competition Sampled Hourly Series,UMIndIFxWE1NtUl0Hzh4c,91.96,1.56,1145.17,635.5,42.14,18.84
+PatchMixer Forecaster,M4 Forecasting Competition Sampled Monthly Series,UMIndIFxWE1NtUl0Hzh4c,74.36,1.82,1157.25,635.92,22.54,11.26
+PatchMixer Forecaster,M4 Forecasting Competition Sampled Quarterly Series,UMIndIFxWE1NtUl0Hzh4c,9.84,1.76,1157.21,635.47,145.8,136.99
+PatchMixer Forecaster,M4 Forecasting Competition Sampled Yearly Series,UMIndIFxWE1NtUl0Hzh4c,13.5,1.91,1156.15,635.64,145.07,136.57
+PatchMixer Forecaster,Multi-Seasonality Timeseries With Covariates,UMIndIFxWE1NtUl0Hzh4c,31.15,1.54,1152.05,635.35,145.6,136.93
+PatchMixer Forecaster,Online Retail Sales,UMIndIFxWE1NtUl0Hzh4c,49.42,1.55,1178.14,635.67,147.67,138.05
+PatchMixer Forecaster,PJM Hourly Energy Consumption,UMIndIFxWE1NtUl0Hzh4c,56.91,1.5,1149.35,635.71,163.57,19.45
+PatchMixer Forecaster,Random Walk Dataset,UMIndIFxWE1NtUl0Hzh4c,60.81,1.44,1162.86,636.32,22.98,10.48
+PatchMixer Forecaster,Seattle Burke Gilman Trail,UMIndIFxWE1NtUl0Hzh4c,45.15,1.81,1146.23,635.44,233.56,38.63
+PatchMixer Forecaster,Smoke Test Forecasting,UMIndIFxWE1NtUl0Hzh4c,5.18,1.28,635.34,636.45,145.29,9.41
+PatchMixer Forecaster,Sunspots,UMIndIFxWE1NtUl0Hzh4c,11.34,1.69,1156.25,636.7,215.79,155.03
+PatchMixer Forecaster,Theme Park Attendance,UMIndIFxWE1NtUl0Hzh4c,3.64,1.33,635.59,635.46,160.56,137.3
+PatchTST Forecaster in GluonTS,ARIMA Process,RDYahD3VaYjgcnwRxKyQK,146.04,0.79,17.84,3.96,26.67,11
+PatchTST Forecaster in GluonTS,Air Quality KDD 2018,RDYahD3VaYjgcnwRxKyQK,164.7,1.46,118.06,25.95,126.99,33.04
+PatchTST Forecaster in GluonTS,Airline Passengers,RDYahD3VaYjgcnwRxKyQK,150.79,0.7,13.89,2.35,21.47,9.74
+PatchTST Forecaster in GluonTS,Atmospheric CO2 Concentrations,RDYahD3VaYjgcnwRxKyQK,148.02,1.36,30.24,7.28,43.84,14.67
+PatchTST Forecaster in GluonTS,Australian Beer Production,RDYahD3VaYjgcnwRxKyQK,142.68,0.71,12.59,1.95,19.39,9.34
+PatchTST Forecaster in GluonTS,Avocado Sales,RDYahD3VaYjgcnwRxKyQK,140.87,0.93,16.68,4.63,20.2,9.71
+PatchTST Forecaster in GluonTS,Bank Branch Transactions,RDYahD3VaYjgcnwRxKyQK,143.19,0.89,14.18,3.28,20.28,9.69
+PatchTST Forecaster in GluonTS,Climate Related Disasters Frequency,RDYahD3VaYjgcnwRxKyQK,147.28,1.5,13.1,2.59,19.06,9.36
+PatchTST Forecaster in GluonTS,Daily Stock Prices ,RDYahD3VaYjgcnwRxKyQK,146.47,0.87,19.32,4.28,22.25,10.21
+PatchTST Forecaster in GluonTS,Daily Weather in 26 World Cities,RDYahD3VaYjgcnwRxKyQK,145.16,0.78,19.22,3.32,20.79,9.78
+PatchTST Forecaster in GluonTS,GDP per Capita Change,RDYahD3VaYjgcnwRxKyQK,142.65,1.63,13.47,2.91,19.06,9.39
+PatchTST Forecaster in GluonTS,Geometric Brownian Motion,RDYahD3VaYjgcnwRxKyQK,142.73,1.49,15.78,3.51,19.77,9.59
+PatchTST Forecaster in GluonTS,M4 Forecasting Competition Sampled Daily Series,RDYahD3VaYjgcnwRxKyQK,147.84,1.27,34.4,9.3,43.84,15.55
+PatchTST Forecaster in GluonTS,M4 Forecasting Competition Sampled Hourly Series,RDYahD3VaYjgcnwRxKyQK,149.95,1.04,39.31,10.63,54.88,17.91
+PatchTST Forecaster in GluonTS,M4 Forecasting Competition Sampled Monthly Series,RDYahD3VaYjgcnwRxKyQK,145.91,1.38,16.71,3.97,23.12,10.48
+PatchTST Forecaster in GluonTS,M4 Forecasting Competition Sampled Quarterly Series,RDYahD3VaYjgcnwRxKyQK,156.89,0.88,13.85,2.99,20.2,9.71
+PatchTST Forecaster in GluonTS,M4 Forecasting Competition Sampled Yearly Series,RDYahD3VaYjgcnwRxKyQK,148.15,0.97,13.51,3.28,19.3,9.46
+PatchTST Forecaster in GluonTS,Multi-Seasonality Timeseries With Covariates,RDYahD3VaYjgcnwRxKyQK,143.24,0.85,13.85,3.74,19.77,9.55
+PatchTST Forecaster in GluonTS,Online Retail Sales,RDYahD3VaYjgcnwRxKyQK,142.22,0.86,15.25,3.2,22.25,10.21
+PatchTST Forecaster in GluonTS,PJM Hourly Energy Consumption,RDYahD3VaYjgcnwRxKyQK,148.07,0.75,42.48,9.75,54.88,17.18
+PatchTST Forecaster in GluonTS,Random Walk Dataset,RDYahD3VaYjgcnwRxKyQK,145.82,1.63,17.57,4.11,23.78,10.66
+PatchTST Forecaster in GluonTS,Seattle Burke Gilman Trail,RDYahD3VaYjgcnwRxKyQK,158.51,0.96,153.63,43.7,227.07,51.58
+PatchTST Forecaster in GluonTS,Smoke Test Forecasting,RDYahD3VaYjgcnwRxKyQK,144.57,1.15,12.75,2.14,19.77,9.42
+PatchTST Forecaster in GluonTS,Sunspots,RDYahD3VaYjgcnwRxKyQK,165.53,0.86,114.94,32.32,168.9,39.71
+PatchTST Forecaster in GluonTS,Theme Park Attendance,RDYahD3VaYjgcnwRxKyQK,148.92,1.1,14.28,3.15,20.79,9.6
+Random Forest Forecasting Model in Scikit-Learn,ARIMA Process,B7cdMBs38jXzBgMUKzSl4,15.36,0.31,18.26,13.53,0,0
+Random Forest Forecasting Model in Scikit-Learn,Air Quality KDD 2018,B7cdMBs38jXzBgMUKzSl4,612.88,12.65,9590.82,92.37,0,0
+Random Forest Forecasting Model in Scikit-Learn,Airline Passengers,B7cdMBs38jXzBgMUKzSl4,0.28,0.14,1.38,1.99,0,0
+Random Forest Forecasting Model in Scikit-Learn,Atmospheric CO2 Concentrations,B7cdMBs38jXzBgMUKzSl4,2.2,0.22,3.5,10.02,0,0
+Random Forest Forecasting Model in Scikit-Learn,Australian Beer Production,B7cdMBs38jXzBgMUKzSl4,0.31,0.15,1.39,2.53,0,0
+Random Forest Forecasting Model in Scikit-Learn,Avocado Sales,B7cdMBs38jXzBgMUKzSl4,33.9,0.89,64.95,9.91,0,0
+Random Forest Forecasting Model in Scikit-Learn,Bank Branch Transactions,B7cdMBs38jXzBgMUKzSl4,15.92,0.41,36.59,11.18,0,0
+Random Forest Forecasting Model in Scikit-Learn,Climate Related Disasters Frequency,B7cdMBs38jXzBgMUKzSl4,0.43,0.25,3.82,4.38,0,0
+Random Forest Forecasting Model in Scikit-Learn,Daily Stock Prices ,B7cdMBs38jXzBgMUKzSl4,57.95,1.66,224.5,12.17,0,0
+Random Forest Forecasting Model in Scikit-Learn,Daily Weather in 26 World Cities,B7cdMBs38jXzBgMUKzSl4,65.14,2.35,292.57,18.32,0,0
+Random Forest Forecasting Model in Scikit-Learn,GDP per Capita Change,B7cdMBs38jXzBgMUKzSl4,0.94,0.2,4.67,5.48,0,0
+Random Forest Forecasting Model in Scikit-Learn,Geometric Brownian Motion,B7cdMBs38jXzBgMUKzSl4,4.09,0.42,19.25,7.23,0,0
+Random Forest Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Daily Series,B7cdMBs38jXzBgMUKzSl4,41.09,0.63,131.53,14.77,0,0
+Random Forest Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Hourly Series,B7cdMBs38jXzBgMUKzSl4,48.42,0.4,42.49,43.82,0,0
+Random Forest Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Monthly Series,B7cdMBs38jXzBgMUKzSl4,10.45,0.39,15.07,13.8,0,0
+Random Forest Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Quarterly Series,B7cdMBs38jXzBgMUKzSl4,1.11,0.21,4.2,5.81,0,0
+Random Forest Forecasting Model in Scikit-Learn,M4 Forecasting Competition Sampled Yearly Series,B7cdMBs38jXzBgMUKzSl4,0.53,0.24,4.4,4.04,0,0
+Random Forest Forecasting Model in Scikit-Learn,Multi-Seasonality Timeseries With Covariates,B7cdMBs38jXzBgMUKzSl4,2.85,0.29,22.12,9.57,0,0
+Random Forest Forecasting Model in Scikit-Learn,Online Retail Sales,B7cdMBs38jXzBgMUKzSl4,14.94,0.35,25.27,5.5,0,0
+Random Forest Forecasting Model in Scikit-Learn,PJM Hourly Energy Consumption,B7cdMBs38jXzBgMUKzSl4,51.34,1.76,300.87,48.7,0,0
+Random Forest Forecasting Model in Scikit-Learn,Random Walk Dataset,B7cdMBs38jXzBgMUKzSl4,12.21,0.35,25.31,9.68,0,0
+Random Forest Forecasting Model in Scikit-Learn,Seattle Burke Gilman Trail,B7cdMBs38jXzBgMUKzSl4,127.9,0.87,551.79,78.93,0,0
+Random Forest Forecasting Model in Scikit-Learn,Smoke Test Forecasting,B7cdMBs38jXzBgMUKzSl4,0.34,0.14,1.44,2.69,0,0
+Random Forest Forecasting Model in Scikit-Learn,Sunspots,B7cdMBs38jXzBgMUKzSl4,51.63,0.57,33.08,46.75,0,0
+Random Forest Forecasting Model in Scikit-Learn,Theme Park Attendance,B7cdMBs38jXzBgMUKzSl4,1.37,0.57,3.85,8.11,0,0
+Ridge Forecaster in Skforecast,ARIMA Process,zuUuIJMb8YQ5NLYmwkDl8,0.32,0.31,16.42,1.62,0,0
+Ridge Forecaster in Skforecast,Air Quality KDD 2018,zuUuIJMb8YQ5NLYmwkDl8,9.82,1.11,374.23,2.23,0,0
+Ridge Forecaster in Skforecast,Airline Passengers,zuUuIJMb8YQ5NLYmwkDl8,0.09,0.07,1.38,1.39,0,0
+Ridge Forecaster in Skforecast,Atmospheric CO2 Concentrations,zuUuIJMb8YQ5NLYmwkDl8,0.11,0.07,3.68,1.42,0,0
+Ridge Forecaster in Skforecast,Australian Beer Production,zuUuIJMb8YQ5NLYmwkDl8,0.08,0.06,1.38,1.38,0,0
+Ridge Forecaster in Skforecast,Avocado Sales,zuUuIJMb8YQ5NLYmwkDl8,1.73,1.06,91.91,2.67,0,0
+Ridge Forecaster in Skforecast,Bank Branch Transactions,zuUuIJMb8YQ5NLYmwkDl8,0.52,0.36,17.24,1.86,0,0
+Ridge Forecaster in Skforecast,Climate Related Disasters Frequency,zuUuIJMb8YQ5NLYmwkDl8,0.59,0.44,5.73,1.92,0,0
+Ridge Forecaster in Skforecast,Daily Stock Prices ,zuUuIJMb8YQ5NLYmwkDl8,1.49,0.55,26.93,1.94,0,0
+Ridge Forecaster in Skforecast,Daily Weather in 26 World Cities,zuUuIJMb8YQ5NLYmwkDl8,1.72,0.31,18.1,1.72,0,0
+Ridge Forecaster in Skforecast,GDP per Capita Change,zuUuIJMb8YQ5NLYmwkDl8,0.89,0.76,21.29,2.43,0,0
+Ridge Forecaster in Skforecast,Geometric Brownian Motion,zuUuIJMb8YQ5NLYmwkDl8,1.74,0.79,23.81,2.43,0,0
+Ridge Forecaster in Skforecast,M4 Forecasting Competition Sampled Daily Series,zuUuIJMb8YQ5NLYmwkDl8,1.17,1.06,155.81,2.26,0,0
+Ridge Forecaster in Skforecast,M4 Forecasting Competition Sampled Hourly Series,zuUuIJMb8YQ5NLYmwkDl8,0.7,0.73,105.01,1.93,0,0
+Ridge Forecaster in Skforecast,M4 Forecasting Competition Sampled Monthly Series,zuUuIJMb8YQ5NLYmwkDl8,1.03,0.98,94.6,2.35,0,0
+Ridge Forecaster in Skforecast,M4 Forecasting Competition Sampled Quarterly Series,zuUuIJMb8YQ5NLYmwkDl8,0.65,0.75,11.85,2.18,0,0
+Ridge Forecaster in Skforecast,M4 Forecasting Competition Sampled Yearly Series,zuUuIJMb8YQ5NLYmwkDl8,0.99,0.84,16.04,2.47,0,0
+Ridge Forecaster in Skforecast,Multi-Seasonality Timeseries With Covariates,zuUuIJMb8YQ5NLYmwkDl8,0.42,0.37,15.69,1.81,0,0
+Ridge Forecaster in Skforecast,Online Retail Sales,zuUuIJMb8YQ5NLYmwkDl8,0.52,0.48,24.84,1.88,0,0
+Ridge Forecaster in Skforecast,PJM Hourly Energy Consumption,zuUuIJMb8YQ5NLYmwkDl8,1.05,0.27,40.3,1.6,0,0
+Ridge Forecaster in Skforecast,Random Walk Dataset,zuUuIJMb8YQ5NLYmwkDl8,0.88,0.76,44.85,2.15,0,0
+Ridge Forecaster in Skforecast,Seattle Burke Gilman Trail,zuUuIJMb8YQ5NLYmwkDl8,0.48,0.23,75.68,1.65,0,0
+Ridge Forecaster in Skforecast,Smoke Test Forecasting,zuUuIJMb8YQ5NLYmwkDl8,0.13,0.11,1.38,1.38,0,0
+Ridge Forecaster in Skforecast,Sunspots,zuUuIJMb8YQ5NLYmwkDl8,0.21,0.09,17.69,1.51,0,0
+Ridge Forecaster in Skforecast,Theme Park Attendance,zuUuIJMb8YQ5NLYmwkDl8,0.38,0.09,3.32,1.57,0,0
+Single Exponential Smoothing Forecaster in NumPy,ARIMA Process,oYiQN3Jx8lWAW89BUekHc,0.14,0.08,2.28,1.37,0,0
+Single Exponential Smoothing Forecaster in NumPy,Air Quality KDD 2018,oYiQN3Jx8lWAW89BUekHc,8.91,0.13,58.5,1.49,0,0
+Single Exponential Smoothing Forecaster in NumPy,Airline Passengers,oYiQN3Jx8lWAW89BUekHc,0.05,0.05,1.38,1.36,0,0
+Single Exponential Smoothing Forecaster in NumPy,Atmospheric CO2 Concentrations,oYiQN3Jx8lWAW89BUekHc,0.08,0.06,1.42,1.36,0,0
+Single Exponential Smoothing Forecaster in NumPy,Australian Beer Production,oYiQN3Jx8lWAW89BUekHc,0.1,0.08,1.38,1.36,0,0
+Single Exponential Smoothing Forecaster in NumPy,Avocado Sales,oYiQN3Jx8lWAW89BUekHc,0.67,0.22,4.23,1.46,0,0
+Single Exponential Smoothing Forecaster in NumPy,Bank Branch Transactions,oYiQN3Jx8lWAW89BUekHc,0.25,0.11,2.06,1.38,0,0
+Single Exponential Smoothing Forecaster in NumPy,Climate Related Disasters Frequency,oYiQN3Jx8lWAW89BUekHc,0.16,0.12,1.48,1.36,0,0
+Single Exponential Smoothing Forecaster in NumPy,Daily Stock Prices ,oYiQN3Jx8lWAW89BUekHc,1.11,0.12,8.99,1.37,0,0
+Single Exponential Smoothing Forecaster in NumPy,Daily Weather in 26 World Cities,oYiQN3Jx8lWAW89BUekHc,1.54,0.12,18.02,1.38,0,0
+Single Exponential Smoothing Forecaster in NumPy,GDP per Capita Change,oYiQN3Jx8lWAW89BUekHc,0.18,0.18,1.55,1.39,0,0
+Single Exponential Smoothing Forecaster in NumPy,Geometric Brownian Motion,oYiQN3Jx8lWAW89BUekHc,0.36,0.25,5.3,1.37,0,0
+Single Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Daily Series,oYiQN3Jx8lWAW89BUekHc,0.41,0.15,7.7,1.4,0,0
+Single Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Hourly Series,oYiQN3Jx8lWAW89BUekHc,0.23,0.13,2.69,1.38,0,0
+Single Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Monthly Series,oYiQN3Jx8lWAW89BUekHc,0.26,0.18,2.79,1.4,0,0
+Single Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Quarterly Series,oYiQN3Jx8lWAW89BUekHc,0.2,0.16,1.51,1.39,0,0
+Single Exponential Smoothing Forecaster in NumPy,M4 Forecasting Competition Sampled Yearly Series,oYiQN3Jx8lWAW89BUekHc,0.19,0.2,1.47,1.39,0,0
+Single Exponential Smoothing Forecaster in NumPy,Multi-Seasonality Timeseries With Covariates,oYiQN3Jx8lWAW89BUekHc,0.19,0.11,2.54,1.37,0,0
+Single Exponential Smoothing Forecaster in NumPy,Online Retail Sales,oYiQN3Jx8lWAW89BUekHc,0.21,0.11,2.13,1.37,0,0
+Single Exponential Smoothing Forecaster in NumPy,PJM Hourly Energy Consumption,oYiQN3Jx8lWAW89BUekHc,0.93,0.07,11.27,1.37,0,0
+Single Exponential Smoothing Forecaster in NumPy,Random Walk Dataset,oYiQN3Jx8lWAW89BUekHc,0.27,0.19,3.66,1.38,0,0
+Single Exponential Smoothing Forecaster in NumPy,Seattle Burke Gilman Trail,oYiQN3Jx8lWAW89BUekHc,0.27,0.07,3.63,1.38,0,0
+Single Exponential Smoothing Forecaster in NumPy,Smoke Test Forecasting,oYiQN3Jx8lWAW89BUekHc,0.05,0.05,1.39,1.36,0,0
+Single Exponential Smoothing Forecaster in NumPy,Sunspots,oYiQN3Jx8lWAW89BUekHc,0.09,0.05,1.51,1.36,0,0
+Single Exponential Smoothing Forecaster in NumPy,Theme Park Attendance,oYiQN3Jx8lWAW89BUekHc,0.29,0.08,3.32,1.5,0,0
+TBATS Forecaster in Darts,ARIMA Process,aS7gn1vZ3rrXD7Sge5I3g,4272.8,0.24,2.4,2.63,0,0
+TBATS Forecaster in Darts,Air Quality KDD 2018,aS7gn1vZ3rrXD7Sge5I3g,14266.42,0.4,62.79,5.96,0,0
+TBATS Forecaster in Darts,Airline Passengers,aS7gn1vZ3rrXD7Sge5I3g,95.15,0.05,1.39,1.37,0,0
+TBATS Forecaster in Darts,Atmospheric CO2 Concentrations,aS7gn1vZ3rrXD7Sge5I3g,474.99,0.08,1.43,1.4,0,0
+TBATS Forecaster in Darts,Australian Beer Production,aS7gn1vZ3rrXD7Sge5I3g,140.74,0.06,1.39,1.36,0,0
+TBATS Forecaster in Darts,Avocado Sales,aS7gn1vZ3rrXD7Sge5I3g,7432.59,1.28,6.51,7.09,0,0
+TBATS Forecaster in Darts,Bank Branch Transactions,aS7gn1vZ3rrXD7Sge5I3g,4788.27,0.38,2.35,3.23,0,0
+TBATS Forecaster in Darts,Climate Related Disasters Frequency,aS7gn1vZ3rrXD7Sge5I3g,671.54,0.52,1.76,3.72,0,0
+TBATS Forecaster in Darts,Daily Stock Prices ,aS7gn1vZ3rrXD7Sge5I3g,3729.43,0.47,9.21,3.93,0,0
+TBATS Forecaster in Darts,Daily Weather in 26 World Cities,aS7gn1vZ3rrXD7Sge5I3g,1611.7,0.29,18,2.84,0,0
+TBATS Forecaster in Darts,GDP per Capita Change,aS7gn1vZ3rrXD7Sge5I3g,1845.21,1.01,2.58,5.72,0,0
+TBATS Forecaster in Darts,Geometric Brownian Motion,aS7gn1vZ3rrXD7Sge5I3g,4912.5,0.93,5.88,5.83,0,0
+TBATS Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,aS7gn1vZ3rrXD7Sge5I3g,8636.58,0.58,8.33,5.49,0,0
+TBATS Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,aS7gn1vZ3rrXD7Sge5I3g,26929.6,0.33,3.62,3.61,0,0
+TBATS Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,aS7gn1vZ3rrXD7Sge5I3g,27314.46,0.94,5.12,6.65,0,0
+TBATS Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,aS7gn1vZ3rrXD7Sge5I3g,11294.35,0.85,2.41,5.2,0,0
+TBATS Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,aS7gn1vZ3rrXD7Sge5I3g,5606.15,1.14,2.67,6.14,0,0
+TBATS Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,aS7gn1vZ3rrXD7Sge5I3g,4346.92,0.37,2.51,2.88,0,0
+TBATS Forecaster in Darts,Online Retail Sales,aS7gn1vZ3rrXD7Sge5I3g,662.25,0.39,2.87,3.73,0,0
+TBATS Forecaster in Darts,PJM Hourly Energy Consumption,aS7gn1vZ3rrXD7Sge5I3g,7347.41,0.16,11.25,2.42,0,0
+TBATS Forecaster in Darts,Random Walk Dataset,aS7gn1vZ3rrXD7Sge5I3g,2187.43,0.63,4.71,4.89,0,0
+TBATS Forecaster in Darts,Seattle Burke Gilman Trail,aS7gn1vZ3rrXD7Sge5I3g,744.3,0.11,4.17,2.06,0,0
+TBATS Forecaster in Darts,Smoke Test Forecasting,aS7gn1vZ3rrXD7Sge5I3g,120.5,0.08,1.4,1.48,0,0
+TBATS Forecaster in Darts,Sunspots,aS7gn1vZ3rrXD7Sge5I3g,341.57,0.1,1.5,1.48,0,0
+TBATS Forecaster in Darts,Theme Park Attendance,aS7gn1vZ3rrXD7Sge5I3g,192.88,0.08,3.3,1.55,0,0
+Temporal Fusion Transformer Forecaster in GluonTS,ARIMA Process,kBz63n5uvx5vksbE435wt,105.17,1.64,17.7,8.34,78.33,26.33
+Temporal Fusion Transformer Forecaster in GluonTS,Air Quality KDD 2018,kBz63n5uvx5vksbE435wt,186.05,1.86,88.57,17.6,316.14,69.96
+Temporal Fusion Transformer Forecaster in GluonTS,Airline Passengers,kBz63n5uvx5vksbE435wt,155.08,0.86,14.51,5.33,40.11,16.92
+Temporal Fusion Transformer Forecaster in GluonTS,Atmospheric CO2 Concentrations,kBz63n5uvx5vksbE435wt,117.07,0.85,14.5,5.35,79.62,17.3
+Temporal Fusion Transformer Forecaster in GluonTS,Australian Beer Production,kBz63n5uvx5vksbE435wt,35.65,0.88,14.36,5.33,31.83,16.83
+Temporal Fusion Transformer Forecaster in GluonTS,Avocado Sales,kBz63n5uvx5vksbE435wt,195.81,2.13,22.07,18.43,49.82,21.86
+Temporal Fusion Transformer Forecaster in GluonTS,Bank Branch Transactions,kBz63n5uvx5vksbE435wt,133.4,1.91,18.46,11.24,50.91,22.97
+Temporal Fusion Transformer Forecaster in GluonTS,Climate Related Disasters Frequency,kBz63n5uvx5vksbE435wt,88.7,1.8,17.35,10.88,34.15,18.82
+Temporal Fusion Transformer Forecaster in GluonTS,Daily Stock Prices ,kBz63n5uvx5vksbE435wt,54.48,2.23,22.33,13.04,63.88,25.32
+Temporal Fusion Transformer Forecaster in GluonTS,Daily Weather in 26 World Cities,kBz63n5uvx5vksbE435wt,186.89,1.39,26.04,16.18,76.7,24.75
+Temporal Fusion Transformer Forecaster in GluonTS,GDP per Capita Change,kBz63n5uvx5vksbE435wt,34.26,1.12,15.43,7.11,29.61,18.31
+Temporal Fusion Transformer Forecaster in GluonTS,Geometric Brownian Motion,kBz63n5uvx5vksbE435wt,55.27,1.44,19.58,10.46,43.73,20.87
+Temporal Fusion Transformer Forecaster in GluonTS,M4 Forecasting Competition Sampled Daily Series,kBz63n5uvx5vksbE435wt,69.38,1.18,19.82,8.6,102.24,36.97
+Temporal Fusion Transformer Forecaster in GluonTS,M4 Forecasting Competition Sampled Hourly Series,kBz63n5uvx5vksbE435wt,161.26,1.11,17.88,8.11,133.03,42.2
+Temporal Fusion Transformer Forecaster in GluonTS,M4 Forecasting Competition Sampled Monthly Series,kBz63n5uvx5vksbE435wt,74.28,1.2,16.6,7.32,44.3,24.38
+Temporal Fusion Transformer Forecaster in GluonTS,M4 Forecasting Competition Sampled Quarterly Series,kBz63n5uvx5vksbE435wt,96.56,1.2,15.54,6.89,34.87,20.43
+Temporal Fusion Transformer Forecaster in GluonTS,M4 Forecasting Competition Sampled Yearly Series,kBz63n5uvx5vksbE435wt,27.66,1.21,15.5,7.26,30.33,18.62
+Temporal Fusion Transformer Forecaster in GluonTS,Multi-Seasonality Timeseries With Covariates,kBz63n5uvx5vksbE435wt,161.49,1.32,19.3,11.66,49.76,21.5
+Temporal Fusion Transformer Forecaster in GluonTS,Online Retail Sales,kBz63n5uvx5vksbE435wt,61.84,1.08,17.05,7.94,53.12,24.2
+Temporal Fusion Transformer Forecaster in GluonTS,PJM Hourly Energy Consumption,kBz63n5uvx5vksbE435wt,301.3,1.01,20.82,7.12,133.03,25.5
+Temporal Fusion Transformer Forecaster in GluonTS,Random Walk Dataset,kBz63n5uvx5vksbE435wt,75.28,1.43,18.86,9.22,68.99,26.72
+Temporal Fusion Transformer Forecaster in GluonTS,Seattle Burke Gilman Trail,kBz63n5uvx5vksbE435wt,199.84,0.97,18.62,7.9,353.56,24.34
+Temporal Fusion Transformer Forecaster in GluonTS,Smoke Test Forecasting,kBz63n5uvx5vksbE435wt,109.49,1.08,17.09,8.12,45.84,17.68
+Temporal Fusion Transformer Forecaster in GluonTS,Sunspots,kBz63n5uvx5vksbE435wt,260.47,0.85,14.8,5.38,211.8,18.06
+Temporal Fusion Transformer Forecaster in GluonTS,Theme Park Attendance,kBz63n5uvx5vksbE435wt,509.18,1.85,40.77,32.71,217.82,20.83
+Theta Forecaster in Darts,ARIMA Process,vi1x4MUsaNFGjNjxtmHxK,0.75,0.29,3.19,0.67,0,0
+Theta Forecaster in Darts,Air Quality KDD 2018,vi1x4MUsaNFGjNjxtmHxK,11.17,5.08,61.32,4.26,0,0
+Theta Forecaster in Darts,Airline Passengers,vi1x4MUsaNFGjNjxtmHxK,0.04,0.01,0.62,0.26,0,0
+Theta Forecaster in Darts,Atmospheric CO2 Concentrations,vi1x4MUsaNFGjNjxtmHxK,0.02,0.01,0.43,0.23,0,0
+Theta Forecaster in Darts,Australian Beer Production,vi1x4MUsaNFGjNjxtmHxK,0.05,0.01,0.64,0.26,0,0
+Theta Forecaster in Darts,Avocado Sales,vi1x4MUsaNFGjNjxtmHxK,2.74,0.84,6.24,1.58,0,0
+Theta Forecaster in Darts,Bank Branch Transactions,vi1x4MUsaNFGjNjxtmHxK,0.79,0.26,2.18,0.67,0,0
+Theta Forecaster in Darts,Climate Related Disasters Frequency,vi1x4MUsaNFGjNjxtmHxK,1.17,0.37,2.08,0.73,0,0
+Theta Forecaster in Darts,Daily Stock Prices ,vi1x4MUsaNFGjNjxtmHxK,1.52,0.68,9.22,1.21,0,0
+Theta Forecaster in Darts,Daily Weather in 26 World Cities,vi1x4MUsaNFGjNjxtmHxK,1.1,0.38,8.75,0.78,0,0
+Theta Forecaster in Darts,GDP per Capita Change,vi1x4MUsaNFGjNjxtmHxK,2.11,0.65,3.35,1.1,0,0
+Theta Forecaster in Darts,Geometric Brownian Motion,vi1x4MUsaNFGjNjxtmHxK,2.35,0.95,8.27,1.59,0,0
+Theta Forecaster in Darts,M4 Forecasting Competition Sampled Daily Series,vi1x4MUsaNFGjNjxtmHxK,2,0.89,9.88,1.63,0,0
+Theta Forecaster in Darts,M4 Forecasting Competition Sampled Hourly Series,vi1x4MUsaNFGjNjxtmHxK,1.1,0.41,4.33,0.96,0,0
+Theta Forecaster in Darts,M4 Forecasting Competition Sampled Monthly Series,vi1x4MUsaNFGjNjxtmHxK,1.81,0.79,5.19,1.32,0,0
+Theta Forecaster in Darts,M4 Forecasting Competition Sampled Quarterly Series,vi1x4MUsaNFGjNjxtmHxK,1.43,0.65,2.8,1.03,0,0
+Theta Forecaster in Darts,M4 Forecasting Competition Sampled Yearly Series,vi1x4MUsaNFGjNjxtmHxK,1.26,0.64,2.96,1.18,0,0
+Theta Forecaster in Darts,Multi-Seasonality Timeseries With Covariates,vi1x4MUsaNFGjNjxtmHxK,0.88,0.29,2.32,0.7,0,0
+Theta Forecaster in Darts,Online Retail Sales,vi1x4MUsaNFGjNjxtmHxK,1.02,0.35,3.14,0.76,0,0
+Theta Forecaster in Darts,PJM Hourly Energy Consumption,vi1x4MUsaNFGjNjxtmHxK,3.06,1.36,14.48,1.82,0,0
+Theta Forecaster in Darts,Random Walk Dataset,vi1x4MUsaNFGjNjxtmHxK,1.6,0.67,5.77,1.28,0,0
+Theta Forecaster in Darts,Seattle Burke Gilman Trail,vi1x4MUsaNFGjNjxtmHxK,0.34,0.18,4.09,0.81,0,0
+Theta Forecaster in Darts,Smoke Test Forecasting,vi1x4MUsaNFGjNjxtmHxK,0.13,0.04,0.58,0.32,0,0
+Theta Forecaster in Darts,Sunspots,vi1x4MUsaNFGjNjxtmHxK,0.07,0.03,1,0.3,0,0
+Theta Forecaster in Darts,Theme Park Attendance,vi1x4MUsaNFGjNjxtmHxK,0.06,0.02,1.12,0.28,0,0
+Variational Encoder Forecasting Model with Pretraining,ARIMA Process,218ynQrfbj7xl1KPWwRdx,111.99,2.5,36.21,4.77,163.33,41.06
+Variational Encoder Forecasting Model with Pretraining,Air Quality KDD 2018,218ynQrfbj7xl1KPWwRdx,290.19,25.92,9588.79,82.92,773.11,67.09
+Variational Encoder Forecasting Model with Pretraining,Airline Passengers,218ynQrfbj7xl1KPWwRdx,70.15,2.33,15.96,4.42,111.09,33.68
+Variational Encoder Forecasting Model with Pretraining,Atmospheric CO2 Concentrations,218ynQrfbj7xl1KPWwRdx,87.37,2.36,35.89,4.54,266.55,34.4
+Variational Encoder Forecasting Model with Pretraining,Australian Beer Production,218ynQrfbj7xl1KPWwRdx,48.86,2.35,13.97,4.41,69.6,33.57
+Variational Encoder Forecasting Model with Pretraining,Avocado Sales,218ynQrfbj7xl1KPWwRdx,92.39,4.01,144.55,5.89,115.62,37.75
+Variational Encoder Forecasting Model with Pretraining,Bank Branch Transactions,218ynQrfbj7xl1KPWwRdx,63.49,2.68,108.2,4.75,110.12,38.3
+Variational Encoder Forecasting Model with Pretraining,Climate Related Disasters Frequency,218ynQrfbj7xl1KPWwRdx,26.73,2.62,19.99,4.56,52.93,34.96
+Variational Encoder Forecasting Model with Pretraining,Daily Stock Prices ,218ynQrfbj7xl1KPWwRdx,76.76,5.42,223.85,10.75,144.94,41.23
+Variational Encoder Forecasting Model with Pretraining,Daily Weather in 26 World Cities,218ynQrfbj7xl1KPWwRdx,81.64,6.93,386.57,17.87,204.63,38.08
+Variational Encoder Forecasting Model with Pretraining,GDP per Capita Change,218ynQrfbj7xl1KPWwRdx,33.43,2.56,13.47,4.5,61.98,35.71
+Variational Encoder Forecasting Model with Pretraining,Geometric Brownian Motion,218ynQrfbj7xl1KPWwRdx,45.6,2.96,19.28,5.55,77.77,37.08
+Variational Encoder Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Daily Series,218ynQrfbj7xl1KPWwRdx,124.97,3.15,130.75,7.48,311.12,53.74
+Variational Encoder Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Hourly Series,218ynQrfbj7xl1KPWwRdx,241.4,2.74,83.37,5.15,374.07,58.02
+Variational Encoder Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Monthly Series,218ynQrfbj7xl1KPWwRdx,87.97,2.81,31.43,4.9,136.31,41.83
+Variational Encoder Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Quarterly Series,218ynQrfbj7xl1KPWwRdx,41.84,2.57,14.4,4.53,69.33,36.29
+Variational Encoder Forecasting Model with Pretraining,M4 Forecasting Competition Sampled Yearly Series,218ynQrfbj7xl1KPWwRdx,39.8,2.53,13.25,4.49,51.2,34.93
+Variational Encoder Forecasting Model with Pretraining,Multi-Seasonality Timeseries With Covariates,218ynQrfbj7xl1KPWwRdx,48.85,2.71,52.43,4.82,83.46,37.15
+Variational Encoder Forecasting Model with Pretraining,Online Retail Sales,218ynQrfbj7xl1KPWwRdx,78.62,2.77,47.96,4.71,129.34,40.97
+Variational Encoder Forecasting Model with Pretraining,PJM Hourly Energy Consumption,218ynQrfbj7xl1KPWwRdx,199.73,4.34,300.81,12.98,378.53,41.47
+Variational Encoder Forecasting Model with Pretraining,Random Walk Dataset,218ynQrfbj7xl1KPWwRdx,68.78,2.8,32.26,5.24,143.06,42.5
+Variational Encoder Forecasting Model with Pretraining,Seattle Burke Gilman Trail,218ynQrfbj7xl1KPWwRdx,440.47,2.84,1061.55,7.33,1003.71,41.52
+Variational Encoder Forecasting Model with Pretraining,Smoke Test Forecasting,218ynQrfbj7xl1KPWwRdx,38.6,2.32,13.93,4.38,77.77,34
+Variational Encoder Forecasting Model with Pretraining,Sunspots,218ynQrfbj7xl1KPWwRdx,198.08,2.43,94.17,5.58,644.66,35.77
+Variational Encoder Forecasting Model with Pretraining,Theme Park Attendance,218ynQrfbj7xl1KPWwRdx,83.15,2.88,17.21,5.33,102.86,33.62
+Voting Forecaster in MLForecast,ARIMA Process,MHF9kqnbyiTF51q5MtH9u,30.35,12.31,30.17,20.52,0,0
+Voting Forecaster in MLForecast,Air Quality KDD 2018,MHF9kqnbyiTF51q5MtH9u,515.39,109.16,274.3,59.18,0,0
+Voting Forecaster in MLForecast,Airline Passengers,MHF9kqnbyiTF51q5MtH9u,9.23,8.76,22.85,21.65,0,0
+Voting Forecaster in MLForecast,Atmospheric CO2 Concentrations,MHF9kqnbyiTF51q5MtH9u,11.35,16.57,23.42,21.15,0,0
+Voting Forecaster in MLForecast,Australian Beer Production,MHF9kqnbyiTF51q5MtH9u,9.25,7.81,22.59,23.94,0,0
+Voting Forecaster in MLForecast,Avocado Sales,MHF9kqnbyiTF51q5MtH9u,25.8,8.9,29.1,22.03,0,0
+Voting Forecaster in MLForecast,Bank Branch Transactions,MHF9kqnbyiTF51q5MtH9u,14.29,8.13,24.25,21.92,0,0
+Voting Forecaster in MLForecast,Climate Related Disasters Frequency,MHF9kqnbyiTF51q5MtH9u,9.97,7.25,22.82,23.98,0,0
+Voting Forecaster in MLForecast,Daily Stock Prices ,MHF9kqnbyiTF51q5MtH9u,32.49,10.64,32.16,21.85,0,0
+Voting Forecaster in MLForecast,Daily Weather in 26 World Cities,MHF9kqnbyiTF51q5MtH9u,14.2,8.36,25.54,21.89,0,0
+Voting Forecaster in MLForecast,GDP per Capita Change,MHF9kqnbyiTF51q5MtH9u,11.36,7.37,23.93,24.02,0,0
+Voting Forecaster in MLForecast,Geometric Brownian Motion,MHF9kqnbyiTF51q5MtH9u,19.41,8.27,26.45,21.85,0,0
+Voting Forecaster in MLForecast,M4 Forecasting Competition Sampled Daily Series,MHF9kqnbyiTF51q5MtH9u,247.01,42.1,128.3,53.9,0,0
+Voting Forecaster in MLForecast,M4 Forecasting Competition Sampled Hourly Series,MHF9kqnbyiTF51q5MtH9u,182.87,39.39,102.06,36.89,0,0
+Voting Forecaster in MLForecast,M4 Forecasting Competition Sampled Monthly Series,MHF9kqnbyiTF51q5MtH9u,54.49,13.58,44.25,31.27,0,0
+Voting Forecaster in MLForecast,M4 Forecasting Competition Sampled Quarterly Series,MHF9kqnbyiTF51q5MtH9u,13.33,8.58,23.5,21.97,0,0
+Voting Forecaster in MLForecast,M4 Forecasting Competition Sampled Yearly Series,MHF9kqnbyiTF51q5MtH9u,10.94,7.26,23.61,23.65,0,0
+Voting Forecaster in MLForecast,Multi-Seasonality Timeseries With Covariates,MHF9kqnbyiTF51q5MtH9u,12.78,7.65,24.24,21.79,0,0
+Voting Forecaster in MLForecast,Online Retail Sales,MHF9kqnbyiTF51q5MtH9u,22.06,10.24,28.28,21.86,0,0
+Voting Forecaster in MLForecast,PJM Hourly Energy Consumption,MHF9kqnbyiTF51q5MtH9u,58.4,27.26,49.1,21.33,0,0
+Voting Forecaster in MLForecast,Random Walk Dataset,MHF9kqnbyiTF51q5MtH9u,54.63,13.47,42.8,28.68,0,0
+Voting Forecaster in MLForecast,Seattle Burke Gilman Trail,MHF9kqnbyiTF51q5MtH9u,76.25,90.51,80.65,21.82,0,0
+Voting Forecaster in MLForecast,Smoke Test Forecasting,MHF9kqnbyiTF51q5MtH9u,9.3,7.17,23.39,22.95,0,0
+Voting Forecaster in MLForecast,Sunspots,MHF9kqnbyiTF51q5MtH9u,24.93,59.72,32.79,21.19,0,0
+Voting Forecaster in MLForecast,Theme Park Attendance,MHF9kqnbyiTF51q5MtH9u,9.98,8.24,23.32,22.12,0,0
+XGBoost Forecasting Model - GPU,ARIMA Process,4GDllGtWKJLAX7aid02Aw,3.31,0.47,16.57,9.83,340.19,68.19
+XGBoost Forecasting Model - GPU,Air Quality KDD 2018,4GDllGtWKJLAX7aid02Aw,116,9.88,8686.3,92.39,690.19,256.19
+XGBoost Forecasting Model - GPU,Airline Passengers,4GDllGtWKJLAX7aid02Aw,0.92,0.34,1.5,3.37,332.19,22.19
+XGBoost Forecasting Model - GPU,Atmospheric CO2 Concentrations,4GDllGtWKJLAX7aid02Aw,5.93,0.46,7.24,13.12,366.19,18
+XGBoost Forecasting Model - GPU,Australian Beer Production,4GDllGtWKJLAX7aid02Aw,0.83,0.37,1.42,3.18,332.19,300.19
+XGBoost Forecasting Model - GPU,Avocado Sales,4GDllGtWKJLAX7aid02Aw,3.19,0.9,58.78,6.4,374.19,300.19
+XGBoost Forecasting Model - GPU,Bank Branch Transactions,4GDllGtWKJLAX7aid02Aw,2.55,0.52,35.24,5.47,372.19,300.19
+XGBoost Forecasting Model - GPU,Climate Related Disasters Frequency,4GDllGtWKJLAX7aid02Aw,0.72,0.41,3.66,3,332.19,300.19
+XGBoost Forecasting Model - GPU,Daily Stock Prices ,4GDllGtWKJLAX7aid02Aw,6.7,1.54,204.01,12.18,380.19,300.19
+XGBoost Forecasting Model - GPU,Daily Weather in 26 World Cities,4GDllGtWKJLAX7aid02Aw,7.09,2.06,264.19,18.35,456.19,300.19
+XGBoost Forecasting Model - GPU,GDP per Capita Change,4GDllGtWKJLAX7aid02Aw,0.68,0.37,2.13,2.97,332.19,18.19
+XGBoost Forecasting Model - GPU,Geometric Brownian Motion,4GDllGtWKJLAX7aid02Aw,1.27,0.56,17.72,6.91,334.19,18.12
+XGBoost Forecasting Model - GPU,M4 Forecasting Competition Sampled Daily Series,4GDllGtWKJLAX7aid02Aw,7.93,0.79,122.47,18.36,352.19,300.19
+XGBoost Forecasting Model - GPU,M4 Forecasting Competition Sampled Hourly Series,4GDllGtWKJLAX7aid02Aw,10.22,0.59,38.38,20.35,352.19,300.19
+XGBoost Forecasting Model - GPU,M4 Forecasting Competition Sampled Monthly Series,4GDllGtWKJLAX7aid02Aw,2.58,0.55,14.17,8.44,336.19,300.19
+XGBoost Forecasting Model - GPU,M4 Forecasting Competition Sampled Quarterly Series,4GDllGtWKJLAX7aid02Aw,1.17,0.39,2.85,4.7,332.19,300.19
+XGBoost Forecasting Model - GPU,M4 Forecasting Competition Sampled Yearly Series,4GDllGtWKJLAX7aid02Aw,0.71,0.37,1.77,3.14,332.19,18.19
+XGBoost Forecasting Model - GPU,Multi-Seasonality Timeseries With Covariates,4GDllGtWKJLAX7aid02Aw,1.38,0.43,21,4.42,338.19,68.19
+XGBoost Forecasting Model - GPU,Online Retail Sales,4GDllGtWKJLAX7aid02Aw,2.7,0.51,22.77,7.31,340.19,300.19
+XGBoost Forecasting Model - GPU,PJM Hourly Energy Consumption,4GDllGtWKJLAX7aid02Aw,11.09,1.79,272.3,24.15,352.19,300.19
+XGBoost Forecasting Model - GPU,Random Walk Dataset,4GDllGtWKJLAX7aid02Aw,2.66,0.53,23.65,8.72,338.19,300.19
+XGBoost Forecasting Model - GPU,Seattle Burke Gilman Trail,4GDllGtWKJLAX7aid02Aw,60.08,1.11,507.07,44.3,530.19,300.19
+XGBoost Forecasting Model - GPU,Smoke Test Forecasting,4GDllGtWKJLAX7aid02Aw,1.45,0.35,1.67,3.6,332.19,17.94
+XGBoost Forecasting Model - GPU,Sunspots,4GDllGtWKJLAX7aid02Aw,28.54,0.8,30.94,37.84,386.19,68.19
+XGBoost Forecasting Model - GPU,Theme Park Attendance,4GDllGtWKJLAX7aid02Aw,1.6,0.69,3.66,6.32,332.19,17.94
