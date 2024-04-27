@@ -122,7 +122,7 @@ def create_heatmap(project):
 
     plt.tight_layout()
     plt.savefig(
-        f'./../outputs/{project}/model_exec_durations_and_memory.png',
+        f'./../outputs/{project}/{project}_model_exec_durations_and_memory.png',
         dpi=300
     )
 
