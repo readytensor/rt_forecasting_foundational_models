@@ -171,23 +171,40 @@ def create_and_save_hp_impacts_chart(
 
 if __name__ == "__main__":
     # project name
-    project_name = "moirai"
+    project_name = "chronos"
+    # project_name = "moirai"
+
     # name of the model to analyze
-    model_name = "Moirai-large"
+    model_name = {
+        "moirai": "Moirai-large",
+        "chronos": "chronos_t5_large",
+    }
     # name of the column in data representing scenario name
     scenario_col = "scenario"
     # hyperparameters for the model
     hyperparameters = {
-        "num_samples": {
-            "type": "int"
+        "chronos": {
+            "num_samples": {
+                "type": "int"
+            },
+            "top_p": {
+                "type": "float"
+            },
+            "top_k": {
+                "type": "float"
+            },
+            "temperature": {
+                "type": "float"
+            },
         },
-        "context_length": {
-            "type": "int"
-        },
-        # "patch_size": {
-        #     "type": "categorical",
-        #     "categories": ["auto", "auto_dataset"]
-        # },
+        "moirai": {
+            "num_samples": {
+                "type": "int"
+            },
+            "context_length": {
+                "type": "int"
+            },
+        }
     }
     # metric column name in the data
     metric_col = "Root Mean Squared Scaled Error"
@@ -196,7 +213,8 @@ if __name__ == "__main__":
 
     y_range = [0.5, 1.0]
     create_and_save_hp_impacts_chart(
-        project_name, scenario_col, model_name, hyperparameters,
+        project_name, scenario_col, model_name[project_name],
+        hyperparameters[project_name],
         metric_col, metric_name, y_range,
     )
 
