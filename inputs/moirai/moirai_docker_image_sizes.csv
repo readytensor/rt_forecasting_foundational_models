@@ -18,7 +18,7 @@ Temporal Fusion Transformer Forecaster in GluonTS,7.21
 DeepAR Forecaster in GluonTS,9.99
 MLP Forecaster in NeuralForecast,7.93
 PatchTST Forecaster in GluonTS,7.2
-Variational Encoder Forecasting Model with Pretraining,7.34
+Variational Encoder Forecaster with TSMix in PyTorch,6.46
 NBeats Forecasting Model with Pretraining,7.34
 CNN forecaster using PyTorch,6.47
 PatchMixer Forecaster,11.66

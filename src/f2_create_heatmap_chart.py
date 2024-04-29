@@ -87,6 +87,6 @@ def create_and_save_heatmap(project):
 
 
 if __name__ == "__main__":
-    project = "chronos"
-    # project = "moirai"
+    # project = "chronos"
+    project = "moirai"
     create_and_save_heatmap(project)

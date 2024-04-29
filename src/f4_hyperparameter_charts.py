@@ -171,8 +171,8 @@ def create_and_save_hp_impacts_chart(
 
 if __name__ == "__main__":
     # project name
-    project_name = "chronos"
-    # project_name = "moirai"
+    # project_name = "chronos"
+    project_name = "moirai"
 
     # name of the model to analyze
     model_name = {

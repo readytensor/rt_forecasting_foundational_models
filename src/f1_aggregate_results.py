@@ -84,6 +84,6 @@ def aggregate_and_save_scores(project):
 
 
 if __name__ == "__main__":
-    project = "chronos"
-    # project = "moirai"
+    # project = "chronos"
+    project = "moirai"
     aggregate_and_save_scores(project)

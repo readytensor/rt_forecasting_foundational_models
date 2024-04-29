@@ -1,194 +1,194 @@
 model_name,model_external_id,model_category_id,metric_external_id,dataset_id,dataset_external_id,preview_metric_value,final_metric_value
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-107.626
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.309
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,51,air_quality_kdd_2018,NULL,-89.563
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,51,air_quality_kdd_2018,NULL,-1.406
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,51,air_quality_kdd_2018,NULL,-134.588
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,51,air_quality_kdd_2018,NULL,-83.986
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.633
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-67.897
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.774
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,51,air_quality_kdd_2018,NULL,-50.895
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.781
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,51,air_quality_kdd_2018,NULL,-82.166
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,51,air_quality_kdd_2018,NULL,-47.789
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.723
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,52,airline_passengers,NULL,-26.423
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,52,airline_passengers,NULL,-0.237
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,52,airline_passengers,NULL,-21.383
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,52,airline_passengers,NULL,-0.25
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,52,airline_passengers,NULL,-4.695
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,52,airline_passengers,NULL,-4.551
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,52,airline_passengers,NULL,0.93
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,52,airline_passengers,NULL,-17.552
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,52,airline_passengers,NULL,-0.157
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,52,airline_passengers,NULL,-14.587
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,52,airline_passengers,NULL,-0.17
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,52,airline_passengers,NULL,-2.998
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,52,airline_passengers,NULL,-3.104
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,52,airline_passengers,NULL,0.974
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,53,arima_process,NULL,-20.762
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,53,arima_process,NULL,-0.899
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,53,arima_process,NULL,-18.832
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,53,arima_process,NULL,-0.9
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,53,arima_process,NULL,-93.844
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,53,arima_process,NULL,-71.417
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,53,arima_process,NULL,0.409
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,53,arima_process,NULL,-20.036
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,53,arima_process,NULL,-0.917
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,53,arima_process,NULL,-18.524
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,53,arima_process,NULL,-0.91
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,53,arima_process,NULL,-92.985
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,53,arima_process,NULL,-70.234
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,53,arima_process,NULL,0.393
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,54,australian_beer_production,NULL,-12.786
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,54,australian_beer_production,NULL,-12.812
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,54,australian_beer_production,NULL,-0.333
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,54,australian_beer_production,NULL,-11.115
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,54,australian_beer_production,NULL,-0.374
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,54,australian_beer_production,NULL,-2.663
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,54,australian_beer_production,NULL,-2.611
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,54,australian_beer_production,NULL,0.906
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,54,australian_beer_production,NULL,-10.606
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,54,australian_beer_production,NULL,-0.357
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,54,australian_beer_production,NULL,-2.554
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,54,australian_beer_production,NULL,-2.491
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,54,australian_beer_production,NULL,0.893
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,55,bank_branch_transactions,NULL,-40.59
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.833
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,55,bank_branch_transactions,NULL,-33.736
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,55,bank_branch_transactions,NULL,-0.817
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,55,bank_branch_transactions,NULL,-26.438
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,55,bank_branch_transactions,NULL,-25.668
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,55,bank_branch_transactions,NULL,0.467
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,55,bank_branch_transactions,NULL,-41.987
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.861
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,55,bank_branch_transactions,NULL,-35.018
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,55,bank_branch_transactions,NULL,-0.847
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,55,bank_branch_transactions,NULL,-26.617
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,55,bank_branch_transactions,NULL,-27.141
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,55,bank_branch_transactions,NULL,0.488
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,56,daily_stock_prices,NULL,-1.871
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,56,daily_stock_prices,NULL,-1.098
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,56,daily_stock_prices,NULL,-1.612
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,56,daily_stock_prices,NULL,-1.094
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,56,daily_stock_prices,NULL,-4.821
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,56,daily_stock_prices,NULL,-4.961
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,56,daily_stock_prices,NULL,0.355
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,56,daily_stock_prices,NULL,-1.813
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,56,daily_stock_prices,NULL,-1.022
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,56,daily_stock_prices,NULL,-1.55
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,56,daily_stock_prices,NULL,-1.007
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,56,daily_stock_prices,NULL,-4.442
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,56,daily_stock_prices,NULL,-4.529
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,56,daily_stock_prices,NULL,0.297
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,57,daily_weather,NULL,-3.472
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,57,daily_weather,NULL,-1.02
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,57,daily_weather,NULL,-2.928
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,57,daily_weather,NULL,-1.019
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,57,daily_weather,NULL,-37.426
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,57,daily_weather,NULL,-29.925
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,57,daily_weather,NULL,0.146
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,57,daily_weather,NULL,-3.62
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,57,daily_weather,NULL,-1.057
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,57,daily_weather,NULL,-3.086
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,57,daily_weather,NULL,-1.062
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,57,daily_weather,NULL,-42.6
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,57,daily_weather,NULL,-31.817
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,57,daily_weather,NULL,0.137
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.583
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-1.092
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,59,geometric_brownian_motion,NULL,-4.036
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,59,geometric_brownian_motion,NULL,-1.101
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.446
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.463
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,59,geometric_brownian_motion,NULL,0.414
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.198
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-1.008
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.696
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,59,geometric_brownian_motion,NULL,-1.015
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.201
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.225
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,59,geometric_brownian_motion,NULL,0.383
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1873.382
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.508
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1703.925
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.48
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-24.666
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-16.804
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.849
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1671.601
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.51
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1442.445
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.494
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-22.496
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-22.525
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.845
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-138.156
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.314
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-126.171
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.335
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.337
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.371
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.695
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-152.018
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.228
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-140.442
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.26
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.539
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.532
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.625
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,64,online_retail_sales,NULL,-112.421
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,64,online_retail_sales,NULL,-1.094
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,64,online_retail_sales,NULL,-67.449
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,64,online_retail_sales,NULL,-1.149
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,64,online_retail_sales,NULL,-100.949
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,64,online_retail_sales,NULL,-96.414
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,64,online_retail_sales,NULL,0.143
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,64,online_retail_sales,NULL,-102.13
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,64,online_retail_sales,NULL,-1.241
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,64,online_retail_sales,NULL,-58.64
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,64,online_retail_sales,NULL,-1.22
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,64,online_retail_sales,NULL,-94.101
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,64,online_retail_sales,NULL,-95.902
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,64,online_retail_sales,NULL,0.189
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,68,theme_park_attendance,NULL,-7352.91
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.739
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,68,theme_park_attendance,NULL,-5559.878
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,68,theme_park_attendance,NULL,-0.673
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,68,theme_park_attendance,NULL,-19.706
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,68,theme_park_attendance,NULL,-22.293
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,68,theme_park_attendance,NULL,0.817
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,68,theme_park_attendance,NULL,-6448.97
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.648
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,68,theme_park_attendance,NULL,-4180.528
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,68,theme_park_attendance,NULL,-0.506
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,68,theme_park_attendance,NULL,-14.438
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,68,theme_park_attendance,NULL,-16.763
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,68,theme_park_attendance,NULL,0.841
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-0.772
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.059
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.641
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.052
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.154
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.154
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.964
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-2.491
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.192
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-2.054
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.165
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.495
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.494
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.763
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,71,avocado_sales,NULL,-194.893
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,71,avocado_sales,NULL,-0.868
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,71,avocado_sales,NULL,-131.436
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,71,avocado_sales,NULL,-0.904
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,71,avocado_sales,NULL,-21.054
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,71,avocado_sales,NULL,-23.116
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,71,avocado_sales,NULL,-191.031
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,71,avocado_sales,NULL,-1.013
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,71,avocado_sales,NULL,-148.305
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,71,avocado_sales,NULL,-1.107
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,71,avocado_sales,NULL,-24.145
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,71,avocado_sales,NULL,-27.949
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,71,avocado_sales,NULL,0.142
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,72,climate_related_disasters,NULL,-2.571
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.015
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,72,climate_related_disasters,NULL,-2.097
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,72,climate_related_disasters,NULL,-1.006
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,72,climate_related_disasters,NULL,-81.546
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,72,climate_related_disasters,NULL,-65.287
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,72,climate_related_disasters,NULL,0.293
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,72,climate_related_disasters,NULL,-2.531
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,72,climate_related_disasters,NULL,-0.998
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,72,climate_related_disasters,NULL,-2.078
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,72,climate_related_disasters,NULL,-0.986
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,72,climate_related_disasters,NULL,-80.099
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,72,climate_related_disasters,NULL,-64.51
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,72,climate_related_disasters,NULL,0.284
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.416
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.074
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.069
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.088
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,73,gdp_per_capita_growth,NULL,-90.835
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,73,gdp_per_capita_growth,NULL,-95.377
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.271
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.405
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.014
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.048
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.024
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,73,gdp_per_capita_growth,NULL,-88.036
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,73,gdp_per_capita_growth,NULL,-94.643
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.24
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-488.596
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.896
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-421.82
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.868
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-6.997
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-7.269
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.266
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-529.149
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-1.081
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-447.852
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-1.045
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-7.542
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-8.091
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.228
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-136.957
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.974
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-121.543
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-1.009
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.275
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.297
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.532
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-147.402
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.874
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-127.518
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.867
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.215
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.188
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.376
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-1230.474
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-1.533
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-1084.167
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-1.611
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-19.036
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-22.946
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.308
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-1045.951
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-1.305
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-913.421
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-1.367
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-17.242
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-19.943
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.248
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,77,pjm_energy_consumption,NULL,-3.42
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-1.268
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,77,pjm_energy_consumption,NULL,-2.932
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,77,pjm_energy_consumption,NULL,-1.25
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,77,pjm_energy_consumption,NULL,-27.945
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,77,pjm_energy_consumption,NULL,-25.554
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,77,pjm_energy_consumption,NULL,0.342
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,77,pjm_energy_consumption,NULL,-1.147
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.392
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,77,pjm_energy_consumption,NULL,-0.963
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.377
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,77,pjm_energy_consumption,NULL,-7.53
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,77,pjm_energy_consumption,NULL,-7.768
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,77,pjm_energy_consumption,NULL,0.961
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,78,random_walk,NULL,-0.897
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,78,random_walk,NULL,-1.151
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,78,random_walk,NULL,-0.788
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,78,random_walk,NULL,-1.169
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,78,random_walk,NULL,-34.413
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,78,random_walk,NULL,-34.095
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,78,random_walk,NULL,0.382
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,78,random_walk,NULL,-0.847
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,78,random_walk,NULL,-1.069
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,78,random_walk,NULL,-0.744
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,78,random_walk,NULL,-1.09
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,78,random_walk,NULL,-33.01
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,78,random_walk,NULL,-32.791
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,78,random_walk,NULL,0.227
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-9.419
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.469
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-6.964
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.412
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-78.082
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-32.255
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.782
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-11.916
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.716
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-9.187
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.656
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-83.094
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-50.996
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.707
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,80,sunspots,NULL,-73.276
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,80,sunspots,NULL,-1.316
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,80,sunspots,NULL,-57.619
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,80,sunspots,NULL,-1.222
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,80,sunspots,NULL,-65.787
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,80,sunspots,NULL,-74.922
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,80,sunspots,NULL,0.436
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,80,sunspots,NULL,-50.054
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,80,sunspots,NULL,-0.899
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,80,sunspots,NULL,-38.389
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,80,sunspots,NULL,-0.814
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,80,sunspots,NULL,-54.793
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,80,sunspots,NULL,-49.917
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,80,sunspots,NULL,0.431
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-3.064
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.661
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,81,synthetic_multiseasonality,NULL,-2.095
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.619
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,81,synthetic_multiseasonality,NULL,-5.766
-"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,81,synthetic_multiseasonality,NULL,-5.818
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.985
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.636
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mae_fcst,81,synthetic_multiseasonality,NULL,-2.021
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.59
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,smape_fcst,81,synthetic_multiseasonality,NULL,-5.54
+"Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,wape_fcst,81,synthetic_multiseasonality,NULL,-5.576
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.647
 "Neural Prophet Forecaster",m-BkxCzzwJhOcAeI6cAGfqG,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
 "N-Linear Forecaster in Darts",m-EigYzufvpxpJRaySp68QL,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-114.255
@@ -8063,197 +8063,197 @@ TSMixer,m-Hpbqgn5k8BO61fWeZuN3D,5,perc_pred_missing_fcst,81,synthetic_multiseaso
 "PatchTST Forecaster in GluonTS",m-UOUi1LTS1BCg1EGyB3t0R,5,wape_fcst,81,synthetic_multiseasonality,NULL,-3.729
 "PatchTST Forecaster in GluonTS",m-UOUi1LTS1BCg1EGyB3t0R,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.69
 "PatchTST Forecaster in GluonTS",m-UOUi1LTS1BCg1EGyB3t0R,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-77.811
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.905
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,51,air_quality_kdd_2018,NULL,-60.081
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.924
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,51,air_quality_kdd_2018,NULL,-63.501
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,51,air_quality_kdd_2018,NULL,-55.857
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.22
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-92.826
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-1.101
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,51,air_quality_kdd_2018,NULL,-64.411
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.987
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,51,air_quality_kdd_2018,NULL,-64.064
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,51,air_quality_kdd_2018,NULL,-59.74
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.122
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,52,airline_passengers,NULL,-29.704
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,52,airline_passengers,NULL,-0.266
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,52,airline_passengers,NULL,-25.424
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,52,airline_passengers,NULL,-0.297
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,52,airline_passengers,NULL,-5.137
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,52,airline_passengers,NULL,-5.411
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,52,airline_passengers,NULL,0.944
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,52,airline_passengers,NULL,-25.81
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,52,airline_passengers,NULL,-0.231
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,52,airline_passengers,NULL,-21.061
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,52,airline_passengers,NULL,-0.246
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,52,airline_passengers,NULL,-4.841
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,52,airline_passengers,NULL,-4.482
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,52,airline_passengers,NULL,0.94
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,53,arima_process,NULL,-15.845
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,53,arima_process,NULL,-0.838
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,53,arima_process,NULL,-15.165
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,53,arima_process,NULL,-0.838
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,53,arima_process,NULL,-91.718
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,53,arima_process,NULL,-67.289
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,53,arima_process,NULL,0.421
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,53,arima_process,NULL,-28.833
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,53,arima_process,NULL,-0.906
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,53,arima_process,NULL,-27.597
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,53,arima_process,NULL,-0.902
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,53,arima_process,NULL,-96.85
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,53,arima_process,NULL,-67.87
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,53,arima_process,NULL,0.415
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,54,australian_beer_production,NULL,-17.012
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,54,australian_beer_production,NULL,-0.443
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,54,australian_beer_production,NULL,-14.026
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,54,australian_beer_production,NULL,-0.472
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,54,australian_beer_production,NULL,-3.222
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,54,australian_beer_production,NULL,-3.294
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,54,australian_beer_production,NULL,0.834
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,54,australian_beer_production,NULL,-11.375
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,54,australian_beer_production,NULL,-0.296
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,54,australian_beer_production,NULL,-10.363
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,54,australian_beer_production,NULL,-0.349
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,54,australian_beer_production,NULL,-2.438
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,54,australian_beer_production,NULL,-2.434
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,54,australian_beer_production,NULL,0.925
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,55,bank_branch_transactions,NULL,-44.18
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.909
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,55,bank_branch_transactions,NULL,-37.328
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,55,bank_branch_transactions,NULL,-0.9
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,55,bank_branch_transactions,NULL,-27.576
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,55,bank_branch_transactions,NULL,-27.914
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,55,bank_branch_transactions,NULL,0.327
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,55,bank_branch_transactions,NULL,-51.703
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,55,bank_branch_transactions,NULL,-1.068
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,55,bank_branch_transactions,NULL,-44.132
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,55,bank_branch_transactions,NULL,-1.081
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,55,bank_branch_transactions,NULL,-32.749
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,55,bank_branch_transactions,NULL,-32.369
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,55,bank_branch_transactions,NULL,0.186
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,56,daily_stock_prices,NULL,-2.071
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,56,daily_stock_prices,NULL,-1.187
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,56,daily_stock_prices,NULL,-1.838
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,56,daily_stock_prices,NULL,-1.216
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,56,daily_stock_prices,NULL,-5.277
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,56,daily_stock_prices,NULL,-5.25
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,56,daily_stock_prices,NULL,0.077
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,56,daily_stock_prices,NULL,-2.087
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,56,daily_stock_prices,NULL,-1.263
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,56,daily_stock_prices,NULL,-1.858
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,56,daily_stock_prices,NULL,-1.296
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,56,daily_stock_prices,NULL,-5.369
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,56,daily_stock_prices,NULL,-5.563
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,56,daily_stock_prices,NULL,0.259
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,57,daily_weather,NULL,-4.067
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,57,daily_weather,NULL,-1.279
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,57,daily_weather,NULL,-3.538
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,57,daily_weather,NULL,-1.333
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,57,daily_weather,NULL,-43.385
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,57,daily_weather,NULL,-35.125
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,57,daily_weather,NULL,0.179
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,57,daily_weather,NULL,-5.192
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,57,daily_weather,NULL,-1.705
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,57,daily_weather,NULL,-4.622
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,57,daily_weather,NULL,-1.856
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,57,daily_weather,NULL,-53.407
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,57,daily_weather,NULL,-41.703
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,57,daily_weather,NULL,0.19
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,59,geometric_brownian_motion,NULL,-5.033
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-1.184
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,59,geometric_brownian_motion,NULL,-4.579
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,59,geometric_brownian_motion,NULL,-1.22
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.866
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.938
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,59,geometric_brownian_motion,NULL,0.202
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,59,geometric_brownian_motion,NULL,-4.888
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-1.171
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,59,geometric_brownian_motion,NULL,-4.388
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,59,geometric_brownian_motion,NULL,-1.201
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,59,geometric_brownian_motion,NULL,-3.684
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,59,geometric_brownian_motion,NULL,-3.686
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,59,geometric_brownian_motion,NULL,0.219
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1348.408
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.475
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1093.346
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.433
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-18.456
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-15.456
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-1607.113
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.484
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-1296.857
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.438
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-19.494
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-14.839
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.841
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-176.72
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.218
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-167.793
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.249
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.92
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.822
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.508
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-187.814
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.28
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-179.351
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.321
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-4.178
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-4.073
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.655
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,64,online_retail_sales,NULL,-118.092
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,64,online_retail_sales,NULL,-1.086
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,64,online_retail_sales,NULL,-67.789
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,64,online_retail_sales,NULL,-0.98
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,64,online_retail_sales,NULL,-110.422
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,64,online_retail_sales,NULL,-77.724
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,64,online_retail_sales,NULL,0.177
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,64,online_retail_sales,NULL,-129.042
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,64,online_retail_sales,NULL,-1.254
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,64,online_retail_sales,NULL,-80.133
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,64,online_retail_sales,NULL,-1.231
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,64,online_retail_sales,NULL,-175.977
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,64,online_retail_sales,NULL,-96.843
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,64,online_retail_sales,NULL,0.158
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,68,theme_park_attendance,NULL,-6597.257
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.663
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,68,theme_park_attendance,NULL,-4253.291
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,68,theme_park_attendance,NULL,-0.515
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,68,theme_park_attendance,NULL,-15.816
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,68,theme_park_attendance,NULL,-17.054
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,68,theme_park_attendance,NULL,0.764
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,68,theme_park_attendance,NULL,-6447.698
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.648
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,68,theme_park_attendance,NULL,-4829.607
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,68,theme_park_attendance,NULL,-0.585
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,68,theme_park_attendance,NULL,-20.297
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,68,theme_park_attendance,NULL,-19.365
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,68,theme_park_attendance,NULL,0.761
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-54.714
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-4.211
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-17.638
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-1.419
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-5.581
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-4.238
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.005
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-3.273
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.252
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-2.766
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.223
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.666
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.665
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.64
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,71,avocado_sales,NULL,-414.872
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,71,avocado_sales,NULL,-1.098
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,71,avocado_sales,NULL,-362.039
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,71,avocado_sales,NULL,-1.141
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,71,avocado_sales,NULL,-33.996
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,71,avocado_sales,NULL,-30.636
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,71,avocado_sales,NULL,0.073
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,71,avocado_sales,NULL,-280.873
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,71,avocado_sales,NULL,-0.901
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,71,avocado_sales,NULL,-233.727
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,71,avocado_sales,NULL,-0.914
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,71,avocado_sales,NULL,-25.976
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,71,avocado_sales,NULL,-24.644
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,71,avocado_sales,NULL,0.297
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,72,climate_related_disasters,NULL,-2.5
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,72,climate_related_disasters,NULL,-0.985
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,72,climate_related_disasters,NULL,-2.114
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,72,climate_related_disasters,NULL,-0.966
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,72,climate_related_disasters,NULL,-71.036
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,72,climate_related_disasters,NULL,-66.266
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,72,climate_related_disasters,NULL,0.265
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,72,climate_related_disasters,NULL,-2.472
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,72,climate_related_disasters,NULL,-0.986
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,72,climate_related_disasters,NULL,-2.109
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,72,climate_related_disasters,NULL,-0.981
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,72,climate_related_disasters,NULL,-69.13
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,72,climate_related_disasters,NULL,-67.357
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,72,climate_related_disasters,NULL,0.257
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.173
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-0.976
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,73,gdp_per_capita_growth,NULL,-1.818
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,73,gdp_per_capita_growth,NULL,-0.982
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,73,gdp_per_capita_growth,NULL,-84.252
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,73,gdp_per_capita_growth,NULL,-82.875
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.295
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.297
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.05
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,73,gdp_per_capita_growth,NULL,-1.926
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.057
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,73,gdp_per_capita_growth,NULL,-82.001
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,73,gdp_per_capita_growth,NULL,-94.744
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.294
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-547.037
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.969
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-487.142
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.964
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-7.517
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-7.843
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.468
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-490.533
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.918
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-431.729
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.939
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-7.457
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-7.779
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.367
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-161.426
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.997
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-143.16
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-1.02
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.919
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.815
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.409
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-152.55
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.93
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-132.478
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.922
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.504
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.466
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.254
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-1003.009
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-1.172
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-886.277
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-1.247
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-16.641
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-19.015
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.366
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-896.159
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.978
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-780.462
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-1.01
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-15.813
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-16.291
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.345
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.023
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.761
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.692
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.732
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,77,pjm_energy_consumption,NULL,-15.107
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,77,pjm_energy_consumption,NULL,-15.073
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,77,pjm_energy_consumption,NULL,0.853
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,77,pjm_energy_consumption,NULL,-1.677
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.597
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,77,pjm_energy_consumption,NULL,-1.433
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.594
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,77,pjm_energy_consumption,NULL,-12.088
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,77,pjm_energy_consumption,NULL,-12.136
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,77,pjm_energy_consumption,NULL,0.931
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,78,random_walk,NULL,-0.924
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,78,random_walk,NULL,-1.173
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,78,random_walk,NULL,-0.824
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,78,random_walk,NULL,-1.22
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,78,random_walk,NULL,-32.054
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,78,random_walk,NULL,-34.858
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,78,random_walk,NULL,0.211
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,78,random_walk,NULL,-0.984
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,78,random_walk,NULL,-1.318
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,78,random_walk,NULL,-0.869
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,78,random_walk,NULL,-1.368
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,78,random_walk,NULL,-36.158
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,78,random_walk,NULL,-36.299
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,78,random_walk,NULL,0.264
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-13.168
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.559
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-8.247
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.436
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-74.614
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-34.277
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.714
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-13.132
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.556
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-8.438
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.443
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-77.334
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-34.832
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.712
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,80,sunspots,NULL,-37.008
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,80,sunspots,NULL,-0.665
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,80,sunspots,NULL,-30.301
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,80,sunspots,NULL,-0.643
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,80,sunspots,NULL,-67.839
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,80,sunspots,NULL,-39.401
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,80,sunspots,NULL,0.587
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,80,sunspots,NULL,-30.541
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,80,sunspots,NULL,-0.549
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,80,sunspots,NULL,-25.174
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,80,sunspots,NULL,-0.534
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,80,sunspots,NULL,-45.211
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,80,sunspots,NULL,-32.733
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,80,sunspots,NULL,0.774
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.764
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.584
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.791
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.523
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,81,synthetic_multiseasonality,NULL,-5.001
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,81,synthetic_multiseasonality,NULL,-5.058
-"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.696
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.446
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.499
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.416
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.4
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,smape_fcst,81,synthetic_multiseasonality,NULL,-3.824
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,wape_fcst,81,synthetic_multiseasonality,NULL,-3.825
+"LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.69
 "LagTST Forecaster in GluonTS",m-EqkJBUuF8uO76FkSdpi94,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
 "Simple FeedForward Forecaster in GluonTS",m-ZCjzkxPuAMtyavxWJ1JRL,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-77.133
 "Simple FeedForward Forecaster in GluonTS",m-ZCjzkxPuAMtyavxWJ1JRL,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.896
@@ -19199,3 +19199,195 @@ PatchMixer,m-MtkFjTTJrnU8GdemhBo5m,5,perc_pred_missing_fcst,81,synthetic_multise
 "Variational Encoder with pre-training by Kernel Synthesizer",m-wpUBBK481zPDQRUdVQu4I,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.166
 "Variational Encoder with pre-training by Kernel Synthesizer",m-wpUBBK481zPDQRUdVQu4I,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.699
 "Variational Encoder with pre-training by Kernel Synthesizer",m-wpUBBK481zPDQRUdVQu4I,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,51,air_quality_kdd_2018,NULL,-75.106
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,51,air_quality_kdd_2018,NULL,-0.872
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,51,air_quality_kdd_2018,NULL,-54.775
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,51,air_quality_kdd_2018,NULL,-0.843
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,51,air_quality_kdd_2018,NULL,-57.037
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,51,air_quality_kdd_2018,NULL,-50.744
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,51,air_quality_kdd_2018,NULL,0.323
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,51,air_quality_kdd_2018,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,52,airline_passengers,NULL,-14.715
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,52,airline_passengers,NULL,-0.132
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,52,airline_passengers,NULL,-11.754
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,52,airline_passengers,NULL,-0.137
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,52,airline_passengers,NULL,-2.476
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,52,airline_passengers,NULL,-2.501
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,52,airline_passengers,NULL,0.967
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,52,airline_passengers,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,53,arima_process,NULL,-12.204
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,53,arima_process,NULL,-0.903
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,53,arima_process,NULL,-10.925
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,53,arima_process,NULL,-0.89
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,53,arima_process,NULL,-106.022
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,53,arima_process,NULL,-73.955
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,53,arima_process,NULL,0.324
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,53,arima_process,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,54,australian_beer_production,NULL,-13.113
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,54,australian_beer_production,NULL,-0.341
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,54,australian_beer_production,NULL,-12.637
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,54,australian_beer_production,NULL,-0.426
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,54,australian_beer_production,NULL,-2.989
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,54,australian_beer_production,NULL,-2.968
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,54,australian_beer_production,NULL,0.893
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,54,australian_beer_production,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,55,bank_branch_transactions,NULL,-36.369
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,55,bank_branch_transactions,NULL,-0.736
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,55,bank_branch_transactions,NULL,-30.006
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,55,bank_branch_transactions,NULL,-0.717
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,55,bank_branch_transactions,NULL,-23.009
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,55,bank_branch_transactions,NULL,-22.334
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,55,bank_branch_transactions,NULL,0.556
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,55,bank_branch_transactions,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,56,daily_stock_prices,NULL,-1.729
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,56,daily_stock_prices,NULL,-0.894
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,56,daily_stock_prices,NULL,-1.496
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,56,daily_stock_prices,NULL,-0.883
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,56,daily_stock_prices,NULL,-4.02
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,56,daily_stock_prices,NULL,-4.074
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,56,daily_stock_prices,NULL,0.177
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,56,daily_stock_prices,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,57,daily_weather,NULL,-3.606
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,57,daily_weather,NULL,-1.013
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,57,daily_weather,NULL,-3.075
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,57,daily_weather,NULL,-1.027
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,57,daily_weather,NULL,-42.619
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,57,daily_weather,NULL,-32.89
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,57,daily_weather,NULL,0.198
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,57,daily_weather,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,59,geometric_brownian_motion,NULL,-3.999
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,59,geometric_brownian_motion,NULL,-0.955
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,59,geometric_brownian_motion,NULL,-3.501
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,59,geometric_brownian_motion,NULL,-0.964
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,59,geometric_brownian_motion,NULL,-2.963
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,59,geometric_brownian_motion,NULL,-2.978
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,59,geometric_brownian_motion,NULL,0.143
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,59,geometric_brownian_motion,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,60,m4_hourly_miscellaneous,NULL,-984.671
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,60,m4_hourly_miscellaneous,NULL,-0.432
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,60,m4_hourly_miscellaneous,NULL,-811.466
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,60,m4_hourly_miscellaneous,NULL,-0.399
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,60,m4_hourly_miscellaneous,NULL,-21.286
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,60,m4_hourly_miscellaneous,NULL,-16.22
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,60,m4_hourly_miscellaneous,NULL,0.838
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,60,m4_hourly_miscellaneous,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,61,m4_yearly_miscellaneous,NULL,-133.553
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,61,m4_yearly_miscellaneous,NULL,-1.081
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,61,m4_yearly_miscellaneous,NULL,-125.999
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,61,m4_yearly_miscellaneous,NULL,-1.131
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,61,m4_yearly_miscellaneous,NULL,-3.216
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,61,m4_yearly_miscellaneous,NULL,-3.189
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,61,m4_yearly_miscellaneous,NULL,0.693
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,61,m4_yearly_miscellaneous,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,64,online_retail_sales,NULL,-99.216
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,64,online_retail_sales,NULL,-0.974
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,64,online_retail_sales,NULL,-63.03
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,64,online_retail_sales,NULL,-1.014
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,64,online_retail_sales,NULL,-95.449
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,64,online_retail_sales,NULL,-85.027
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,64,online_retail_sales,NULL,0.144
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,64,online_retail_sales,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,68,theme_park_attendance,NULL,-5218.634
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,68,theme_park_attendance,NULL,-0.524
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,68,theme_park_attendance,NULL,-3071.017
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,68,theme_park_attendance,NULL,-0.372
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,68,theme_park_attendance,NULL,-11.58
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,68,theme_park_attendance,NULL,-12.314
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,68,theme_park_attendance,NULL,0.804
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,68,theme_park_attendance,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,70,atmospheric_co2_concentrations,NULL,-1.088
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,70,atmospheric_co2_concentrations,NULL,-0.084
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,70,atmospheric_co2_concentrations,NULL,-0.859
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,70,atmospheric_co2_concentrations,NULL,-0.069
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,70,atmospheric_co2_concentrations,NULL,-0.206
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,70,atmospheric_co2_concentrations,NULL,-0.206
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,70,atmospheric_co2_concentrations,NULL,0.95
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,70,atmospheric_co2_concentrations,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,71,avocado_sales,NULL,-281.362
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,71,avocado_sales,NULL,-0.975
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,71,avocado_sales,NULL,-212.453
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,71,avocado_sales,NULL,-0.993
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,71,avocado_sales,NULL,-25.402
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,71,avocado_sales,NULL,-25.634
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,71,avocado_sales,NULL,0.124
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,71,avocado_sales,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,72,climate_related_disasters,NULL,-2.584
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,72,climate_related_disasters,NULL,-1.004
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,72,climate_related_disasters,NULL,-2.177
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,72,climate_related_disasters,NULL,-1.008
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,72,climate_related_disasters,NULL,-75.17
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,72,climate_related_disasters,NULL,-70.192
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,72,climate_related_disasters,NULL,0.218
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,72,climate_related_disasters,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,73,gdp_per_capita_growth,NULL,-2.39
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,73,gdp_per_capita_growth,NULL,-1.026
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,73,gdp_per_capita_growth,NULL,-2.037
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,73,gdp_per_capita_growth,NULL,-1.033
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,73,gdp_per_capita_growth,NULL,-90.733
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,73,gdp_per_capita_growth,NULL,-93.673
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,73,gdp_per_capita_growth,NULL,0.259
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,73,gdp_per_capita_growth,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,74,m4_daily_miscellaneous,NULL,-409.832
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,74,m4_daily_miscellaneous,NULL,-0.662
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,74,m4_daily_miscellaneous,NULL,-351.678
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,74,m4_daily_miscellaneous,NULL,-0.642
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,74,m4_daily_miscellaneous,NULL,-5.462
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,74,m4_daily_miscellaneous,NULL,-5.478
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,74,m4_daily_miscellaneous,NULL,0.381
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,74,m4_daily_miscellaneous,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,75,m4_monthly_miscellaneous,NULL,-151.941
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,75,m4_monthly_miscellaneous,NULL,-0.893
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,75,m4_monthly_miscellaneous,NULL,-130.612
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,75,m4_monthly_miscellaneous,NULL,-0.886
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,75,m4_monthly_miscellaneous,NULL,-3.519
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,75,m4_monthly_miscellaneous,NULL,-3.439
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,75,m4_monthly_miscellaneous,NULL,0.398
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,75,m4_monthly_miscellaneous,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,76,m4_quarterly_miscellaneous,NULL,-834.323
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,76,m4_quarterly_miscellaneous,NULL,-0.862
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,76,m4_quarterly_miscellaneous,NULL,-709.189
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,76,m4_quarterly_miscellaneous,NULL,-0.855
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,76,m4_quarterly_miscellaneous,NULL,-13.603
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,76,m4_quarterly_miscellaneous,NULL,-14.627
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,76,m4_quarterly_miscellaneous,NULL,0.314
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,76,m4_quarterly_miscellaneous,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,77,pjm_energy_consumption,NULL,-2.384
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,77,pjm_energy_consumption,NULL,-0.834
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,77,pjm_energy_consumption,NULL,-2.064
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,77,pjm_energy_consumption,NULL,-0.831
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,77,pjm_energy_consumption,NULL,-17.85
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,77,pjm_energy_consumption,NULL,-17.059
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,77,pjm_energy_consumption,NULL,0.76
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,77,pjm_energy_consumption,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,78,random_walk,NULL,-0.837
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,78,random_walk,NULL,-1.049
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,78,random_walk,NULL,-0.733
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,78,random_walk,NULL,-1.07
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,78,random_walk,NULL,-33.32
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,78,random_walk,NULL,-33.514
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,78,random_walk,NULL,0.105
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,78,random_walk,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,79,seattle_burke_gilman_trail,NULL,-10.594
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,79,seattle_burke_gilman_trail,NULL,-0.513
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,79,seattle_burke_gilman_trail,NULL,-7.461
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,79,seattle_burke_gilman_trail,NULL,-0.429
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,79,seattle_burke_gilman_trail,NULL,-76.075
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,79,seattle_burke_gilman_trail,NULL,-33.584
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,79,seattle_burke_gilman_trail,NULL,0.775
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,79,seattle_burke_gilman_trail,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,80,sunspots,NULL,-45.492
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,80,sunspots,NULL,-0.817
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,80,sunspots,NULL,-36.958
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,80,sunspots,NULL,-0.784
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,80,sunspots,NULL,-57.54
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,80,sunspots,NULL,-48.057
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,80,sunspots,NULL,0.519
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,80,sunspots,NULL,-0
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmse_fcst,81,synthetic_multiseasonality,NULL,-2.624
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,rmsse_fcst,81,synthetic_multiseasonality,NULL,-0.559
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mae_fcst,81,synthetic_multiseasonality,NULL,-1.734
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,mase_fcst,81,synthetic_multiseasonality,NULL,-0.496
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,smape_fcst,81,synthetic_multiseasonality,NULL,-4.729
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,wape_fcst,81,synthetic_multiseasonality,NULL,-4.741
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,r2_fcst,81,synthetic_multiseasonality,NULL,0.648
+"Variational Encoder Forecaster with TSMix in PyTorch",m-lt5bVGceX8ncZnjKn0nho,5,perc_pred_missing_fcst,81,synthetic_multiseasonality,NULL,-0

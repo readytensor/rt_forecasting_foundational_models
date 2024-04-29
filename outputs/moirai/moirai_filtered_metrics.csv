@@ -18,9 +18,9 @@ Temporal Fusion Transformer Forecaster in GluonTS,Air Quality KDD 2018,186.05,1.
 DeepAR Forecaster in GluonTS,Air Quality KDD 2018,363.71,1.6,757.84,484.72,126.04,84.62
 MLP Forecaster in NeuralForecast,Air Quality KDD 2018,25.81,4.14,83.58,71.05,1995.3,13.95
 PatchTST Forecaster in GluonTS,Air Quality KDD 2018,164.7,1.46,118.06,25.95,126.99,33.04
-Variational Encoder Forecasting Model with Pretraining,Air Quality KDD 2018,290.19,25.92,9588.79,82.92,773.11,67.09
 NBeats Forecasting Model with Pretraining,Air Quality KDD 2018,1283.43,26.44,9588.78,82.92,923.97,2.05
 CNN forecaster using PyTorch,Air Quality KDD 2018,23.86,6.64,3304.3,530.25,76.57,27.57
+Variational Encoder Forecaster with TSMix in PyTorch,Air Quality KDD 2018,139.38,7.08,401.77,403.78,242.92,25.79
 PatchMixer Forecaster,Air Quality KDD 2018,429.87,1.92,734.59,634.87,207.0,41.31
 Moirai Small Forecaster,Air Quality KDD 2018,0.0,13.48,0.0,789.23,0.0,117.77
 Amazon Chronos-T5-Tiny Forecasting Model,Air Quality KDD 2018,0.0,14.87,0.0,63.76,0.0,633.88

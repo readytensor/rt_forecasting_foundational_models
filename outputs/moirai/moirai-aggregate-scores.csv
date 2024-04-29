@@ -18,9 +18,9 @@ Temporal Fusion Transformer Forecaster in GluonTS,neural network,0.73,0.90,0.82,
 DeepAR Forecaster in GluonTS,neural network,0.74,0.91,0.87,0.48,0.63,1.14,0.83,0.80
 MLP Forecaster in NeuralForecast,neural network,0.61,0.89,0.80,0.48,0.74,1.11,0.90,0.78
 PatchTST Forecaster in GluonTS,neural network,0.58,0.92,0.88,0.56,0.62,1.06,0.82,0.78
-Variational Encoder Forecasting Model with Pretraining,neural network,0.69,0.83,0.85,0.56,0.55,1.06,0.85,0.77
 NBeats Forecasting Model with Pretraining,neural network,0.71,0.82,0.86,0.46,0.52,1.05,0.89,0.76
 CNN forecaster using PyTorch,neural network,0.61,0.86,1.05,0.41,0.63,1.06,0.83,0.76
+Variational Encoder Forecaster with TSMix in PyTorch,neural network,0.66,0.81,0.86,0.48,0.60,1.04,0.87,0.76
 PatchMixer Forecaster,neural network,0.58,0.87,0.89,0.48,0.65,1.02,0.83,0.75
 Moirai Small Forecaster,foundational model,0.61,0.94,0.95,0.70,0.98,1.12,1.05,0.89
 Amazon Chronos-T5-Tiny Forecasting Model,foundational model,0.72,0.83,0.89,0.69,0.66,1.08,0.89,0.82

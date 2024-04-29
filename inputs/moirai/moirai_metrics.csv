@@ -699,6 +699,31 @@ Theta Forecaster in Darts,Seattle Burke Gilman Trail,vi1x4MUsaNFGjNjxtmHxK,0.34,
 Theta Forecaster in Darts,Smoke Test Forecasting,vi1x4MUsaNFGjNjxtmHxK,0.13,0.04,0.58,0.32,0,0
 Theta Forecaster in Darts,Sunspots,vi1x4MUsaNFGjNjxtmHxK,0.07,0.03,1,0.3,0,0
 Theta Forecaster in Darts,Theme Park Attendance,vi1x4MUsaNFGjNjxtmHxK,0.06,0.02,1.12,0.28,0,0
+Variational Encoder Forecaster with TSMix in PyTorch,ARIMA Process,iLXBqMFM4IMXL77Fuqd9m,123.82,1.8,400.62,392.55,78.74,11.85
+Variational Encoder Forecaster with TSMix in PyTorch,Air Quality KDD 2018,iLXBqMFM4IMXL77Fuqd9m,139.38,7.08,401.77,403.78,242.92,25.79
+Variational Encoder Forecaster with TSMix in PyTorch,Airline Passengers,iLXBqMFM4IMXL77Fuqd9m,48.02,1.75,393.56,448.63,55.79,9.76
+Variational Encoder Forecaster with TSMix in PyTorch,Atmospheric CO2 Concentrations,iLXBqMFM4IMXL77Fuqd9m,53.98,1.77,397.18,396.26,131.78,9.92
+Variational Encoder Forecaster with TSMix in PyTorch,Australian Beer Production,iLXBqMFM4IMXL77Fuqd9m,29.34,1.75,395.9,448,38.03,9.73
+Variational Encoder Forecaster with TSMix in PyTorch,Avocado Sales,iLXBqMFM4IMXL77Fuqd9m,87.46,2.03,394.89,393.68,43.62,14.15
+Variational Encoder Forecaster with TSMix in PyTorch,Bank Branch Transactions,iLXBqMFM4IMXL77Fuqd9m,48.73,2.15,392.78,391.13,47.48,10.8
+Variational Encoder Forecaster with TSMix in PyTorch,Climate Related Disasters Frequency,iLXBqMFM4IMXL77Fuqd9m,21.27,1.79,400.57,390.86,30.06,9.79
+Variational Encoder Forecaster with TSMix in PyTorch,Daily Stock Prices,iLXBqMFM4IMXL77Fuqd9m,59.82,2.32,391.59,400.52,59.26,13.59
+Variational Encoder Forecaster with TSMix in PyTorch,Daily Weather in 26 World Cities,iLXBqMFM4IMXL77Fuqd9m,45.81,2.69,395.03,398.57,51.18,10.22
+Variational Encoder Forecaster with TSMix in PyTorch,GDP per Capita Change,iLXBqMFM4IMXL77Fuqd9m,10.91,1.77,393.09,396.23,33.72,11.06
+Variational Encoder Forecaster with TSMix in PyTorch,Geometric Brownian Motion,iLXBqMFM4IMXL77Fuqd9m,31.79,1.87,394.57,393,41.74,12.9
+Variational Encoder Forecaster with TSMix in PyTorch,M4 Forecasting Competition Sampled Daily Series,iLXBqMFM4IMXL77Fuqd9m,57.63,1.97,396.86,397.15,131.78,23.27
+Variational Encoder Forecaster with TSMix in PyTorch,M4 Forecasting Competition Sampled Hourly Series,iLXBqMFM4IMXL77Fuqd9m,146.71,1.83,392.75,392.48,151.89,19.09
+Variational Encoder Forecaster with TSMix in PyTorch,M4 Forecasting Competition Sampled Monthly Series,iLXBqMFM4IMXL77Fuqd9m,39.94,1.85,393.32,393.07,66.45,16.55
+Variational Encoder Forecaster with TSMix in PyTorch,M4 Forecasting Competition Sampled Quarterly Series,iLXBqMFM4IMXL77Fuqd9m,22.08,1.76,392.41,396.94,37.45,11.32
+Variational Encoder Forecaster with TSMix in PyTorch,M4 Forecasting Competition Sampled Yearly Series,iLXBqMFM4IMXL77Fuqd9m,14.21,1.77,391.64,396.59,29.97,9.99
+Variational Encoder Forecaster with TSMix in PyTorch,Multi-Seasonality Timeseries With Covariates,iLXBqMFM4IMXL77Fuqd9m,33.51,1.8,397.26,390.31,39.97,9.91
+Variational Encoder Forecaster with TSMix in PyTorch,Online Retail Sales,iLXBqMFM4IMXL77Fuqd9m,54,1.83,391.17,392.58,58.9,12.3
+Variational Encoder Forecaster with TSMix in PyTorch,PJM Hourly Energy Consumption,iLXBqMFM4IMXL77Fuqd9m,108.38,2.5,394.19,396.07,151.89,12.02
+Variational Encoder Forecaster with TSMix in PyTorch,Random Walk Dataset,iLXBqMFM4IMXL77Fuqd9m,56.43,1.83,393.71,393.52,68.24,16.16
+Variational Encoder Forecaster with TSMix in PyTorch,Seattle Burke Gilman Trail,iLXBqMFM4IMXL77Fuqd9m,339.32,2.02,393.14,394.16,332.86,12.46
+Variational Encoder Forecaster with TSMix in PyTorch,Smoke Test Forecasting,iLXBqMFM4IMXL77Fuqd9m,33.18,1.74,390.75,446.77,41.74,9.75
+Variational Encoder Forecaster with TSMix in PyTorch,Sunspots,iLXBqMFM4IMXL77Fuqd9m,109.59,1.85,405.63,394.71,285.54,10.4
+Variational Encoder Forecaster with TSMix in PyTorch,Theme Park Attendance,iLXBqMFM4IMXL77Fuqd9m,30.82,1.92,391.95,392.34,50.78,9.76
 Variational Encoder Forecasting Model with Pretraining,ARIMA Process,218ynQrfbj7xl1KPWwRdx,111.99,2.5,36.21,4.77,163.33,41.06
 Variational Encoder Forecasting Model with Pretraining,Air Quality KDD 2018,218ynQrfbj7xl1KPWwRdx,290.19,25.92,9588.79,82.92,773.11,67.09
 Variational Encoder Forecasting Model with Pretraining,Airline Passengers,218ynQrfbj7xl1KPWwRdx,70.15,2.33,15.96,4.42,111.09,33.68

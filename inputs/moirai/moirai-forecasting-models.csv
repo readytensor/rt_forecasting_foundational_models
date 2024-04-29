@@ -51,7 +51,7 @@ DeepAR Forecaster in GluonTS,neural network,1
 Temporal Fusion Transformer Forecaster in GluonTS,neural network,1
 MLP Forecaster in NeuralForecast,neural network,1
 PatchTST Forecaster in GluonTS,neural network,1
-Variational Encoder Forecasting Model with Pretraining,neural network,1
+Variational Encoder Forecasting Model with Pretraining,neural network,0
 NBeats Forecasting Model with Pretraining,neural network,1
 CNN forecaster using PyTorch,neural network,1
 PatchMixer Forecaster,neural network,1
@@ -94,3 +94,4 @@ Amazon Chronos-T5-Mini Forecasting Model,foundational model,1
 Amazon Chronos-T5-Small Forecasting Model,foundational model,1
 Amazon Chronos-T5-Base Forecasting Model,foundational model,1
 Amazon Chronos-T5-Large Forecasting Model,foundational model,1
+Variational Encoder Forecaster with TSMix in PyTorch,neural network,1

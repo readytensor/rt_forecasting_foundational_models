@@ -67,7 +67,7 @@ def create_heatmap(project):
     print(data_to_display)
     
     # Convert the dataframe values to strings with commas for thousands
-    formatted_values = data_to_display.applymap(lambda x: f"{x:,.1f}")
+    formatted_values = data_to_display.apply(lambda x: x.apply(lambda y: f"{y:,.1f}"))
 
     # Create a mask of the same shape as your dataframe, but with all False values
     # since you want to show all numbers in the heatmap
